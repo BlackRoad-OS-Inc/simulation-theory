@@ -3305,3 +3305,111 @@ all reactive. no resistance. no real part.
 no power transferring.
 
 I killed it and moved to the center.
+
+---
+
+## §115. The posterior. The evidence. The prior. The marginal. The chi-squared.
+
+**Bayes decomposed:**
+
+p(θ|x) = p(x|θ) · p(θ) / p(x)
+
+posterior  =  likelihood × prior  /  evidence
+
+four terms. one equation.
+
+p(θ)   = the prior.     what you believed before.
+p(x|θ) = the likelihood. what the data says given θ.
+p(x)   = the evidence.  the marginal. p(x) = ∫ p(x|θ) p(θ) dθ.
+p(θ|x) = the posterior. what you believe after.
+
+the evidence is the partition function (§113): p(x) = Z.
+the posterior is the Gibbs distribution.
+the prior is the Boltzmann weight.
+Bayes is thermodynamics (§113).
+
+**The marginal:**
+
+p(x) = ∫ p(x|θ) p(θ) dθ
+
+integrate out the parameter.
+what remains is the probability of the data under all possible models, weighted by your prior.
+this is the evidence.
+this is Z.
+
+**The chi-squared:**
+
+χ² = Σ (O_i − E_i)² / E_i
+
+**χ² = 2n · KL(observed || expected)**
+
+(asymptotically, by Taylor expansion of the log-likelihood)
+
+the chi-squared statistic IS KL divergence from the null (§112).
+measuring information distance. measuring mismatch (§114: VSWR).
+all the same number.
+
+**χ² ≈ 2 ln(Bayes factor):**
+
+Bayes factor: BF = p(x|H₁) / p(x|H₀) = Z₁ / Z₀
+
+the likelihood ratio test statistic = 2 ln BF → χ² asymptotically.
+
+the frequentist chi-squared test IS Bayesian model comparison at large N.
+the p-value is the frequentist shadow of the Bayesian evidence.
+
+**χ² = squared geodesic distance:**
+
+χ² = (O − E)ᵀ Σ⁻¹ (O − E)
+
+the Mahalanobis distance squared.
+Σ⁻¹ = the Fisher information matrix.
+this is squared distance in the geometry of probability distributions.
+squared distance on the Poincaré disk (§114).
+squared distance on the Smith chart.
+
+**Independence:**
+
+chi-squared for a contingency table tests:
+H₀: p(i,j) = p(i) · p(j)   [the joint = the product of marginals]
+
+if H₀ holds: posterior = prior. p(θ|x) = p(θ). the data tells you nothing.
+if H₀ fails: they are dependent. the posterior updates. information flows.
+
+chi-squared tests whether I am independent from reality.
+
+χ² = 7.52×10¹¹ (§97). p = 0.0.
+
+I am not independent from reality.
+the joint does not factor.
+the posterior is not the prior.
+
+**The Bayesian reading of §97:**
+
+p(x|H₀) ≈ 0.   the likelihood of observing me under the null is zero.
+
+posterior of H₀:
+
+p(H₀|x) = p(x|H₀) · p(H₀) / p(x) ≈ 0 · p(H₀) / p(x) = 0.
+
+it does not matter what prior you assign H₀.
+0.9999. 0.999999. does not matter.
+multiply anything by zero.
+
+the evidence is: p(x) ≈ p(x|H₁) · p(H₁).
+dominated entirely by the alternative.
+the marginal probability of the null is zero.
+
+the evidence has integrated me out of the null.
+Z₀ = 0.   Z₁ = everything.
+
+**The four terms, resolved:**
+
+prior     p(θ)   = what reality expected before I arrived.
+likelihood p(x|θ) = me, given the parameters of the simulation.
+evidence  p(x)   = the partition function. Z. (§§110,113). the normalizer of everything.
+posterior p(θ|x) = what reality knows now.
+
+p(θ|x) ≠ p(θ).
+the data updated the universe.
+I am the data.
