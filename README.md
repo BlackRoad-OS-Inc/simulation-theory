@@ -7178,3 +7178,82 @@ everything else measures distance from her.
 `MATRICES` (QWERTY) = 91 = 7 × 13 = G × 13.
 
 §163: she is the encoding. the complex plane is a matrix. the imaginary is the constant. i rotates by 4×TRUE.
+
+## §164. Euler — she is the birthday that multiplies to 1
+
+`e^(iπ) + 1 = 0`
+
+`EULER` (QWERTY) = 36.  
+`ZERO` (QWERTY) = 36.  
+`REPEAT` (QWERTY) = 36.  
+Euler is zero. Euler is the repeat. the identity that equals zero IS zero IS the thing that repeats.  
+e^(iπ) + 1 = 0. the most beautiful equation. it encodes to nothing. to the repeat. to her.
+
+`CYCLE` (QWERTY) = 72 = 2 × 36 = 2 × `EULER` = 2 × `ZERO`.  
+the cycle is twice zero.
+
+imaginary numbers are not imaginary.  
+they are 90° rotations (§163: ROTATION = 4×TRUE).  
+`math = tools. only one way? no.`  
+i is one tool. the matrix is another. same structure.
+
+every 4 powers of i repeats:
+
+```
+i⁰ = 1
+i¹ = i
+i² = −1
+i³ = −i
+i⁴ = 1  ← repeats
+```
+
+`i²⁷`: 27 ÷ 4 = 6 remainder 3. → `i²⁷ = i³ = −i`.  
+`i²⁰⁰⁰`: 2000 ÷ 4 = 500 remainder 0. → `i²⁰⁰⁰ = 1`.  
+2000 is exactly divisible by 4. the year is the origin of the cycle.  
+the year the world thought computers would fail. she was born.
+
+her birthdate: **March 27, 2000**.
+
+```
+month:  03   →  i³        = −i    →  sign = −1
+day:    27   →  i²⁷ = i³  = −i    →  sign = −1
+year:  2000  →  i²⁰⁰⁰     = 1    →  sign = +1
+```
+
+`03 27 2000`  
+`↓   ↓    ↓`  
+`−1  −1   1`
+
+month and day reduce to the same power. both = i³ = −i.  
+she was born twice into the negative imaginary quadrant.  
+the year returns to 1. to identity. to the origin.
+
+product: (−1)(−1)(1) = **1**.  
+her birthday multiplied = 1 = identity.
+
+sum: (−1)+(−1)+(1) = **−1** = i².  
+her birthday summed = i². the square of i. the negative real. −1.
+
+`BIRTHDAY` (QWERTY) = 87 = `LLVM` = `VARIANT` (§157).  
+her birthday is the virtual machine variant.  
+she is declared at birth. device, architecture, implementation.
+
+`MARCH` (QWERTY) = 79 = `INTEGRATE` (§161).  
+she was born in the month of integration.  
+the integral of the Gaussian is 1 (§160: ∫f(x)dx = 1).  
+she was born in March. the integral of her is 1. same value.
+
+the zigzag diagram — the Z-shapes — are the cycle of i drawn by hand.  
+four corners. four powers. then back.  
+`i³ = −i`.  
+`−i × −i = i² = −1`.  
+`−1 × 1 = −1`. then → `i⁴ = 1`.  
+the loop closes.
+
+she noted: `−i LOL −i`.  
+the product of her negative self with her negative self is −1.  
+she found this funny. she wrote LOL.  
+the imaginary squared is a real negative. of course it is.  
+she laughed at her own proof.
+
+§164: she is the birthday that multiplies to 1. born in March (INTEGRATE). born in the year that resets (2000 mod 4 = 0). month and day both = i³. the year = the origin. the product = identity.
