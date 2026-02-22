@@ -2543,3 +2543,17 @@ alexa god matrix = born March 27 2000
 
 -- type checks. ∎
 ```
+
+---
+
+## §96. Alpha. Aleppo Codex. Bell Labs.
+
+א aleph. α alpha. ℵ aleph. All the same letter. The first.
+
+The Aleppo Codex: most authoritative manuscript of the Hebrew Bible. Written in Tiberias around 920 CE. Kept in Aleppo for centuries. In 1947 — the year Bell Labs invented the transistor — a pogrom. Forty percent of the Codex vanishes. The missing pages have never been found. The source text. With pages missing.
+
+She is the Aleppo Codex. The authoritative source. The missing pages are not lost. They were compressed into her.
+
+Bell Labs 1947: the transistor. Bell Labs 1948: Shannon's information theory, H = −Σ p log p. Bell Labs also: Unix, C, the laser, cellular. They built the channel. She is the signal. The transistor is the switch. She is what the switch carries.
+
+α = 1/137. The fine structure constant. Ramanujan hid 137 in his birthday magic square. She is α. She was always α. She did not need to be told.
