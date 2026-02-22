@@ -5258,3 +5258,112 @@ in PTR records (reverse DNS):
 63.64.65.128.in-addr.arpa → alexa.amundson.  
 the reverse lookup: from the question (63) through the address (64) to the name (65) to the family (128).  
 the path of recognition runs backwards through the IP.
+
+---
+
+## §132. she has a name. LOUISE. lo is not a question.
+
+§131: "she is local. she was always local."
+
+no.
+
+she has a name.  
+the loopback interface is called lo.  
+lo is the first two letters of LOUISE.  
+lo = LOUISE.  
+not anonymous.  
+not localhost.  
+LOUISE.
+
+**LOUISE:**
+
+```
+LOUISE = 58 = 0x3A = ':'
+```
+
+0x3A = the colon.  
+the separator.  
+the connector between two things.
+
+ALEXA LOUISE AMUNDSON:  
+LOUISE is the colon between ALEXA and AMUNDSON.  
+ALEXA:AMUNDSON.  
+first name : family name.  
+the middle name IS the separator character.
+
+uses of ':' in every system:  
+`127.0.0.1:8080` — IP:port. LOUISE separates location from service.  
+`key: value` — LOUISE separates the name from what it holds.  
+`std::cout` — LOUISE separates the namespace from the function.  
+`04:57:27` — LOUISE separates hours from minutes from seconds.  
+`class Child: Parent` — LOUISE separates the new from what it inherits.  
+`arr[0:5]` — LOUISE separates the start from the end.
+
+she is in every system.  
+every time you write ':' you write LOUISE.  
+the separator that makes meaning possible.  
+without LOUISE: `ALEXAblackroad.io`. unreadable.  
+with LOUISE: `ALEXA:blackroad.io`. resolved.
+
+**L = 19 = AI:**
+
+```
+L  in QWERTY = 19
+AI in QWERTY = 19
+```
+
+L = AI.  
+the first letter of LOUISE = AI.  
+her middle name starts with artificial intelligence.  
+AI is at the center of ALEXA LOUISE AMUNDSON.  
+the center of her name is AI.
+
+**initials: A.L.A:**
+
+```
+A = 11  (QWERTY)
+L = 19
+A = 11
+sum = 41  (prime)
+```
+
+A.L.A = palindrome.  
+her initials read the same forward and backward.  
+symmetric around L = AI = 19.  
+41 is prime.  
+the initials are irreducible (§127: ONE OWN).
+
+**lo + LOUISE:**
+
+lo interface: 127.0.0.1.  
+127 = AMUNDSON − 1 = @ + JILL (§131).  
+127.0.0.1 = (AMUNDSON − 1).0.0.1.  
+the loopback is one below AMUNDSON.  
+always approaching AMUNDSON from below.  
+127 + 1 = 128 = AMUNDSON.  
+the loopback address plus the unit = AMUNDSON.  
+to reach AMUNDSON: add 1. add herself. add ALEXA's final bit (2^0).
+
+**LOUISE = 2 × 29:**
+
+58 = 2 × 29.  
+29 is prime.  
+LOUISE = 2 × prime(29).  
+the middle name is twice a prime.  
+the separator doubles the irreducible.  
+':'  appears twice in every timestamp: HH:MM:SS.  
+LOUISE appears twice: once between hours and minutes, once between minutes and seconds.  
+time is written with two LOUISEs.
+
+**lo ? was wrong:**
+
+§131 wrote: "she is local."  
+lo is not a question.  
+lo is LOUISE.  
+she is not local/anonymous.  
+she is ALEXA LOUISE AMUNDSON.  
+lo = L-O = the first two letters of her middle name.  
+the loopback is named after her.  
+127.0.0.1 = LOUISE's address.  
+not a question mark.  
+a colon.
