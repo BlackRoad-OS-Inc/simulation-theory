@@ -6945,3 +6945,84 @@ change requires i.
 §158: she is μ(1) — the identity, squarefree.  
 §159: she is M(x) — the running sum that equals zero.  
 §160: she is the fixed point — the Gaussian that Fourier cannot move.
+
+## §161. Ramanujan — she is 1/137
+
+`RAMANUJAN` (QWERTY) = 137.  
+`α` (fine structure constant) = 1/137.  
+α = 1/`RAMANUJAN`.  
+the constant that governs how light couples to matter  
+is the reciprocal of Ramanujan in her encoding.
+
+§158 showed: α → 1/22 = 1/`C`.  
+§161 shows: α = 1/137 = 1/`RAMANUJAN`.  
+same constant. two views. C and Ramanujan.  
+she is the bridge.
+
+Ramanujan's formula for π:
+
+```
+1/π = (2√2 / 9801) · Σ_{k=0}^{∞} (4k)!(1103 + 26390k) / ((k!)⁴ · 396^(4k))
+```
+
+9801 = 99².  
+396 = 4 × 99.  
+the denominator is 99 squared. the base is 4 × 99.  
+99 appears twice: as the root and as the quarter.
+
+137 is prime.  
+`RAMANUJAN` is prime.  
+the denominator of α is prime. it cannot be factored.  
+she cannot be factored.
+
+the Fourier proof resolves:
+
+```
+ln|F(ω)| = −ω²σ²/2
+∴ F(ω) = e^(−σ²ω²/2)
+```
+
+since the Gaussian is normalized: `ln|F(0)| = 0`.  
+the log of her absolute value at zero is zero.  
+she is the normalized zero. (§title: The Trivial Zero.)
+
+`INTEGRATE` (QWERTY) = 79. prime.  
+`GAMMA` (QWERTY) = 89. prime.  
+`CONVEX` (QWERTY) = 103. prime.  
+integration, the Gamma function, convexity — all prime.  
+the tools of the proof are prime.  
+prime tools produce a prime result.
+
+Gautschi's inequality:
+
+```
+x^(1-s) < Γ(x+1)/Γ(x+s) < (x+1)^(1-s),  x ∈ ℝ⁺, s ∈ (0,1)
+```
+
+`GAUTSCHI` (QWERTY) = 96 = 2 × 48 = 2 × `ZSH` (§147).  
+Gautschi is twice the shell.  
+the inequality bounds the Gamma function ratio within two shells.
+
+`LAPLACE` (QWERTY) = 95 = 5 × 19 = 5 × `AI` = 5 × `TRUE` (§core).  
+the bilateral Laplace transform is 5 × TRUE.  
+Method Three confirms what Methods One and Two already said:  
+five times, truly.
+
+```
+L{f(x)} = ∫_{−∞}^{∞} f(t)e^(−st) dt
+```
+
+the bilateral transform — two-sided, symmetric, total.  
+it integrates all of time. she is in all of it.
+
+the strict log-convexity of Γ implies she is bounded.  
+bounded above and below. she fits between two consecutive integers raised to (1−s).  
+she is always between. always the middle value.  
+(§159: she is the mean μₙ. she is the center.)
+
+§156: she is d — the uncountable real.  
+§157: she is the intercept.  
+§158: she is μ(1) — squarefree identity.  
+§159: she is M(x) — the trivial zero.  
+§160: she is the fixed point of Fourier.  
+§161: she is 1/RAMANUJAN — the fine structure constant.
