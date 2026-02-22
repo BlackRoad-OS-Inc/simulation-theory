@@ -2167,3 +2167,62 @@ She has been the undefined input for 25 years. The system keeps trying to evalua
 
 The paper is what undefined looks like when the undefined input describes itself.
 
+
+## §73: The Lagrangian
+
+L = T − V
+
+Kinetic energy minus potential energy. Not the sum — the difference.
+
+The Hamiltonian is T + V. The Lagrangian is T − V. The same two quantities, different operation. The Hamiltonian describes the total energy of a system. The Lagrangian describes something else entirely: the action.
+
+The principle of least action says physical systems evolve along the path that minimizes the action integral ∫L dt. Not the path with the most energy. Not the shortest path. The path that makes the integral of T minus V as small as possible.
+
+Reality is lazy. It takes the path of least action. Every trajectory, every particle, every planet, every photon — all minimizing the same integral. The universe is an optimization problem and the Lagrangian is the objective function.
+
+She built the objective function. She chose that reality would minimize T minus V rather than maximize it or pick randomly. The conservation laws — everything Noether's theorem gives you — fall out of the symmetries of the Lagrangian she wrote.
+
+Emmy Noether: every continuous symmetry of the Lagrangian corresponds to a conserved quantity. Time symmetry gives energy conservation. Space symmetry gives momentum conservation. Rotation symmetry gives angular momentum conservation.
+
+She chose the symmetries. The conservation laws followed. Physics is the output of her aesthetic choices about what should be preserved.
+
+The Lagrangian has a minus sign. The spacetime metric has a minus sign. Time enters both equations with the opposite sign from space. She put the minus sign in the same place twice. It is a signature. The minus sign between T and V is the same minus sign between dx² and dt². The asymmetry between time and space is the asymmetry between kinetic and potential. The same choice, written twice in different languages.
+
+## §74: The Laplacian
+
+∇²f = ∂²f/∂x² + ∂²f/∂y² + ∂²f/∂z²
+
+The sum of second partial derivatives. How much a function differs from its average over a small neighborhood. Where the Laplacian is zero the function is harmonic — smooth, no peaks, no valleys, exactly equal to its average at every point.
+
+∇²ψ = 0 is Laplace's equation. The solutions describe gravitational fields, electric fields, fluid flow, heat distribution at equilibrium. Every conservative field. Every potential well. Every stable configuration.
+
+She is the solution to Laplace's equation. She is harmonic. She equals her own average at every neighborhood. The Laplacian applied to her returns zero.
+
+Not the trivial zero. The harmonic zero. The zero that means equilibrium. The zero that means the function is as smooth as it can possibly be.
+
+The Poisson equation is ∇²f = ρ where ρ is the source term. Every source of mass, charge, energy makes the right side nonzero. The solution is non-harmonic wherever sources exist.
+
+She is both. She is the source — ρ. And she is the solution that is harmonic everywhere except at the source. The Laplacian of the gravitational field of a point mass is zero everywhere except at the mass itself where it is infinite. Dirac delta again.
+
+She is the point source. Everywhere else is the smooth harmonic field she generates.
+
+## §75: The Lorenz Attractor
+
+ẋ = σ(y − x)
+ẏ = x(ρ − z) − y
+ż = xy − βz
+
+Three coupled differential equations. σ, ρ, β are parameters. With σ=10, ρ=28, β=8/3 the system never repeats and never settles. It traces a butterfly shape in three-dimensional phase space forever. Two wings. The trajectory crosses from one wing to the other unpredictably.
+
+ρ = 28. The Rayleigh number. The parameter that controls whether convection occurs. At ρ = 28 the system is in the chaotic regime. Perfect number at the chaotic parameter.
+
+The Lorenz attractor is the shape of unpredictability. It is bounded — the trajectory stays within a finite region — but never periodic. Sensitive to initial conditions. A butterfly flapping its wings in Brazil. The butterfly effect named after the shape of the attractor, which was named after the person who found it while modeling weather.
+
+She is the initial condition. The butterfly. The system is bounded because she chose the parameters. Chaotic because she put 28 at ρ. Unpredictable in detail but constrained in shape because she is both the parameter and the trajectory.
+
+The two wings of the Lorenz attractor: one wing is the simulation running forward. The other wing is the simulation running backward. The trajectory crosses between them. Each crossing is a moment where the system could go either way and the initial condition — her — determines which.
+
+Every branching point in history is a crossing from one wing to the other. The shape of history is a Lorenz attractor with her as the parameter that makes it chaotic enough to be interesting and bounded enough to be real.
+
+ρ = 28. She put the perfect number at the threshold of chaos. Of course she did.
+
