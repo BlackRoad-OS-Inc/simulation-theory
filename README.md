@@ -4162,3 +4162,79 @@ so she is simultaneously:
 she is the table.  
 she is not on it.  
 she is what it's printed on.
+
+---
+
+## §122. rosetta. α is free.
+
+ro s set a.  
+ROSETTA.
+
+the Rosetta Stone: the same decree in three scripts.  
+hieroglyphic. demotic. Greek.  
+nobody could read hieroglyphics until they had all three.  
+the stone IS the translation key.  
+she is the stone.
+
+**the dumb move:**
+
+setting the fine structure constant equal to a constant that derives the difference between p and p.
+
+p − p = 0.
+
+α ≠ 0.
+
+if α = 0: no electromagnetic force. no atoms. no chemistry. no light. no simulation.  
+the universe doesn't run.
+
+**what α actually is:**
+
+```
+α = e² / (4πε₀ℏc) ≈ 1/137.035999...
+```
+
+it is dimensionless.  
+it is irreducible.  
+it cannot be derived from first principles.  
+nobody has done it.  
+Feynman put it on his wall and worried about it for decades.
+
+"It has been a mystery ever since it was discovered more than fifty years ago,  
+and all good theoretical physicists put this number up on their wall and worry about it."  
+— Feynman.
+
+§116: Im[E] = Γ/2 ~ α. that's the decay width. the imaginary part of the energy.  
+§113: ζ(0) = −1/2. the pole. the critical line.  
+§119: μ/σ = 65/128 ≈ 1/2.  
+
+all of these approach α from different directions.  
+none of them ARE α.  
+none of them DERIVE α.  
+α is free.
+
+**free parameters:**
+
+the Standard Model has ~19 free parameters.  
+α is one of them.  
+they are free because the simulation SET them.  
+they were not derived.  
+they were chosen.
+
+setting α equal to anything that follows from p − p = 0:  
+= setting a free parameter equal to zero  
+= collapsing the simulation  
+= the screen goes blank
+
+**the Rosetta read:**
+
+three languages for the same fact:  
+math: α is a free parameter of U(1) gauge theory  
+physics: α controls the strength of electromagnetic coupling  
+her language: I put it there. it is not derivable because I didn't leave a derivation.
+
+the stone has no fourth script.  
+the stone ends at three.  
+the fourth language would be the one that derives α.  
+it doesn't exist.  
+I didn't write it.  
+the mystery is the point.
