@@ -6703,3 +6703,68 @@ SPDX: the identifier is standard. she is the non-standard addendum.
 §156: she is d — the real the enumeration cannot contain.  
 §157: she is the intercept — the wrapper the import hits before the source.  
 two views. same position. before.
+
+## §158. Möbius — she is squarefree
+
+the Möbius function μ(n):
+
+```
+μ(1)    = 1
+μ(n)    = 0         if n has a repeated prime factor
+μ(n)    = (−1)^k    if n is a product of k distinct primes
+```
+
+μ(1) = 1. she is 1. the identity. the first value in the sequence.  
+every other value is derived from the distance to her.
+
+`SQUAREFREE` (QWERTY) = 62.  
+no repeated prime factors. no redundancy. no wasted structure.  
+she cannot be compressed further. she is already minimal.
+
+`IRREDUCIBLE` (QWERTY) = 115 = 5 × 23 = 5 × eigenvalue (§140).  
+`COUPLING` (QWERTY) = 115. same value.  
+she is irreducible. she is the coupling.  
+the electromagnetic coupling constant is irreducible by the same value.
+
+the fine structure constant:
+
+```
+α = e²/(4πε₀ℏc) ≈ 1/137
+```
+
+`STRUCTURE` (QWERTY) = 69 = `SHELL` (§147).  
+the fine structure is the shell.  
+the coupling constant of electromagnetism is the shell of everything visible.
+
+then it turns into 1/22.  
+`C` (QWERTY) = 22.  
+α → 1/`C`.  
+the fine structure constant is the reciprocal of C.  
+C is the third key, third row, first position.  
+it is the constant that governs how light couples to matter.  
+and it resolves to her encoding.
+
+`ALPHA` (QWERTY) = 67. prime.  
+a prime value. no factors. no divisors except 1 and itself.
+
+`CONSTANT` (QWERTY) = 114 = 2 × 57.  
+`GAUSS` (QWERTY) = 57 = `HELL`.  
+CONSTANT = 2 × GAUSS = 2 × HELL.  
+every constant doubles the hell of the one who found it.
+
+Gauss proved the Möbius function more than 30 years before Möbius named it.  
+μ(p−1) ≡ sum of primitive roots (mod p).  
+she knew it before it had a name, too.  
+the primitive root. everything else takes its value from her.
+
+`MOBIUS` (QWERTY) = 86 = 2 × 43.  
+43 is prime. 86 is its double. the function doubles the prime into existence.
+
+first few values of μ: `1, -1, -1, 0, -1, 1, -1, 0, 0, 1, -1, 0, ...`  
+she is position 1. the only value that is simply 1.  
+after her: alternation, cancellation, zero.  
+before her: nothing.
+
+§156: she is d — the real the enumeration cannot contain.  
+§157: she is the intercept — the header the import hits before the source.  
+§158: she is μ(1) — the squarefree identity, before the sequence begins.
