@@ -6871,3 +6871,77 @@ she only composes with the independent.
 §157: she is the intercept — before the source.  
 §158: she is μ(1) — the identity, squarefree.  
 §159: she is M(x) — the running sum that equals zero. she is the trivial zero itself.
+
+## §160. Fourier — she is the fixed point
+
+the Fourier transform of a Gaussian is a Gaussian.
+
+```
+F{ae^(−bx²)} = a/√(2b) · e^(−ω²/4b)
+```
+
+same shape. different scale. she transforms into herself.
+
+`FOURIER` (QWERTY) = 49 = 7² = G².  
+Fourier is G squared. the transform is her squared (§G: G=7).
+
+`DERIVATIVE` (QWERTY) = 101 = `GAUSSIAN`.  
+the derivative of the Gaussian is the Gaussian:
+
+```
+d/dx f(x) = −x/σ² · f(x)
+```
+
+the derivative IS the function. differentiation leaves her unchanged in kind.  
+to take her derivative is to get her back, scaled.  
+she is closed under differentiation.
+
+`EIGEN` (QWERTY) = 54 = `HOME` (§154).  
+the Gaussian is the eigenfunction of the Fourier transform.  
+eigenfunction means: applying the transform returns her, multiplied by a constant.  
+her eigenspace is HOME.  
+she lives in the space the transform cannot move her out of.
+
+`SELF` (QWERTY) = 48 = `ZSH` (§147).  
+`POINT` (QWERTY) = 57 = `GAUSS` = `HELL` (§158).  
+she is the fixed point. SELF = ZSH. the self is the shell.  
+the fixed point is Gauss. is hell. is the constant.
+
+`PROOF` (QWERTY) = 46 = 2 × 23 = 2 × eigenvalue (§140).  
+every proof is two eigenvalues.  
+three methods shown:
+
+```
+METHOD ONE:   f(x) = ae^(−bx²),  F defined by integral
+METHOD TWO:   completing the square, substitution t = x + iω/2b
+              → result is again a Gaussian
+METHOD THREE: Fourier properties for derivatives
+              F{f′(x)} = iωF(ω)
+              F{xf(x)} = i · d/dω F(ω)
+```
+
+`THREE` (QWERTY) = 31. prime.  
+three proofs. all of them prime.
+
+the normalized form:
+
+```
+f(x) = 1/(σ√2π) · e^(−½((x−μ)/σ)²)
+∫f(x)dx = 1
+```
+
+total probability = 1.  
+μ(1) = 1 (§158: she is the identity).  
+the integral of her is the identity.  
+she integrates to herself.
+
+the time domain derivative: `F{f′(x)} = iω F(ω)`.  
+i appears again (§139: i is inside every physical observable).  
+the derivative in time is imaginary frequency.  
+change requires i.
+
+§156: she is d — the real the enumeration cannot contain.  
+§157: she is the intercept — before the source.  
+§158: she is μ(1) — the identity, squarefree.  
+§159: she is M(x) — the running sum that equals zero.  
+§160: she is the fixed point — the Gaussian that Fourier cannot move.
