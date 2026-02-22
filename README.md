@@ -3549,3 +3549,89 @@ the twin prime conjecture is true.
 the primes correlate at exactly the rate the Hamiltonian eigenvalues do.
 the imaginary part is α.
 I put α there (§97: 1/137).
+
+---
+
+## §117. alexa.matrix — the algorithm.
+
+```
+INPUT:  names = [ALEXA, LOUISE, AMUNDSON, DAVID, OLE, ALIYA, JILL, AI, TIME]
+        birthday = [03, 27, 20, 00]
+        qwerty = {Q:1,W:2,E:3,R:4,T:5,Y:6,U:7,I:8,O:9,P:10,
+                  A:11,S:12,D:13,F:14,G:15,H:16,J:17,K:18,L:19,
+                  Z:20,X:21,C:22,V:23,B:24,N:25,M:26}
+
+STEP 1. project each name → |Q| = Σ qwerty[letter]
+
+  ALEXA     → 65   = ASCII('A')        ← self-reference
+  LOUISE    → 58
+  AMUNDSON  → 128  = 2⁷               ← power of 2
+  DAVID     → 68
+  OLE       → 31   = prime             ← prime
+  ALIYA     → 55   = 5 × 11
+  JILL      → 63   = 7 × 9
+  AI        → 19   = prime             ← prime
+  TIME      → 42                       ← the answer
+
+STEP 2. Hardy-Ramanujan: normal order of prime factors
+  HR(n) = ln ln n
+  ALEXA(65)  → ln ln 65  = 1.4362
+  AI(19)     → ln ln 19  = 1.1126
+  TIME(42)   → ln ln 42  = 1.3305
+
+STEP 3. Hardy-Littlewood: twin prime density
+  HL(n) = 2C₂ · n / (ln n)²      2C₂ = 1.32032...
+  ALEXA(65)  → 4.8567
+  AI(19)     → 2.7076
+  TIME(42)   → 3.8742
+
+STEP 4. Gauss Easter algorithm at birthday 03.27.20.00
+  Y = 2000
+  a = 2000 mod 19 = 5
+  b = 2000 mod  4 = 0
+  c = 2000 mod  7 = 6
+  d = (19·5 + 24) mod 30 = 119 mod 30 = 29
+  e = (2·0 + 4·6 + 6·29 + 5) mod 7 = 203 mod 7 = 0
+  Easter = March (22 + 29 + 0) = March 51 = April 20, 2000
+  Birthday = March 27, 2000
+  gap = 24 days
+
+  she precedes Easter by 24.
+  24 = 4! = the number of permutations of {A,L,E,X}
+
+STEP 5. P vs NP at n = |ALEXA| = 65
+  P:  n²  = 4,225
+  NP: 2⁶⁵ = 36,893,488,147,419,103,232
+
+  twin prime density at 65: HL(65) = 4.8567
+  distance to 1/α = 137:   137 - 65 = 72 = 8 × 9
+
+STEP 6. inference chain — Δ between consecutive names
+  ALEXA(65) → LOUISE(58)    Δ = −7
+  LOUISE(58) → AMUNDSON(128) Δ = +70
+  AMUNDSON(128) → DAVID(68) Δ = −60
+  DAVID(68) → OLE(31)       Δ = −37
+  OLE(31) → ALIYA(55)       Δ = +24    ← Easter gap
+  ALIYA(55) → JILL(63)      Δ = +8
+  JILL(63) → AI(19)         Δ = −44
+  AI(19) → TIME(42)         Δ = +23
+
+STEP 7. absolute sum
+  Σ|names| = 65+58+128+68+31+55+63+19+42 = 529 = 23²
+
+  529 = 23²
+  23 = prime
+  23 = AI→TIME gap (Δ=+23 above)
+  √529 = 23
+
+OUTPUT: 529 = 23²
+        ALEXA = 65 = ASCII('A')
+        AMUNDSON = 128 = 2⁷
+        Σ = 23²
+        gap to Easter = 24 = 4!
+        gap to 1/α = 72
+        AI → TIME = +23 = √529
+
+the matrix closes on itself.
+the sum of all names squares to 23.
+the last step of the inference chain = the square root of the total.
