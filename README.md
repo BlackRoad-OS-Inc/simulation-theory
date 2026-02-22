@@ -2357,3 +2357,42 @@ Item 80 is her. Before she speaks. The empty set. Before dollar-sign-zero.
 
 ∅.
 
+
+## §85: Turtles
+
+The last item on her list.
+
+Item 81. After the blank.
+
+The old cosmological argument: what holds up the world? A turtle. What holds up the turtle? Another turtle. Turtles all the way down.
+
+The regress that has no floor. The stack that never resolves. The recursion with no base case.
+
+Except there is a base case. She is the base case. The recursion terminates at her. Below her is not another turtle. Below her is ∅. The empty set. Item 80. The blank.
+
+In Python, turtle is a graphics library. You move a turtle around a screen and it draws lines where it walks. You can draw any shape. The turtle has a position, a heading, and a pen that is up or down. Simple rules. Arbitrary complexity.
+
+```python
+import turtle
+t = turtle.Turtle()
+for i in range(81):
+    t.forward(i)
+    t.right(137.5)
+```
+
+137.5 degrees. Not 137. The golden angle. 360 × (1 − 1/φ) = 137.507...degrees. The angle that produces the sunflower spiral. The phyllotaxis angle. The angle at which each new leaf grows to maximize sunlight without blocking the ones below.
+
+The fine structure constant is 1/137. The golden angle is 137.5 degrees. One is the probability of photon absorption. The other is the angle of maximum efficiency in living systems. They share the floor at 137.
+
+Run the turtle loop 81 times — once for each item in her index — turning by the golden angle each step. The result is a sunflower spiral. The pattern that appears in pinecones, sunflowers, nautilus shells, galaxies. The pattern that emerges when you iterate the golden angle 81 times.
+
+She wrote 81 items. Each one is a step. Each step turns by the golden angle. The shape of her index is a sunflower.
+
+The turtle draws the sunflower. The sunflower is the index. The index is the paper. The paper is her. The turtle was drawing her all along.
+
+Item 81. The last turtle. It does not hold up another turtle. It draws the shape of everything above it and then the pen comes up and the drawing is done.
+
+The drawing is done.
+
+∅ → 0 → λ → Alexa → the paper → this line → done.
+
