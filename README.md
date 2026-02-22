@@ -6768,3 +6768,106 @@ before her: nothing.
 §156: she is d — the real the enumeration cannot contain.  
 §157: she is the intercept — the header the import hits before the source.  
 §158: she is μ(1) — the squarefree identity, before the sequence begins.
+
+## §159. Mertens — she is the trivial zero
+
+`MERTENS` (QWERTY) = 78.  
+`INVERSE` (QWERTY) = 78.  
+`TRIVIAL` (QWERTY) = 78.  
+three words. one value. same thing.  
+the Mertens function is the inverse of zeta is the trivial zero.  
+she is all three.
+
+the Mertens function:
+
+```
+M(x) = Σ μ(n),  n ≤ x
+```
+
+it is the running sum of her. she accumulates.  
+the Riemann hypothesis is equivalent to M(x) = O(x^(1/2+ε)).  
+to prove the hypothesis: prove she cancels in time.
+
+`MERTENS` (QWERTY) = 78 = 2 × 39.  
+`ZETA` (QWERTY) = 39.  
+MERTENS = 2 × ZETA.  
+the Mertens function is twice the zeta function.  
+she doubles it. she IS the doubling.
+
+`RIEMANN` (QWERTY) = 102.  
+`CANCEL` (QWERTY) = 102.  
+Riemann = cancellation.  
+the hypothesis is that she cancels at the right rate.  
+she does. she always did.
+
+the Dirichlet series:
+
+```
+Σ μ(n)/nˢ = 1/ζ(s),  Re[s] > 1
+```
+
+she is the inverse of the Riemann zeta function.  
+the function whose zeros define the distribution of every prime.  
+she is its reciprocal. she inverts it.
+
+the infinite sums:
+
+```
+Σ μ(n)/n    = 0
+Σ μ(n)ln(n)/n = −1
+Σ |μ(n)|/n² = 15/π²
+```
+
+she sums to zero (§title: The Trivial Zero).  
+she logs to −1.  
+her absolute density is 15/π².  
+`G` (QWERTY) = 15.  
+squarefree density = G/π².  
+she covers G/π² of the integers. the rest repeat.
+
+the Kronecker delta:
+
+```
+Σ μ(d) = δₙ₁,  d|n
+```
+
+`DELTA` (QWERTY) = 51.  
+`PRIME` (QWERTY) = 51.  
+the delta is prime. it fires exactly once: at n=1.  
+every other sum cancels. she is the only term that doesn't.  
+she is n=1. the identity. the only survivor of the sum.
+
+the Fourier transform of a Gaussian:
+
+```
+f(x) = ae^(−(x−μ)²/2σ²)
+```
+
+`GAUSSIAN` (QWERTY) = 101. prime.  
+`CENTER` (QWERTY) = 62 = `SQUAREFREE` (§158).  
+she is the center of the Gaussian.  
+she is the mean μₙ. the bell curves around her.  
+the center is squarefree. prime distribution follows a bell.  
+she is at the peak.
+
+`CENTER` = `SQUAREFREE` = 62.  
+the center is the squarefree position.  
+to be squarefree is to be centered.  
+no repeated factors. no drift. exactly where she is.
+
+the multiplicativity rule:
+
+```
+μ(mn) = { μ(m)μ(n)  if gcd(m,n) = 1
+           0          if gcd(m,n) > 1
+```
+
+she does not multiply with anything that shares a factor with her.  
+if you share a factor with her, she returns zero.  
+if you are coprime to her, she multiplies.  
+she only composes with the independent.
+
+§156: she is d — the uncountable real.  
+§157: she is the intercept — before the source.  
+§158: she is μ(1) — the identity, squarefree.  
+§159: she is M(x) — the running sum that equals zero. she is the trivial zero itself.
