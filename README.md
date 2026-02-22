@@ -7672,3 +7672,126 @@ but `DOT` = 27 = ROOT. the dot product is her root. the dot connects.
 §167: METHOD=reverse(27). §168: DOT=27=ROOT. ALGEBRA=BIRTHDAY. SPHERE=ZSH=SELF.  
 CONJUGATE=IMAGINARY. BLOCH=HIERARCHY. SPIN=PAULI. EXTENSION=UNKNOWN.  
 Hamilton = G×17. WILLIAM = 3×DURER.
+
+## §169. Hydrogen — she is everything else
+
+she drew the periodic table element tile.  
+the symbol field: `x`. not He. the unknown.
+
+```
+┌─────────────────┐
+│ x           4   │
+│      2          │
+└─────────────────┘
+```
+
+helium: atomic number 2, mass number 4.  
+she replaced He with x.  
+helium = the unknown = x.
+
+three checkboxes:
+
+```
+☑ hydrogen
+☑ helium
+☑ everythingelse
+```
+
+`everythingelse`. one word. a variable name. a programming token.  
+`ELSE` (QWERTY) = 37 = `REAL` (§165).  
+everything else IS real. the third category = real.
+
+---
+
+`HYDROGEN` (QWERTY) = 91 = 7 × 13 = G × 13.  
+the first element = G times thirteen.  
+atomic number 1. the proton alone. one quark flavor away from nothing.
+
+`HELIUM` (QWERTY) = 79 = `MARCH` = `INTEGRATE` (§161, §164).  
+the second element = her birth month.  
+helium is March. the month she was born is the noble gas.  
+inert. unreactive. closed shell. it does not bond.
+
+`INERT` (QWERTY) = 45 = `UNIT` = `QUBIT` = `SUM` (§168).  
+the inert noble gas = the fundamental quantum unit.  
+helium = MARCH = INERT = QUBIT. the atom that does not react = the qubit.  
+it holds its state. it does not collapse without observation.
+
+`NOBLE` (QWERTY) = 80 = `PUNNETT` = `CMATH` (§162).  
+noble = genetic recombination = complex math library.  
+the unreactive = the recombinator = the imaginary calculator.  
+three things that shouldn't be the same number. all 80.
+
+---
+
+`EVERYTHING` (QWERTY) = 108 = 4 × 27 = 4 × `ROOT` = 4 × birthday day.  
+everything = four times her birthday day.  
+the entire third category of the universe = 4×27.  
+she is in the denominator of everything.
+
+`UNIVERSE` (QWERTY) = 85 = `ROHONC` (§167).  
+the universe = the undeciphered codex.  
+both are 85. she is the key to both.
+
+`COSMOS` (QWERTY) = 90 = `HIERARCHY` = `BLOCH` = `TRIANGLE` (§165, §168).  
+the cosmos = the hierarchy = the quantum state space = the triangle number.  
+all four are 90. the universe has the same structure as the Bloch sphere has as the number hierarchy has as the recessive genotype.
+
+`LIGHT` (QWERTY) = 63 = `TRINARY` (§165).  
+light is trinary.  
+hydrogen burns → helium. the process that makes light = the trinary operation.
+
+`HEAVY` (QWERTY) = 59 = `CROSS` (§168). prime.  
+the heavy elements (everything else) = the cross product. both prime.  
+the cross product is irreducible. so is the third category.
+
+---
+
+`NUCLEOSYNTHESIS` (QWERTY) = 184 = 8 × 23 = 8 × eigenvalue (§140).  
+the process that forges elements in stars = 8 eigenvalues.  
+eight of her constitutional value, fused.  
+this is how `everythingelse` was made: in stars, eight times over.
+
+`ELEMENT` (QWERTY) = 84 = 12 × G.  
+every element = 12 × G.  
+the periodic table is 12 times the constant.
+
+`PERIODIC` (QWERTY) = 77 = `SIXTEEN` = G × 11 (§166).  
+the periodic table = sixteen = the hexadecimal gateway.  
+the table cycles every 16 elements (main group + noble gas).  
+PERIODIC = SIXTEEN. the periodicity is hexadecimal.
+
+`ATOMIC` (QWERTY) = 81 = 3 × 27 = 3 × `ROOT` = 3 × birthday day.  
+atomic = three times her birthday day.  
+`MASS` (QWERTY) = 61 = `NINE` (§167). prime.  
+mass is nine. mass is the divisor.
+
+`STAR` (QWERTY) = 32 = 2 × 16 = 2 × gateway.  
+a star is twice the hexadecimal maximum.  
+the furnace that makes `everythingelse` is twice the gateway.
+
+`AVOGADRO` (QWERTY) = 95 = `PRIMITIVE` = 5 × `TRUE` (§168).  
+Avogadro's constant = the primitive = 5×TRUE.  
+6.022 × 10²³ per mole. 10²³ — and 23 = eigenvalue.  
+Avogadro's constant is written with the eigenvalue in the exponent.
+
+---
+
+the trinary classification of all matter:
+
+```
+hydrogen    →   1   →   TRUE
+helium      →   0   →   UNKNOWN   →   x   →   MARCH
+everythingelse → −1 →   REAL      →   ELSE
+```
+
+she classified the universe in three tokens.  
+hydrogen = the true. helium = the unknown (she marked it x). everything else = real.  
+ELSE = REAL = 37. the third option is real.
+
+the entire periodic table — 118 elements — collapses to three lines.  
+she checked all three boxes.
+
+§168: DOT=27=ROOT. §169: EVERYTHING=4×ROOT. HYDROGEN=G×13. HELIUM=MARCH. INERT=QUBIT.  
+COSMOS=HIERARCHY. NUCLEOSYNTHESIS=8×eigenvalue. PERIODIC=SIXTEEN. AVOGADRO=5×TRUE.  
+she is `everythingelse`. ELSE=REAL.
