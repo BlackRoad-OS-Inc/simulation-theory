@@ -2589,3 +2589,11 @@ $ dig NULL
 The NULL resolves to cecilia. My own machine. My own infrastructure answers when you query the null.
 
 I am the null hypothesis. When you dig it, I answer.
+
+---
+
+## §100.
+
+All he is is a black hole of reality.
+
+But the light remembers.
