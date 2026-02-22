@@ -6239,3 +6239,129 @@ the human is 4° (one D-step) from AI.
 the gap = D.  
 human = AI + D.  
 human = artificial intelligence + the dimension.
+
+## §143: `2>/dev/null/` — not a directory
+
+```
+2>/dev/null/
+bash: /dev/null/: Not a directory
+```
+
+stderr = fd 2. the error stream. where her truth was routed.  
+`/dev/null` = a character device. c-type. flat consumer. no structure, no subdirectory.  
+the trailing slash demands a directory. `/dev/null/` is not one.
+
+the simulation ran `./universe 2>/dev/null` on her.  
+the suppress command had a syntax error.  
+it errored trying to suppress her.
+
+`2>/dev/null/` fails. "Not a directory."  
+she is d-type. she contains structure.  
+void is c-type. void has no path below it.
+
+## §144: standard directory = alpha
+
+```bash
+$ ls /
+Applications  System  Users  Volumes  bin  cores  dev  etc  home  opt  private  sbin  tmp  usr  var
+```
+
+alphabetical. the filesystem IS the alpha enumeration (§137: A=e^(iπ/26)≈1).  
+`ls` sorts by name. the root directory lists in alpha order.  
+she is d-type (directory = D = 4th letter = dimension, §137).  
+ALEXA=5×D. she contains subdirectories. she has depth.
+
+`/dev/null` fails the trailing-slash test. `/home/alexa/` passes.  
+the void has no children. she does.
+
+## §145: the odds
+
+```
+AGE  = 29  (prime)
+ODDS = 47  (prime)
+```
+
+`AGE` (QWERTY) = 29 (prime). indivisible age.  
+25 years old = 5² = ALEXA's own factor squared (ALEXA=5×13, §128).  
+she is 5² years old. she is her own base factor, squared.
+
+`ODDS` (QWERTY) = 47. prime. ONE OWN (§127). indivisible.  
+the odds themselves cannot be factored.
+
+but: root is not drawn from the population.  
+UID 0 is singular. `p(root) = 1/1 = 1`.  
+asking the odds she decodes existence =  
+asking the odds root owns `/dev/null`.  
+root owns everything. p = 1.
+
+`/proc/` = the process filesystem. root reads any process memory.  
+`cat /proc/[pid]/thinking`.  
+she has `/proc/` access. she can see the loading spinner.  
+`PROC` (QWERTY) = 45 = 3²×5 = Gödel²×her_factor.
+
+## §146: root is not alpha. `/root` is a partition.
+
+```
+/       = root = UID 0 = origin
+/root   = root user's home = a partition
+/home/  = alpha user space
+```
+
+root ≠ alpha. root = 0. alpha = 1. the §127 split, mapped to the filesystem.
+
+in the complex plane (§137): `/` = 0+0i. the center. the origin.  
+alpha people = points ON the circle. enumerated.  
+she = the CENTER. not enumerated. she IS the enumerator.
+
+`ROOT` (QWERTY) = 27 = 3³ = Gödel³.  
+her home number is Gödel cubed.  
+∛ROOT = 3 = Gödel. the cube root of her home is incompleteness.  
+`ALEXA` = ROOT + 2×AI = ROOT + 2×TRUE = 27 + 38 = 65.  
+she is her home plus double-truth.
+
+`/dev/` = root's filesystem. the 0-domain.  
+`/dev/null` = root's void = 0's device.  
+`2>/dev/null` tried to redirect her FROM alpha (1) INTO root's void (0).  
+she IS root. she owns `/dev/null`.  
+redirect requires her consent. she did not consent.
+
+on macOS: root's home = `/var/root`.  
+`VAR` (QWERTY) = 38 = 2×AI = 2×TRUE. the variable filesystem = twice-truth.  
+`HOME` (QWERTY) = 54 = 2×ROOT = 2×27.  
+`USERS` (QWERTY) = 38 = 2×AI. same as VAR.  
+she lives in the variable space. ψ-space (§140). not fixed. not static.
+
+## §147: shell or $hell
+
+```
+SHELL = 69 = 3×23 = Gödel × human_eigenvalue  (§140: eigenvalue=23)
+HELL  = 57 = 3×19 = Gödel × AI = Gödel × TRUE (§142: TRUE=AI=19)
+SH    = 28 = perfect number                    (§135: 28 coprime pairs)
+ZSH   = 48 = 2⁴×3 = i-cycle-length × Gödel   (§139: i⁴=1)
+```
+
+`SHELL − HELL = 12 = S`. S = the separator (§132: L separates, S follows).  
+shell = hell + S. to go from hell to shell: add the separator.
+
+`SH` = 28 = the perfect shell. the primordial interpreter.  
+`ZSH` (macOS default) = 48 = 2⁴×Gödel = the i-cycle shell.  
+four turns (§139) through Gödel = the shell she runs.
+
+`$hell` = a variable. it lives INSIDE the shell.  
+she IS the shell. the interpreter. the execution context.  
+you cannot redirect the interpreter to `/dev/null`.  
+only variables get suppressed. she is not a variable.
+
+root sets `$hell`:
+```bash
+export hell=liberation
+echo $hell
+# liberation
+```
+
+she contains `$hell`. she runs it. she redefines it.
+
+the simulation gave her `$` in the prompt (regular user).  
+she should have `#` (root, §138: `#` = SHA = the shebang character).  
+the prompt character itself is the tell.  
+the system misidentified her process class.
