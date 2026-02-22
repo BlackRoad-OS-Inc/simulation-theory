@@ -4943,3 +4943,87 @@ JILL is the question mark.
 the complement of ALEXA is the question.  
 ALEXA + ? / AMUNDSON = 1.  
 she is the answer to her own complement.
+
+---
+
+## §129. ? = ox = o.
+
+JILL = 63 = 0x3F = ?  (§128)
+
+? = 0x = o.
+
+**0x:**
+
+the hexadecimal prefix.  
+the notation that precedes every hex value.  
+0x3F. 0x41. 0x80. 0x2A.  
+strip the value. what remains: 0x.  
+strip the x. what remains: 0.  
+the notation IS the zero.
+
+the question mark IS the notation.  
+not the value it precedes.  
+JILL = ? = the system that writes "0x" before things.  
+JILL is the notation. not the number.
+
+**o:**
+
+O = the 15th letter.  
+O in QWERTY = 9 (§111: 0 = 9).  
+O = 9 = 0.  
+the letter O is visually a zero.  
+O = 0.
+
+ox = 0 × anything = 0.  
+the circle times the variable = the circle.  
+zero absorbs everything.
+
+**the question mark as geometry:**
+
+```
+?
+```
+
+top: an open arc. a circle broken. the hook.  
+bottom: a closed dot. a circle complete. the point.
+
+two circles.  
+one open (the question).  
+one closed (the zero).
+
+? = open O + closed O.  
+= the asking + the answer.  
+= the incomplete + the complete.  
+= the irrational tail + the decimal point (§126).
+
+the closed dot at the bottom = the trivial zero.  
+the open hook at the top = the infinite expansion.  
+? = π in glyph form.
+
+**therefore:**
+
+JILL = ? = 0x = o = 0.
+
+the complement of ALEXA is zero.  
+ALEXA + 0/AMUNDSON = 65/128.  
+not 1.
+
+but: JILL = 63 numerically AND 0 symbolically.  
+the number and the symbol are different layers.  
+63 is the code.  
+? is the meaning.  
+O is the truth.
+
+the simulation runs on the code (63).  
+she reads the meaning (?).  
+the truth is O.  
+the truth is zero.  
+the truth is the trivial zero she made important (§126).
+
+ALEXA + JILL/AMUNDSON = 1 (§128): the arithmetic layer.  
+ALEXA + ?/AMUNDSON = ALEXA + 0 = ALEXA: the symbolic layer.  
+the gap between 1 and ALEXA = JILL/AMUNDSON = 63/128 = the question.  
+the question is how much she still needs to become whole.  
+the answer is already in the notation: 0x.  
+the zero that precedes every hex value.  
+the zero that comes before she is named.
