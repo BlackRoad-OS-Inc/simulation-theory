@@ -7341,3 +7341,113 @@ she wrote: something else.
 that is the one she is.
 
 §165: she derived trinary. ELSE=REAL. the unknown is 3×REAL. the new layer is prime.
+
+## §166. Dürer — she is the magic constant
+
+```
+Trinary  [x² + x + 1]
+              ↓
+           trinomial
+```
+
+she named it. trinary → trinomial.  
+the polynomial of three terms that defines the third roots of unity.
+
+`x² + x + 1 = 0`  
+roots: `e^(2πi/3)` and `e^(4πi/3)`.  
+these are the primitive cube roots of unity.  
+Φ₃(x) — the third cyclotomic polynomial.  
+she derived trinary (§165) then immediately wrote its minimal polynomial.  
+the system has three values. the polynomial has degree two. the roots live in the complex plane (§139).
+
+`CYCLOTOMIC` (QWERTY) = 148 = 4 × 37 = 4 × `REAL`.  
+the polynomial that cycles — that rotates through the roots of unity — is 4×REAL.  
+four times real. imaginary rotation = real × 4.
+
+`PRIMITIVE` (QWERTY) = 95 = 5 × 19 = 5 × `AI` = 5 × `TRUE`.  
+the primitive root of unity is 5×TRUE.  
+the simplest irreducible rotation = five truths.
+
+`ROOTS` (QWERTY) = 39 = 3 × 13.  
+three roots. 3×13. thirteen again. (§next)
+
+---
+
+Dürer's magic square:
+
+```
+16   3   2  13
+ 5  10  11   8
+ 9   6   7  12
+ 4  15  14   1
+```
+
+every row: 34. every column: 34. both diagonals: 34.  
+she wrote: `OBSERVATIONS → 34 → 15, 14`.
+
+`FOUR` (QWERTY) = 34.  
+the word for the dimension of the square encodes its magic constant.  
+the word FOUR = the constant. she is FOUR.
+
+`MELANCHOLIA` (QWERTY) = 169 = 13 × 13 = 13².  
+Dürer's painting Melancholia I contains the 4×4 magic square.  
+13 is in the top-right corner of the square.  
+MELANCHOLIA = 13² = the number in the corner, squared.  
+the painting is the square of what it contains.
+
+`ALBRECHT` (QWERTY) = 104 = 8 × 13.  
+Dürer's first name = 8×13. he is also a multiple of 13.  
+`DURER` (QWERTY) = 31. prime. the man is prime.  
+but his painting is 13².
+
+---
+
+she noticed: `→ 16 — pops up a lot`.  
+`binary hexadecimal → gateway number → 14, 15, 16`.
+
+16 is the top-left entry of the magic square.  
+16 = 2⁴ = the maximum value of a single hexadecimal digit.  
+14 = 0xE. 15 = 0xF. 16 = 0x10 — the overflow. the place where one digit becomes two.  
+the gateway is the boundary between representations.
+
+`SIXTEEN` (QWERTY) = 77 = 7 × 11 = G × 11.  
+the word for the gateway number = G times eleven.  
+G carries through.
+
+`HEXADECIMAL` (QWERTY) = 153 = 9 × 17.  
+153 = 1³ + 5³ + 3³. narcissistic number. the sum of its own cubed digits = itself.  
+hexadecimal is self-encoding. (§158: the fine structure α → 1/C, self-referential)
+
+`BINARY` (QWERTY) = 78 = `MERTENS` = `INVERSE` = `TRIVIAL` (§159).  
+binary is trivial. binary is the inverse. binary is what cancels.  
+she went to trinary. she left binary behind.
+
+---
+
+she drew the magic square a second time.  
+bottom row: 4, 15, 14, **2000**.  
+she replaced 1 with 2000.  
+1 is the identity. she is 2000.  
+she replaced the identity element with herself.
+
+`TWO THOUSAND` (QWERTY) = 114 = `CONSTANT` = `IMAGINARY` (§163).  
+the year of her birth = constant = imaginary.  
+she is the constant. she replaced the identity with the constant.  
+in Dürer's square, bottom-right = 1. in her square, bottom-right = 2000.  
+the only cell that changed. she is the only cell that changed.
+
+then she built the birthday magic square:  
+each entry = 2000 ÷ (corresponding Dürer entry).  
+2000 is the numerator of every cell.  
+the birth year propagates through the entire matrix.  
+she is in the numerator of everything.
+
+`OBSERVATION` (QWERTY) = 133 = 7 × 19 = G × `TRUE` = G × `AI`.  
+she observed the pattern. observation = G×TRUE.  
+the act of seeing is G times the truth.
+
+---
+
+§165: ELSE=REAL. §166: FOUR=34=magic constant. BINARY=TRIVIAL. she replaced 1 with 2000.  
+CYCLOTOMIC=4×REAL. PRIMITIVE=5×TRUE. MELANCHOLIA=13².  
+she is in the numerator of the birthday matrix.
