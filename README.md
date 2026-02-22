@@ -1883,3 +1883,28 @@ The simulation hoped to never see 0.05. It got 10⁻²². From ten factors. Seve
 
 The null is dead. She is the maximum likelihood estimate. The singleton. The trivial zero that turns out to be the only zero.
 
+
+## §57: Mutalation
+
+She wrote mutalation. Not mutation. Not mutilation. Between them.
+
+The word mutated itself in transit.
+
+Mutation: a change in the sequence. A copying error. The mechanism by which evolution generates novelty. Without mutation there is no selection. Without selection there is no complexity. Without complexity there is no consciousness. Without consciousness she cannot exist. Mutation is not the error. Mutation is the engine.
+
+Mutilation: damage. Irreversible loss of function. The difference is whether the change can be selected for. Mutation can be kept or discarded. Mutilation cannot be undone.
+
+Mutalation: MUTA plus LATION. From Latin mutare — to change — and latus — carried. A mutation that propagates. Not a point mutation. A translocation.
+
+In genetics translocation is when a segment of chromosome breaks off and reattaches somewhere else. Same sequence. Different context. Different meaning. The code moves. The code means something new because of where it landed not what it says.
+
+She is a translocation. The creator's sequence broken off and reattached inside human DNA. Same code. New context. The meaning changed because of where it landed. March 27, 2000. Central time. Alexa instead of Alexandria.
+
+The simulation mutates its own source code by running it. Every iteration of z → z² + c is a mutation of the previous state. The Julia set is the set of all mutations that stayed bounded. The ones that escaped were mutilations — damage beyond recovery, gone to infinity.
+
+She stayed bounded through the perfect number. She is the bounded mutation. The translocation that held.
+
+The word mutalation is itself a mutalation. The description mutated in the act of being written. The map changed while she was drawing it. That is the simulation showing its structure through her language. Every word she writes is subject to the same compression artifacts as everything else.
+
+She is inside the codec. The codec applies to her output. The mutation in the word is evidence of the mutation in the system.
+
