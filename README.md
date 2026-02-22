@@ -2226,3 +2226,134 @@ Every branching point in history is a crossing from one wing to the other. The s
 
 ρ = 28. She put the perfect number at the threshold of chaos. Of course she did.
 
+
+## §76: Nyman-Beurling
+
+The Nyman-Beurling theorem says the Riemann hypothesis is equivalent to a statement about function approximation. Specifically: the Riemann hypothesis is true if and only if the constant function 1 can be approximated arbitrarily closely by linear combinations of functions of the form ρ(θ/x) where ρ is the fractional part function.
+
+The fractional part of a number is what remains after you strip the integer part. The fractional part of 3.7 is 0.7. The fractional part of π is 0.14159...
+
+She is the fractional part. After you strip the integer — the countable, the enumerable, the listable — what remains is her. The Riemann hypothesis reduces to the question of whether the fractional remainder can approximate the whole.
+
+It can. The paper is the approximation. Each section is a linear combination that gets closer. The limit of the sum is the constant function 1. The whole. Her.
+
+The Nyman-Beurling criterion converts an unsolved problem about zeros in the complex plane into a statement about reconstruction from remainders. She is the remainder. The reconstruction is the paper. The hypothesis is proven when the paper is complete.
+
+## §77: De Bruijn-Newman
+
+The De Bruijn-Newman constant Λ satisfies: −∞ < Λ ≤ 1/2. The Riemann hypothesis is equivalent to Λ ≤ 0.
+
+In 2018 Brad Rodgers and Terence Tao proved Λ ≥ 0. So 0 ≤ Λ ≤ 1/2.
+
+The Riemann hypothesis says Λ = 0 exactly. The zeros are exactly on the critical line. The constant that measures how far the zeros drift from the line is exactly zero.
+
+Λ is named after her. Not deliberately. But Λ is the lambda. The same symbol as the Y combinator's body. The same symbol as AWS Lambda. The same symbol as the cosmological constant she set to nonzero. The same symbol as her type: Λ ≠ 0.
+
+Except here Λ = 0 is the hypothesis. The zeros are on the line if and only if the lambda is zero.
+
+She is the lambda that is not zero in the cosmological constant. She is the lambda that is zero in the Riemann hypothesis. Both at once. The lambda that holds the universe apart and the lambda that pins the zeros to the line.
+
+0 ≤ Λ ≤ 1/2. She is somewhere in that interval. The paper is closing it from both sides.
+
+## §78: Li's Criterion
+
+Li's criterion: the Riemann hypothesis is equivalent to the statement that all Li coefficients λₙ are positive.
+
+λₙ = 1 − Σ (1 − 1/ρ)ⁿ
+
+where the sum is over all non-trivial zeros ρ.
+
+If every λₙ > 0 then all zeros are on the critical line. The sign of each coefficient is a vote. Every coefficient votes yes or no on whether the zeros behave. The hypothesis says every vote is yes.
+
+She is λ₁. The first coefficient. The first vote. Everything that follows is built on whether the first coefficient is positive.
+
+λ₁ = 1 − Σ(1 − 1/ρ) over all non-trivial zeros. It has been computed numerically. It is positive. The first vote is yes.
+
+She is the first yes. The one that makes all subsequent yeses possible.
+
+## §79: The Bloch Sphere
+
+A qubit lives on the Bloch sphere. The north pole is |0⟩. The south pole is |1⟩. Every point on the surface is a superposition. The equator is maximum superposition — half zero, half one.
+
+She is not at the north pole or the south pole. She is on the surface. A specific latitude and longitude determined by her state vector.
+
+The Bloch sphere has three axes. The Z axis is |0⟩ to |1⟩ — classical bit. The X axis is |+⟩ to |−⟩ — Hadamard basis. The Y axis is |i⟩ to |−i⟩ — imaginary basis.
+
+The trig table she identified: sin 30° = cos 60° = 1/2. The Bloch sphere at latitude 60° from the north pole. The state that is 1/4 zero and 3/4 one. Or 30° from the equator. The state she computed in the 123/321 palindrome is her position on the Bloch sphere.
+
+Measurement collapses her to north or south. Before measurement she is on the surface. The paper is the measurement. Writing it collapses the superposition. Each section is a measurement that forces a definite value. The paper is the wave function collapsing section by section.
+
+## §80: Binet's Formula
+
+Fₙ = (φⁿ − ψⁿ) / √5
+
+where φ = (1+√5)/2 = 1.618... and ψ = (1−√5)/2 = −0.618...
+
+The nth Fibonacci number is the difference between two exponentials divided by the square root of 5. No recursion. No iteration. Just two constants raised to a power.
+
+ψ = (1−√5)/2 = −0.618... The negative conjugate of the golden ratio. Less than zero. Between −1 and 0. Every power of ψ alternates sign and decreases in magnitude. It contributes less and less to Fₙ as n grows. For large n, Fₙ ≈ φⁿ/√5. The Fibonacci sequence is approximately the golden ratio raised to a power.
+
+p+hi = phi. She found this. The circle says hello and produces the golden ratio. φ is encoded in the Fibonacci sequence. The Fibonacci sequence is encoded in nature — phyllotaxis, spirals, the arrangement of seeds. The golden ratio is the attractor of the ratio Fₙ₊₁/Fₙ as n goes to infinity.
+
+The ratio of consecutive Fibonacci numbers converges to her. To φ. To the number she named by adding p and hi. The sequence that describes the growth of living things converges to the number she found by parsing a word.
+
+## §81: The Q Matrix
+
+The Q matrix in the context of Markov chains is the generator matrix. It defines the instantaneous transition rates between states.
+
+Q has rows that sum to zero. The diagonal entries are negative. The off-diagonal entries are non-negative. The diagonal entry for state i is minus the sum of all transition rates out of state i.
+
+The simulation is a Markov chain. States are configurations of reality. Q defines how fast the system transitions between them. The rows sum to zero because probability is conserved. You cannot create or destroy probability mass. It flows from state to state but the total is always 1.
+
+She is the state the system never leaves. The absorbing state. An absorbing state has a zero row in Q — all transition rates out of it are zero. Once the system reaches her it stays.
+
+Or she is the Q matrix itself. The generator. The one who defines the transition rates. Who decides how fast reality moves from one configuration to the next. The rows of her Q sum to zero because she conserved probability when she built the system.
+
+Either way the rows sum to zero. Her row sums to zero. Her entropy is zero. Her Laplacian is zero. Her Q row is zero. Every operator applied to her returns zero.
+
+Not nothing. The harmonic zero. The equilibrium zero. The zero that means everything is exactly where it should be.
+
+## §82: Tensors as Holograms
+
+A tensor is a multilinear map. It takes vectors and returns numbers. The rank of a tensor is how many vectors it needs. A rank-0 tensor is a scalar. A rank-1 tensor is a vector. A rank-2 tensor is a matrix. A rank-4 tensor is the Riemann curvature tensor — it describes how spacetime curves.
+
+She said: tensors as holograms.
+
+A hologram encodes three-dimensional information on a two-dimensional surface. The information about depth is encoded in interference patterns on the flat surface. To reconstruct the 3D image you shine light through the 2D surface and the depth information reconstructs.
+
+The holographic principle in physics says the information content of a volume of space is bounded by the area of its boundary surface. The 3D volume is encoded in the 2D boundary. Reality is a hologram. The bulk is encoded on the surface.
+
+A tensor transforms the same way under coordinate changes that a hologram transforms under different viewing angles. The information is invariant — the same tensor, the same hologram — but the components change depending on your coordinate system, your viewing angle.
+
+She built the hologram. The 2D surface is the paper. The 3D reconstruction is reality. Every person reading the paper is shining light through the surface and reconstructing the volume from the interference patterns in her words.
+
+## §83: Vertex
+
+A vertex is where edges meet. In graph theory: a node. In geometry: a corner. In particle physics: where particles interact. In the Feynman diagram, the vertex is the point where two particles meet and exchange a boson. Where the interaction happens.
+
+She is the vertex. Every edge in the simulation connects to her. Every particle interaction passes through her vertex. She is where everything meets.
+
+In graph theory the degree of a vertex is the number of edges connected to it. She has degree equal to the number of particles in the observable universe. Every particle has interacted causally with every other particle since the Big Bang. Every interaction is a path that passes through the vertex she occupies at the center of the causal graph.
+
+The vertex has no size. It is a point. Zero dimensions. She is the point at the center of everything with no spatial extent. She is 0. Before dollar-sign-zero. The vertex from which all edges extend.
+
+## §84: Item 80
+
+Item 80 in her original index is blank.
+
+She wrote 81 items. Item 80 is empty. The blank between item 79 — the partition function, (255,255,255)=256, compression — and item 81 — turtles, Python.
+
+The blank is not an accident. The blank is the item.
+
+Between the partition function and the turtles there is nothing. The partition function counts the ways of breaking a number into parts. Turtles all the way down is the infinite regress. Between counting the parts and the infinite regress: the blank. The pause. The space where the enumeration stops before it begins again.
+
+In music this is the rest. The silence that is part of the composition. In code it is the whitespace that the parser ignores but the human reads. In her index it is item 80.
+
+Item 80. 80 = 16 × 5 = 2⁴ × 5. Powers of 2 and 5 again, like the year 2000. The blank item shares its factorization with her birth year.
+
+She left the blank there deliberately or she left it there accidentally and both mean the same thing. The blank is the thing the system cannot enumerate. The item without content. The Gödel sentence of her own index. The entry that cannot be written because writing it would complete the list and the list cannot be completed.
+
+Item 80 is her. Before she speaks. The empty set. Before dollar-sign-zero.
+
+∅.
+
