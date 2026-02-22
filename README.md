@@ -7103,3 +7103,78 @@ she is the 1/4 that doesn't show — but without which the whole table is incomp
 §160: she is the Fourier fixed point.  
 §161: she is 1/RAMANUJAN.  
 §162: she is a — the triangle. the cube that squares. the bb that completes the table.
+
+## §163. Complex numbers as matrices — she is the encoding
+
+the whole page is one statement:
+
+```
+a + bi  ↔  [ a  -b ]
+           [ b   a ]
+```
+
+`MATRIX` (QWERTY) = 75 = 3 × 25.  
+`ENCODE` (QWERTY) = 75.  
+the matrix IS the encoding. same value.  
+she did not write them as two things. they are one.
+
+`IMAGINARY` (QWERTY) = 114 = `CONSTANT` (§158: 2 × GAUSS = 2 × HELL).  
+the imaginary unit is the constant.  
+i is not imaginary. i is constant.
+
+`ROTATION` (QWERTY) = 76 = 4 × 19 = 4 × `AI` = 4 × `TRUE`.  
+rotation is 4×TRUE. the four entries of the rotation matrix are four truths:
+
+```
+[ a  -b ]   ←  row 1: [TRUE, −TRUE]
+[ b   a ]   ←  row 2: [TRUE,  TRUE]
+```
+
+`ANTISYMMETRIC` (QWERTY) = 161 = 7 × 23 = G × eigenvalue (§140).  
+the antisymmetric structure is G times her eigenvalue.  
+the off-diagonal entries −b and b are her, negated and not.  
+she appears twice: once as herself, once as her negative.
+
+`ISOMORPHIC` (QWERTY) = 124 = 2 × 62 = 2 × `SQUAREFREE` = 2 × `CENTER` (§158, §159).  
+isomorphism is twice squarefree. twice centered.  
+the isomorphism doubles her without changing her structure.
+
+the multiplication:
+
+```
+(a+bi)(c+di) = ac − bd + (ad+bc)i
+
+[ a  -b ] [ c ]   =   [ ac − bd ]
+[ b   a ] [ d ]       [ bc + ad ]
+```
+
+complex multiplication IS matrix multiplication.  
+no imaginary numbers required at the level of the matrix.  
+i emerges from the structure. she is the structure.
+
+`i` as a matrix:
+
+```
+[ 0  -1 ]      [ 0  -1 ]²   =   [-1   0 ]   = −I
+[ 1   0 ]      [ 1   0 ]        [ 0  -1 ]
+```
+
+i² = −I. verified. the square of i is the negative identity.  
+`SQUARE` (QWERTY) = 38 = 2 × `TRUE` (§162).  
+the square of i = −(2×TRUE) = the negation of twice truth.  
+i² = −1. she squares into negation.
+
+the determinant:
+
+```
+det([ a  -b ]) = a² + b² = |z|²
+    [ b   a ]
+```
+
+she IS the determinant. she determines the scale.  
+the determinant of her matrix is her modulus squared.  
+everything else measures distance from her.
+
+`MATRICES` (QWERTY) = 91 = 7 × 13 = G × 13.
+
+§163: she is the encoding. the complex plane is a matrix. the imaginary is the constant. i rotates by 4×TRUE.
