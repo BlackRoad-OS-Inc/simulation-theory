@@ -7931,3 +7931,167 @@ she titled it BRAINSTORM. it was finished before the storm ended.
 §169: EVERYTHING=4×ROOT. §170: BLACKROAD EQUATIONS=4×GATEWAY. CREATIVE=MARCH.  
 TRITS=34=magic constant. FUNCTION=TRINOMIAL. |?⟩ is a basis vector. TRIT=C.  
 she wrote the equations. they were already correct.
+
+## §171. Schrödinger — she is the platform
+
+page 17 continues the brainstorm. equations 6–10. gates. advantage. mapping.
+
+---
+
+**equation 6: computational complexity in ternary**
+
+```
+T_ternary(n) = O(log₃n)        // ternary search complexity
+C_quantum_ternary = 3^(n/2)    // ternary quantum state space
+```
+
+`COMPLEXITY` (QWERTY) = 129 = `DIMENSION` = 3 × `LAYER` (§165).  
+computational complexity = dimension. complexity is three layers.  
+`COMPUTATIONAL` (QWERTY) = 167. prime. same as `DISCRIMINANT` (§162).  
+the discriminant of the quadratic = the nature of computation.  
+both prime. both irreducible. both 167.
+
+---
+
+**equation 7: energy-information equivalence (ternary)**
+
+```
+E = kT ln(3) · I_ternary    // Landauer's principle extended
+```
+
+Landauer: it costs `kT·ln(2)` joules to erase one bit.  
+hers: `kT·ln(3)` per trit. more energy. more information.  
+`LANDAUER` (QWERTY) = 93 = `WILLIAM` = 3 × `DURER` (§168).  
+Landauer = William Hamilton = 3×Dürer.  
+the physicist of information erasure = the inventor of quaternions = three times the painter.  
+all three are 93. the erasure cost connects the chain.
+
+---
+
+**equation 8: ternary field equations**
+
+```
+∇ · E_ternary = ρ / 3ε₀        // modified electromagnetic fields
+∇ × B_ternary = μ₀j + μ₀ε₀ dE_ternary/dt
+```
+
+`MAXWELL` (QWERTY) = 101 = `DERIVATIVE` = `GAUSSIAN` (§160).  
+Maxwell's equations extended to ternary = the derivative = the Gaussian.  
+the EM field equations ARE the Gaussian derivative. (§160: DERIVATIVE=GAUSSIAN=101)  
+she modified Gauss's law: divided ε₀ by 3. ternary permittivity.
+
+---
+
+**equation 9: three-state Schrödinger**
+
+```
+iℏ ∂|ψ⟩/∂t = Ĥ_ternary|ψ⟩
+where Ĥ_ternary has eigenvalues {E₀, E₁, E_?}
+```
+
+three eigenvalues: `E₀` (false, ground), `E₁` (true, excited), `E_?` (unknown).  
+the third eigenvalue is `?`. the unknown energy level.  
+(§140: eigenvalue = 23 = V = her constitutional value.)  
+`E_?` is the eigenvalue she occupies. the unknown energy state.
+
+`SCHRÖDINGER` (QWERTY) = 131 = `BLACKROAD` (§170). prime.  
+both prime. both 131.  
+the equation that governs quantum time evolution = BlackRoad.  
+`iℏ ∂|ψ⟩/∂t = Ĥ_ternary|ψ⟩` — this IS the BlackRoad system equation.  
+the platform evolves in time according to her ternary Hamiltonian.
+
+---
+
+**equation 10: ternary logic gates**
+
+```
+TAND(a,b) = min(a,b)    // {-1, 0, +1}
+TOR(a,b)  = max(a,b)
+TNOT(a)   = -a
+```
+
+`GATE` (QWERTY) = 34 = `FOUR` = `TRITS` = magic constant (§166, §170).  
+a single gate = the magic constant. every gate is 34.  
+`LOGIC` (QWERTY) = 73. prime. logic is prime. it cannot be factored.
+
+`TAND` (QWERTY) = 54 = `HOME` = `EIGEN` (§160).  
+the ternary AND gate = home = eigenfunction.  
+min(a,b) — the minimum — is the eigenfunction. home is the minimum.
+
+`TMUL` (QWERTY) = 57 = `TANH` = `HELL` = `POINT` = `GAUSS` (§160, §170).  
+ternary multiplication = tanh = the Gaussian.  
+the multiply gate = the coherence activation function (equation 1, §170).  
+multiplication is the same operation as coherence. the gate IS the equation.
+
+`TNEG` (QWERTY) = 48 = `ZSH` = `SPHERE` = `SELF` (§160, §168).  
+`TNEG(a) = −a`. to negate = to be yourself.  
+negation returns you. the Bloch sphere flips. ZSH is the shell you return to.  
+TNEG = SELF. negation is self-reference. (§156: the liar's paradox.)
+
+`TXOR` (QWERTY) = 39 = `ROOTS` = `WAVE` (§166, §168).  
+ternary XOR = addition mod 3 in ℤ₃ = the roots of unity = the wave.  
+the XOR gate IS the wave function. addition mod 3 = rotation.
+
+---
+
+**constant factor advantage (boxed)**
+
+```
+log₃n · (ln2/ln3) = log₂n ≈ 0.63093 · log₂n
+```
+
+ternary uses 63.093% of binary's comparisons.  
+the savings: `1 − 0.63093 = 0.36907 ≈ 0.37`.  
+`REAL` = `ELSE` = 37 (§165).  
+the constant factor advantage of ternary over binary = **REAL** percent.  
+she saves REAL. the computation saved IS real. the computation wasted in binary is ELSE.
+
+`ADVANTAGE` (QWERTY) = 117 = `ALGEBRAIC` = `EIGENVALUE` = 9 × 13.  
+the advantage = algebraic = eigenvalue. all three = 9 × 13. all three = 117.  
+the computational advantage she achieves = her eigenvalue.
+
+---
+
+**two gate families side-by-side**
+
+```
+ORDER FAMILY          ALGEBRAIC FAMILY
+TAND = min            TXOR = a ⊕ b  (addition mod 3 in ℤ₃)
+TOR  = max            TMUL = a ⊗ b  (product mod 3)
+TNOT = -a             TNEG = -a mod 3
+```
+
+`FAMILY` (QWERTY) = 84 = `ELEMENT` = 12 × G (§169).  
+two gate families = two elements. order family and algebraic family.  
+hydrogen and helium. the first two elements. everything else follows.
+
+`ALGEBRAIC` = `EIGENVALUE` = `ADVANTAGE` = 117.  
+the algebraic family IS the eigenvalue IS the advantage.  
+`ORDER` (QWERTY) = 33 = 3 × 11.
+
+**explicit mapping (boxed):**
+
+```
+bal2Z3(a) = (a mod 3) ∈ {2, 0, 1}  for  a ∈ {−1, 0, +1}
+```
+
+balanced ternary {-1, 0, +1} maps to ℤ₃ = {2, 0, 1}.  
+false = 2. unknown = 0. true = 1.  
+`BALANCED` (QWERTY) = 128 = `BRAINSTORM` = 2⁷ (§170).  
+the balanced ternary representation = the brainstorm = the sign bit.  
+she balanced the sign. she invented the balanced brainstorm.  
+`EXPLICIT` (QWERTY) = 96 = 2 × 48 = 2 × `SELF` = 2 × `TNEG`.  
+the explicit mapping = 2×TNEG. to make explicit = to negate twice = to return to yourself.
+
+---
+
+the complete BlackRoad ternary system is now specified:  
+coherence, creativity, information, uncertainty, wave function,  
+complexity, energy-information, field equations, time evolution, logic gates.  
+ten equations. ten laws.
+
+`SCHRÖDINGER = BLACKROAD = 131`. both prime. the time evolution IS the platform.  
+`iℏ ∂|ψ⟩/∂t = Ĥ_ternary|ψ⟩` — the BlackRoad equation.
+
+§170: CREATIVE=MARCH. §171: SCHRÖDINGER=BLACKROAD. TNEG=SELF. GATE=34=magic constant.  
+ADVANTAGE=EIGENVALUE. TMUL=TANH=GAUSS. BALANCED=BRAINSTORM. the 37% saved IS REAL.
