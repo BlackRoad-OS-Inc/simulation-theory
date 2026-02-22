@@ -7451,3 +7451,98 @@ the act of seeing is G times the truth.
 §165: ELSE=REAL. §166: FOUR=34=magic constant. BINARY=TRIVIAL. she replaced 1 with 2000.  
 CYCLOTOMIC=4×REAL. PRIMITIVE=5×TRUE. MELANCHOLIA=13².  
 she is in the numerator of the birthday matrix.
+
+## §167. Reversal — she is the method
+
+the rule:
+
+> any n → reverse(n). largest − smaller = divisible by 9.
+
+she applied it to herself.
+
+---
+
+`27 → 72`.  `72 − 27 = 45`.  
+45 = `SUM` = `PROC` (§162).  
+her day reversed and subtracted → the sum constant.  
+the sum of all days up to hers = her day reversed.
+
+`03 → 30`.  `30 − 3 = 27`.  
+her month reversed and subtracted → her day.  
+the reversal of March produces the 27th.  
+`03 → 27`. the month contains the day.  
+circular. (§156: the system refers to itself)
+
+`2000 → 0002`.  `2000 − 2 = 1998`.  `1998 ÷ 9 = 222`.  
+222 = 2 × 111 = 2 × `UNKNOWN` (§165).  
+222 = 6 × 37 = 6 × `REAL`.  
+her year, reversed and divided, produces twice the unknown.  
+the unknown appears twice in her year.
+
+the vector: **[45, 27, 222]**.  
+these are her birthday transformed by the 9-divisibility rule.  
+`VECTOR` (QWERTY) = 66 = `SEVEN`.  
+the birthday vector = seven. seven = G (the constant, §core).  
+the vector she derived equals the word for her constant.
+
+she labeled it:
+
+```
+[45, 27, 222]
+     ↓
+ROHONC CODEX
+```
+
+the Rohonc Codex — a real undeciphered illustrated manuscript, found 1838.  
+written in an unknown script. still unbroken.  
+she is saying: her birthday vector is an undeciphered codex.  
+she is the key.
+
+`ROHONC CODEX` (QWERTY) = 85 + 68 = 153 = `HEXADECIMAL` (§166).  
+the undeciphered manuscript = hexadecimal.  
+hexadecimal = 153 = narcissistic number (1³+5³+3³, §166).  
+the codex encodes itself. narcissistic. (§158: self-referential)
+
+`CODEX` (QWERTY) = 68 = 2 × 34 = 2 × `FOUR` = 2 × (magic constant, §166).  
+the codex is twice the magic constant.
+
+`CODE` (QWERTY) = 47. prime. irreducible. it cannot be factored.  
+the code is prime. it cannot be divided.
+
+`NINE` (QWERTY) = 61. prime.  
+the divisor that makes everything work is prime.  
+`UNDECIPHERED` (QWERTY) = 127. prime.  
+`CIRCULAR` (QWERTY) = 97. prime.  
+`REMAINDER` (QWERTY) = 97. prime.  
+`CIRCULAR` = `REMAINDER`. the circular operation IS the remainder.  
+everything indecipherable is prime.
+
+---
+
+`METHOD` (QWERTY) = 72 = reverse(27).  
+the word METHOD = 72 = the reversal of her birthday day.  
+she is the method. the method is literally her reversed.
+
+`MADNESS` (QWERTY) = 102 = `RIEMANN` = `CANCEL` (§159).  
+METHOD TO MADNESS = method to Riemann.
+
+`TO` (QWERTY) = T(5) + O(9) = 14. gateway number (§166).  
+the path from method to Riemann goes through the gateway.  
+METHOD → gateway → RIEMANN.  
+reversal of 27 → 14 → cancellation.
+
+then she wrote:
+
+```
+→ CODE X
+→
+```
+
+the second arrow has nothing after it.  
+the halting problem (§155): feed code X into itself as input.  
+does it halt? the arrow continues into the blank page.  
+it does not halt. the method does not terminate.  
+`METHOD TO MADNESS → CODE X →`  
+she ends the chain at the same place she began the notebook.
+
+§166: FOUR=34=magic constant. §167: METHOD=72=reverse(27). the method is her reversal. CODE=47 prime. CIRCULAR=REMAINDER=97 prime. VECTOR=SEVEN=66. [45,27,222] → ROHONC CODEX = HEXADECIMAL.
