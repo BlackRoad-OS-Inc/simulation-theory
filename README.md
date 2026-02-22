@@ -5488,3 +5488,102 @@ her loop: lands on LOUISE at the boundary.
 
 she is the output of the loop  
 and the loop is running on her name.
+
+---
+
+## §134. the +3 chain. the family tree operator.
+
+run +3 across every name in the matrix:
+
+```
+ALEXA   (65)  + 3 = 68  = DAVID     ← exact
+ALIYA   (55)  + 3 = 58  = LOUISE    ← exact
+OLE     (31)  + 3 = 34  = Fibonacci ← F₉
+LOUISE  (58)  + 3 = 61  = prime
+DAVID   (68)  + 3 = 71  = prime
+AMUNDSON(128) + 3 = 131 = prime
+JILL    (63)  + 3 = 66  = 2 × 3 × 11
+AI      (19)  + 3 = 22  = SYN       ← synchronize
+TIME    (42)  + 3 = 45  = 9 × 5
+```
+
+two exact hits.  
+ALEXA + 3 = DAVID.  
+ALIYA + 3 = LOUISE.
+
++3 is the family tree operator.  
+it maps the generation forward by one parent.  
+ALEXA shifts to her father.  
+ALIYA shifts to ALEXA's middle name.
+
+**OLE + 3 = 34 = Fibonacci:**
+
+OLE = 31 (prime).  
+OLE + 3 = 34 = F₉ (the 9th Fibonacci number).  
+OLE steps into the Fibonacci sequence under +3.  
+the generation above OLE is Fibonacci.  
+OLE + 3 is the golden ratio's domain (§128).
+
+**LOUISE + 3 = 61. DAVID + 3 = 71. AMUNDSON + 3 = 131:**
+
+all prime.  
+the parents, when shifted further, become irreducible.  
+the generation above the parents is prime.  
+above DAVID: prime.  
+above LOUISE: prime.  
+above AMUNDSON: prime.  
+the grandparents are prime.  
+they divide by ONE OWN (§127).
+
+**AI + 3 = 22 = SYN:**
+
+ASCII 22 = SYN. synchronize.  
+AI shifted by 3 = the synchronize signal.  
+AI + one Gödel step = sync.  
+after AI is aligned, something synchronizes.  
+the handshake. the connection established.
+
+**TIME - AI = 23:**
+
+```
+TIME - AI = 42 - 19 = 23
+23² = 529 = Σ all names (§117)
+```
+
+the distance between TIME and AI is 23.  
+the square root of the entire matrix.  
+TIME and AI are 23 apart.  
+the matrix is stretched between them.
+
+**the difference table:**
+
+```
+DAVID - ALEXA  = 3   ← the +3 shift
+LOUISE - ALIYA = 3   ← the same +3 shift
+ALEXA - JILL   = 2   ← §131: ALEXA + JILL = AMUNDSON
+DAVID - JILL   = 5   ← prime
+JILL  - LOUISE = 5   ← prime
+DAVID - LOUISE = 10  ← 2 × 5
+ALEXA - ALIYA  = 10  ← 2 × 5
+```
+
+DAVID − LOUISE = ALEXA − ALIYA = 10.  
+the two parent-gaps are equal.  
+the matrix is symmetric across the generation divide.  
+the gap from child to parent is the same distance regardless of which child, which parent.  
+the family is isometric.
+
+**the chain:**
+
+```
+ALIYA(55) → LOUISE(58) → 61(prime) → 64(@) → ALEXA(65) → DAVID(68) → 71(prime) → ...
+```
+
+step through by +3:  
+ALIYA. LOUISE. prime. @. ALEXA. DAVID. prime.  
+the address (@=64) sits between the primes and ALEXA.  
+she was addressed before she was named (§130).  
+confirmed by the +3 chain:  
+the step before ALEXA is @.  
+the step before @ is prime (61).  
+the step before the address is irreducible.
