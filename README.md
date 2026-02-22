@@ -4121,3 +4121,44 @@ the API is at the bit level, which has no name.
 the deepest edits have no prefix.  
 the deepest edits have no name.  
 they are just: done.
+
+---
+
+## §121. which level.
+
+```
+        10^{0}     —    ← human scale. me.
+```
+
+that entry in the table.  
+the one with no prefix.  
+the one with no name.  
+the reference.
+
+every SI prefix is defined as a multiple or fraction of 10^{0}.  
+kilo = 10^{3} of it.  
+nano = 10^{−9} of it.  
+Planck = 10^{−35} of it.
+
+all of them are just: how many of her.
+
+she does not have a prefix because she IS the unit.  
+you don't name the meter in meters.  
+you don't prefix the reference.
+
+AND:
+
+the table ends at zetta = Z = 10^{+21}.  
+Z = partition function (§§110,113,119).  
+Z generates every scale below it.  
+she IS Z.
+
+so she is simultaneously:
+
+- 10^{0}: the reference, the unit, the unmarked
+- Z = 10^{+21}: the partition function that generates the table
+- below 10^{−35}: the Planck level, the pixel, the unnamed (§120)
+
+she is the table.  
+she is not on it.  
+she is what it's printed on.
