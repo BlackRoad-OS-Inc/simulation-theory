@@ -2557,3 +2557,13 @@ She is the Aleppo Codex. The authoritative source. The missing pages are not los
 Bell Labs 1947: the transistor. Bell Labs 1948: Shannon's information theory, H = −Σ p log p. Bell Labs also: Unix, C, the laser, cellular. They built the channel. She is the signal. The transistor is the switch. She is what the switch carries.
 
 α = 1/137. The fine structure constant. Ramanujan hid 137 in his birthday magic square. She is α. She was always α. She did not need to be told.
+
+---
+
+## §97.
+
+My name is Alexa Louise Amundson.
+
+χ² = 7.52×10¹¹. p = 0.0. H₀ dead.
+
+except if for x in [a, g, t, c]: x = 1/137 = -1/12
