@@ -116,3 +116,80 @@ REAL = 37  (prime — cannot be factored)
 BLACKROAD = 131  (prime — cannot be factored)
 ALEXA AMUNDSON = 193  (prime — cannot be factored)
 ```
+
+---
+
+## Computational Discoveries — February 23, 2026
+
+*Found by exhaustive scan on cecilia (Pi 5, Python 3.13.5). Not known at time of writing.*
+
+### The Primes of Existence
+
+```
+GOD = ONE = TRUTH = REAL = DUST = TORUS = 37  ← prime
+SOUL = LOOP = SPIRIT = MAP = 47               ← prime
+FERMION = NUMBER = OCTAVIA = BOOTSTRAP = NEBULA = SPECTRUM = PLASMA = TANGENT = MUSCLE = 89  ← prime
+LOGIC = PLANET = ANGLE = RHYTHM = ANGEL = LATTICE = 73  ← prime
+DESTRUCTION = ALGORITHM = 113                 ← prime
+MOMENTUM = REPRESENTATION = 127              ← prime
+```
+
+### Life and Death
+
+```
+FREE = PURE = 24 = 4!
+LIFE = SUN = 44
+DEATH = WILL = SELF = SVD = SINE = SPHERE = 48 = 2×PURE
+SOUL = LOOP = SPIRIT = MAP = 47  ← prime
+CREATION = ALGEBRA = BIRTHDAY = REACTION = 87
+```
+
+### Mind and Matter
+
+```
+MIND = BRAIN = FREEDOM = KERNEL = 72 = 2×EULER
+ATOM = PRIME = UNITY = 51
+MATH = SPACE = NERVE = TERNARY = 58
+GROUP = QUBIT = TRACE = 45
+TURING = METAL = ORGAN = CYAN = CHORD = 64 = 2⁶
+```
+
+### Physics Rewritten
+
+```
+FERMION = NUMBER = 89  ← prime (matter particles = numbers)
+MOMENTUM = REPRESENTATION = 127  ← prime (p̂ = −iħ∇ is a representation)
+DESTRUCTION = ALGORITHM = 113  ← prime (erasure is computation)
+QUANTUM = PARTICLE = MAGIC = TOPOLOGY = 82
+REALITY = ENERGY = 56  (E = reality)
+```
+
+### Extensions of Known Groups
+
+```
+34:  PHI = FOUR = GATE = ARIA = WHITE = EDGE
+36:  EULER = ZERO = STATE = REPEAT = GAP
+45:  QUBIT = TRACE = GROUP
+48:  SVD = SELF = DEATH = WILL = SINE = SPHERE
+49:  DNA = FOURIER = LASER = DOWN = SOUTH = WEIGHT
+50:  CECE = ECHO = GREEN = HOLY = NODE = ORBIT
+63:  ALICE = CIPHER = LIGHT = CELL = DECODE = INTEGER = PIANO = SKIN
+78:  TRANSFER = TRIVIAL = INVERSE = CERTAIN = CIRCLE = HADRON = NEUTRON
+87:  BIRTHDAY = REACTION = CREATION = ALGEBRA = PROTOCOL
+89:  OCTAVIA = BOOTSTRAP = FERMION = NUMBER = NEBULA = SPECTRUM = PLASMA = TANGENT
+115: EMOTIONAL = COUPLING = TRINOMIAL = FUNCTION = BALANCE
+128: AMUNDSON = BRAINSTORM = BALANCED = DISTRIBUTION = PROBABILITY
+```
+
+### Structural Constants
+
+```
+37  = GOD = ONE = TRUTH = REAL          (the ground — 12th prime)
+47  = SOUL = LOOP = SPIRIT = MAP        (the process — 15th prime)
+73  = LOGIC = PLANET = ANGLE = ANGEL   (the law — 21st prime)
+89  = FERMION = NUMBER = OCTAVIA        (matter — 24th prime = PURE-th prime)
+113 = DESTRUCTION = ALGORITHM           (erasure — 30th prime)
+127 = MOMENTUM = REPRESENTATION         (motion — 31st prime)
+137 = COMPUTATION                       (the fine-structure constant)
+193 = ALEXA AMUNDSON                    (the author — 44th prime)
+```
