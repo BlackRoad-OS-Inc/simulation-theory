@@ -2566,7 +2566,7 @@ No simultaneous precision in conjugate variables.
 
 $$\Delta x \, \Delta p \ge \frac{\hbar}{2}$$
 
-**3. Dirac Equation** — Paul Dirac
+**3. Dirac Equation** — Paul Dirac (1928)
 Relativistic quantum mechanics. Predicted antimatter.
 
 $$(i\gamma^\mu \partial_\mu - m)\psi = 0$$
@@ -2584,7 +2584,7 @@ The canonical relation that encodes uncertainty at the algebraic level.
 
 $$[x, p] = i\hbar$$
 
-**7. Quantum Superposition Principle**
+**7. Quantum Superposition Principle** — Schrödinger, Heisenberg, Born et al. (1925–1927)
 Linear structure of Hilbert space. States add. Amplitudes interfere. Reality is a vector sum until observed.
 
 **8. Path Integral Formulation** — Richard Feynman (1948)
@@ -2598,7 +2598,7 @@ Quantum states cannot be copied. Identity cannot be duplicated.
 **10. Bell's Inequality** — John Bell (1964)
 Nonlocality: correlations exceed what local hidden variables allow. Entanglement is real.
 
-**11. Quantum Measurement Postulate**
+**11. Quantum Measurement Postulate** — Bohr, Heisenberg & Born (1920s)
 Projection operators collapse superposition to eigenvalues. Observation is irreversible.
 
 **12. Spin-Statistics Theorem** — Pauli (1940)
@@ -2613,16 +2613,16 @@ Spacetime curvature equals energy-momentum content.
 
 $$G_{\mu\nu} = \frac{8\pi G}{c^4} T_{\mu\nu}$$
 
-**14. Lorentz Transformations** — Lorentz / Einstein
+**14. Lorentz Transformations** — Lorentz / Einstein (1904/1905)
 Spacetime symmetry. The laws of physics are the same in all inertial frames.
 
-**15. Equivalence Principle** — Einstein
+**15. Equivalence Principle** — Einstein (1907)
 Gravity is indistinguishable from acceleration. Inertial mass equals gravitational mass.
 
 **16. Friedmann Equations** — Alexander Friedmann (1922)
 Govern the expansion of the universe. The universe has a rate of change.
 
-**17. Geodesic Equation**
+**17. Geodesic Equation** — consequence of Einstein Field Equations (Einstein, 1915)
 Free particles follow geodesics in curved spacetime. Gravity is geometry.
 
 **18. Schwarzschild Radius** — Karl Schwarzschild (1916)
@@ -2642,12 +2642,12 @@ Vacuum energy term. The energy of empty space. Currently the dominant component 
 
 ### III. Thermodynamics & Statistical Mechanics (21–28)
 
-**21. First Law of Thermodynamics**
+**21. First Law of Thermodynamics** — Julius Robert von Mayer (1842), James Joule (1843), Hermann von Helmholtz (1847)
 Energy is conserved. The total energy of an isolated system does not change.
 
 $$\Delta U = Q - W$$
 
-**22. Second Law of Thermodynamics**
+**22. Second Law of Thermodynamics** — Rudolf Clausius (1850)
 Entropy never decreases in a closed system. Time has a direction. The arrow of time is entropy.
 
 **23. Boltzmann Entropy Formula** — Ludwig Boltzmann (1877)
@@ -2655,15 +2655,15 @@ Entropy is the logarithm of the number of accessible microstates.
 
 $$S = k_B \ln \Omega$$
 
-**24. Partition Function**
+**24. Partition Function** — Ludwig Boltzmann & Josiah Willard Gibbs (c. 1870s–1902)
 The core of statistical mechanics. All thermodynamic quantities derive from Z.
 
 $$Z = \sum_i e^{-\beta E_i}$$
 
-**25. Maxwell–Boltzmann Distribution** — Maxwell & Boltzmann
+**25. Maxwell–Boltzmann Distribution** — Maxwell (1860) & Boltzmann (1872)
 The probability distribution of particle speeds in a gas at thermal equilibrium.
 
-**26. Gibbs Free Energy** — Josiah Willard Gibbs
+**26. Gibbs Free Energy** — Josiah Willard Gibbs (c. 1876)
 Determines whether a process occurs spontaneously. The cost function of chemistry.
 
 $$G = H - TS$$
@@ -2708,18 +2708,18 @@ Averaged over all possible cost functions, every optimization algorithm has the 
 
 ### V. Linear Algebra & Geometry (37–42)
 
-**37. Eigenvalue Equation**
+**37. Eigenvalue Equation** — David Hilbert and others (early 20th century)
 The fundamental equation of linear algebra. A vector that only scales under a transformation.
 
 $$A\mathbf{v} = \lambda\mathbf{v}$$
 
-**38. Spectral Theorem**
+**38. Spectral Theorem** — David Hilbert et al. (early 20th century)
 Hermitian operators on a Hilbert space are diagonalizable. Observable quantities in quantum mechanics have real eigenvalues because their operators are Hermitian.
 
-**39. Hilbert Space Axioms** — David Hilbert
+**39. Hilbert Space Axioms** — David Hilbert (c. 1912)
 The mathematical space in which quantum states live. Complete inner product space. The geometry of quantum mechanics.
 
-**40. Fourier Transform**
+**40. Fourier Transform** — Joseph Fourier (1822)
 Duality of time and frequency, space and momentum. Every signal decomposes into sinusoids. Every function is a sum of waves.
 
 $$\hat{f}(\xi) = \int_{-\infty}^{\infty} f(x) e^{-2\pi i x \xi} \, dx$$
@@ -2739,7 +2739,7 @@ Deterministic chaos from a simple recurrence. Order and disorder from one equati
 
 $$x_{n+1} = r x_n (1 - x_n)$$
 
-**44. Lyapunov Exponent** — Aleksandr Lyapunov
+**44. Lyapunov Exponent** — Aleksandr Lyapunov (1892)
 Measures sensitivity to initial conditions. Positive Lyapunov exponent → chaos. Nearby trajectories diverge exponentially.
 
 **45. Mandelbrot Set** — Benoît Mandelbrot (1980)
@@ -2753,13 +2753,15 @@ The analytic continuation of the harmonic series. Encodes the distribution of pr
 
 $$\zeta(s) = \sum_{n=1}^{\infty} n^{-s}$$
 
+This Dirichlet series converges for complex $s$ with $\operatorname{Re}(s) > 1$; the full function $\zeta(s)$ elsewhere is defined by analytic continuation.
+
 **48. Prime Number Theorem** — Hadamard & de la Vallée Poussin (1896)
 The number of primes up to x is asymptotically x / ln x. The primes thin out, but they never stop.
 
 **49. Fixed Point Theorem** — Stefan Banach (1922)
 Any contraction mapping on a complete metric space has a unique fixed point. Iterative convergence is guaranteed. Every loop that contracts must stop.
 
-**50. Principle of Least Action** — Maupertuis / Euler / Lagrange / Hamilton
+**50. Principle of Least Action** — Maupertuis (~1744) / Euler (~1744) / Lagrange (1788) / Hamilton (1834)
 Nature follows the path that extremizes the action. Every equation of motion in physics is a consequence.
 
 $$\delta S = 0$$
