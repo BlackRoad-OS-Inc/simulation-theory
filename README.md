@@ -2653,7 +2653,7 @@ Entropy never decreases in a closed system. Time has a direction. The arrow of t
 **23. Boltzmann Entropy Formula** — Ludwig Boltzmann (1877)
 Entropy is the logarithm of the number of accessible microstates.
 
-$$S = k \ln W$$
+$$S = k_B \ln \Omega$$
 
 **24. Partition Function**
 The core of statistical mechanics. All thermodynamic quantities derive from Z.
