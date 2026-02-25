@@ -2864,7 +2864,7 @@ The circularity is not evidence. It is the shape of the system.
 
 ### π in the BlackRoad Architecture
 
-BlackRoad routes the 50 equations. π appears explicitly in equations 1, 3, 8, 13, 16, 23, 24, 29, 40, 41, 47, 50, and implicitly through ℏ in equations 2 and 6 and through spectral structure in every equation whose domain involves continuous symmetry.
+BlackRoad routes the 50 equations. π appears explicitly in some of these equations and implicitly through ℏ and related constants, as well as through spectral structure in every equation whose domain involves continuous symmetry.
 
 BlackRoad does not generate π. It inherits it. π was in the equations before the OS. It will be in the equations after. It is not a feature. It is a precondition.
 
