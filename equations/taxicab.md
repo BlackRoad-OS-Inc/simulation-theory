@@ -1087,3 +1087,74 @@ The thread from 1729 runs forward:
 - WEIERSTRASS = ATTRACTOR = ROTATION = FIDELITY = 76 — fractal structure IS the strange attractor
 - MAX = DIRAC = LOUISE = TERNARY = 58 — Max Born IS Paul Dirac IS her middle name IS ternary
 - 03/27/2027 = the fixed point where her day, her month cubed, and her age converge to 27
+
+---
+
+## Women in Science — Names as Source Code
+
+**ALEXA = NOETHER = WOMEN = 65.**
+Emmy Noether (1882–1935), considered the most important woman in the history
+of mathematics, proved that every continuous symmetry implies a conservation law.
+Under QWERTY: `ALEXA = NOETHER = WOMEN = 65`. Her name IS Noether IS the word
+for all women doing mathematics. The number 65 = 5×13.
+
+**SOPHIA = THEOREM = ALBERT = VECTOR = MEASURE = 66.**
+Greek: Σοφία = wisdom. PHI (= 34, the golden ratio) is embedded in the spelling:
+s-o-**PHI**-a. Under QWERTY: `SOPHIA = THEOREM = ALBERT = VECTOR = MEASURE = 66`.
+Wisdom IS the theorem IS Einstein's first name IS measurement. Note that
+`NOETHER = 65` and `THEOREM = 66`: Noether is exactly 1 below her own theorem.
+The gap is N→M (N=25, M=26) — swap one letter and her name becomes her discovery.
+
+**SOPHIE = TERNARY = LOUISE = MAX = DIRAC = PROTECT = 58.**
+Sophie Germain (1776–1831) proved the first case of Fermat's Last Theorem for all
+primes of Sophie Germain type — publishing under the pseudonym M. LeBlanc because
+women were excluded from mathematical correspondence. Her name IS her logic system
+IS Alexa's middle name IS Max Born IS Paul Dirac IS protection.
+
+**ADA LOVELACE = INFORMATION = LAGRANGIAN = 12² = 144.**
+Ada Lovelace (1815–1852) wrote the first algorithm for a computing machine.
+`ADA LOVELACE = INFORMATION = LAGRANGIAN = 144 = 12²`. The first programmer IS
+information IS the principle of least action (the Lagrangian whose minimization
+generates all classical motion). Note: ADA is inside **ADA**lovelAce and inside
+Alex**A**ndr**A** — the longer form of her name contains Ada.
+
+**LAMARR = CLAUDE = BERNERS = S = K LOG W = ENCODE = ENCRYPT = 75.**
+Hedy Lamarr (1914–2000) co-invented frequency-hopping spread spectrum (patent 1942),
+the mathematical foundation of WiFi, Bluetooth, and GPS. Under QWERTY:
+`LAMARR = CLAUDE = BERNERS = ENCODE = ENCRYPT = 75`. The actress who invented
+wireless communication IS Shannon IS Boltzmann's equation IS Berners-Lee IS
+encoding IS encryption. Her invention IS the concept.
+
+**MARGARET = JORDAN = MARCH = HILBERT = 79** (prime).
+Margaret Hamilton coined "software engineering" and led the Apollo flight software
+team. `MARGARET = JORDAN = MARCH = HILBERT = 79`. The software engineer IS Jordan
+algebra IS Hilbert space IS her birth month.
+
+**COMPILER = MAXWELL = GAUSSIAN = TERMINAL = 101** (prime).
+Grace Hopper (1906–1992) invented the compiler (A-0, 1952).
+`COMPILER = MAXWELL = GAUSSIAN = TERMINAL = 101`. The system that translates human
+language to machine code IS Maxwell IS the Gaussian distribution IS the terminal.
+
+**FEMININE = TWENTYSEVEN = UNIVERSAL = PROJECTION = NOISE FLOOR = 112.**
+The word FEMININE under QWERTY equals her birthday day. Feminine IS 27 IS universal
+IS the Mollweide projection of the CMB IS the noise floor threshold.
+
+### Summary table
+
+```
+ALEXA       = NOETHER   = WOMEN      = 65
+SOPHIA      = THEOREM   = ALBERT     = 66    (PHI inside soPHIa)
+NOETHER     = 65   = THEOREM − 1 = 66 − 1   (N→M swap = N=25, M=26)
+SOPHIE      = TERNARY   = LOUISE     = PROTECT = 58
+ADA LOVELACE= INFORMATION= LAGRANGIAN = 144 = 12²
+LAMARR      = CLAUDE    = BERNERS    = ENCODE = ENCRYPT = 75
+MARGARET    = JORDAN    = MARCH      = HILBERT = 79   (prime)
+COMPILER    = MAXWELL   = GAUSSIAN   = TERMINAL = 101  (prime)
+FEMININE    = TWENTYSEVEN = UNIVERSAL = PROJECTION = 112
+WOMEN       = 65 = ALEXA = NOETHER
+```
+
+The pattern extends the web-technology and scientist-name structure: not names
+hidden *inside* words (TIM→TIME, JASON→JSON) but names that *equal* their concept
+directly. `ADA LOVELACE = INFORMATION`. `LAMARR = ENCODE`. `COMPILER = MAXWELL`.
+`ALEXA = NOETHER`. The name IS the thing. No insertion required.

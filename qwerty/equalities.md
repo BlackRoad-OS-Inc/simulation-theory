@@ -567,3 +567,106 @@ REALITY = ENERGY = 56  (E = reality)
 137 = COMPUTATION                       (the fine-structure constant)
 193 = ALEXA AMUNDSON                    (the author — 44th prime)
 ```
+
+## Women in Science — Names as Source Code
+
+The names of women who built foundational science and computing encode the
+concepts they invented. Not metaphorically — under QWERTY, their names
+literally equal the things they made.
+
+```
+ALEXA    = NOETHER  = WOMEN  = 65   ← her name IS Emmy Noether IS women
+SOPHIA   = THEOREM  = ALBERT = VECTOR = MEASURE = 66
+SOPHIE   = TERNARY  = LOUISE = MAX  = DIRAC  = PROTECT = 58
+NOETHER  = 65   (NOETHER + 1 = THEOREM; N→M is the only gap)
+THEOREM  = 66
+```
+
+**ALEXA = NOETHER = WOMEN = 65.** Her name IS Emmy Noether IS the word
+WOMEN under QWERTY. All three resolve to 65. Emmy Noether (1882–1935) proved
+that every continuous symmetry of a physical system has a corresponding
+conservation law — the theorem connecting invariance to invariants. Her name
+IS her theorem IS all women doing mathematics.
+
+**SOPHIA = THEOREM = 66.** Sophia (Greek: Σοφία, wisdom) IS THEOREM under
+QWERTY. PHI (34 = golden ratio) is literally embedded inside the word:
+s-o-**PHI**-a — wisdom contains the golden ratio in its spelling. And
+`SOPHIA = THEOREM = ALBERT = VECTOR = MEASURE = 66` — wisdom IS the proof
+IS Einstein's first name IS measurement. The geometric structure of the name
+contains the structure of mathematics.
+
+**SOPHIE = TERNARY = LOUISE = MAX = DIRAC = PROTECT = 58.** The diminutive
+(Sophie Germain, Sophie Kovalevskaya) IS ternary logic IS her middle name IS
+Max Born IS Paul Dirac IS protection. Sophie Germain proved results on
+Fermat's Last Theorem under a male pseudonym (M. LeBlanc) because women were
+barred from correspondence. Her name IS the logic system.
+
+**NOETHER is exactly 1 below THEOREM.** The letters NOETHER and THEOREM are
+anagrams minus one transposition: swap N→M and you have THEOREM. N=25,
+M=26: NOETHER = THEOREM − 1. She was one step away from the credit she
+deserved — her theorem was published, her professorship was blocked, her
+salary was zero. The QWERTY gap IS the historical gap.
+
+**ADA LOVELACE = INFORMATION = BIOLOGICAL = LAGRANGIAN = 12² = 144.**
+Ada Lovelace (1815–1852) wrote the first algorithm intended for a machine —
+Charles Babbage's Analytical Engine. Her full name IS information IS the
+Lagrangian (the function whose minimization generates all physical motion)
+IS 12² = 144. The first programmer IS information IS the principle of least action.
+ADA is also inside ALEXA**ndr**A — the longer form of her name contains Ada.
+
+**LAMARR = CLAUDE = BERNERS = S = K LOG W = 75.** Hedy Lamarr (1914–2000)
+co-invented frequency-hopping spread spectrum (with George Antheil, US patent
+2,292,387, 1942) — the mathematical foundation of WiFi, Bluetooth, and GPS.
+Her surname IS Shannon IS Boltzmann's gravestone equation IS Tim Berners-Lee.
+The actress who invented the wireless communication layer that the entire web
+depends on IS the theorist of information IS the theorist of entropy IS the
+inventor of the web. `LAMARR = CLAUDE = S = K LOG W = 75`.
+
+And: `ENCODE = ENCRYPT = LAMARR = CLAUDE = BERNERS = 75` — encryption IS
+encoding IS Lamarr IS Shannon IS Berners-Lee. Her invention IS the concept.
+
+**MARGARET = JORDAN = MARCH = HILBERT = 79** (prime). Margaret Hamilton
+(born 1936) coined the term "software engineering" and led the team that
+wrote the on-board flight software for the Apollo missions. Her first name IS
+Jordan algebra IS Hilbert space IS her birth month. The software engineer IS
+quantum observables IS infinite-dimensional spaces IS March.
+
+**COMPILER = MAXWELL = GAUSSIAN = TERMINAL = 101** (prime). Grace Hopper
+(1906–1992) invented the first compiler (A-0, 1952) and championed
+machine-independent programming languages, leading to COBOL. Her invention
+IS Maxwell IS the Gaussian distribution IS the terminal. The system that
+translates human language into machine code IS James Clerk Maxwell IS the
+bell curve IS the terminal you type into.
+
+**FEMININE = TWENTYSEVEN = UNIVERSAL = PROJECTION = NOISE FLOOR = 112.**
+The word FEMININE IS her birthday day (27) IS universal IS the Mollweide
+projection IS the noise floor threshold. The signal above noise IS her
+birthday IS femininity IS the universe's oldest light projected on a flat map.
+
+**WOMEN = 65 = ALEXA = NOETHER.** The word WOMEN equals her name equals
+Noether's surname. The category IS the mathematician IS the person. This is
+not a coincidence planted by a programmer — it's what happens when you have a
+naming system (QWERTY) that preserves enough structure that identities collapse
+to fixed points.
+
+### The Pattern
+
+The pattern in women's names is deeper than TIM→TIME or JASON→JSON. Those
+are names hidden *inside* words. Here, the names themselves equal the concept:
+
+```
+ADA LOVELACE   = INFORMATION  = 144   (first programmer = information)
+LAMARR         = ENCODE       = 75    (wireless inventor = encoding)
+MARGARET       = HILBERT      = 79    (software engineer = Hilbert space)
+COMPILER       = MAXWELL      = 101   (Hopper's tool = Maxwell's distribution)
+ALEXA          = NOETHER      = 65    (the person = the mathematician)
+SOPHIA         = THEOREM      = 66    (wisdom = proof)
+```
+
+Not names in words. Names *as* concepts. The women's names resolve directly
+to the mathematics, the physics, the computation. No insertion required.
+The name IS the thing.
+
+And: `ALEXA LOUISE = 123 = SHANNON`. Her full first + middle name IS Shannon.
+And `ALEXA = NOETHER = 65`. And `NOETHER THEOREM = BLACKROAD = 131` (prime).
+The chain runs: her name → Emmy Noether → Noether's theorem → her system.
