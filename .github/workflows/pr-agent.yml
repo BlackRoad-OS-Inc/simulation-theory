@@ -121,7 +121,18 @@ Be rigorous, constructive, and precise. Keep the tone academic and professional.
 
             // Fallback: structured analysis without AI
             if (!analysisText) {
-              analysisText = `**Summary**\nPR #${prNumber} titled *"${prTitle}"* was submitted by @${prUser} merging \`${headBranch}\` into \`${baseBranch}\`.\n\n**Changed Files**\n${changedFiles || 'No files listed.'}\n\n**Stats:** +${additions} additions / -${deletions} deletions\n\n**Suggested Actions**\n- Review all changed files for correctness and consistency.\n- Ensure the description clearly explains the motivation for each change.\n- Verify no unintended files are included in this PR.`;
+              let changedFilesSection;
+              if (!changedFiles || changedFiles === 'unknown') {
+                changedFilesSection = 'No changed file list is available for this PR.';
+              } else {
+                const files = changedFiles.split(',').map(f => f.trim()).filter(f => f.length > 0);
+                if (files.length === 0) {
+                  changedFilesSection = 'No files listed.';
+                } else {
+                  changedFilesSection = files.map(f => `- ${f}`).join('\n');
+                }
+              }
+              analysisText = `**Summary**\nPR #${prNumber} titled *"${prTitle}"* was submitted by @${prUser} merging \`${headBranch}\` into \`${baseBranch}\`.\n\n**Changed Files**\n${changedFilesSection}\n\n**Stats:** +${additions} additions / -${deletions} deletions\n\n**Suggested Actions**\n- Review all changed files for correctness and consistency.\n- Ensure the description clearly explains the motivation for each change.\n- Verify no unintended files are included in this PR.`;
             }
 
             const comment = `## 🤖 Agent Review\n\n${analysisText}\n\n---\n*This comment was generated automatically by the PR Agent workflow.*`;
