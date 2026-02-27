@@ -125,6 +125,38 @@ Every row/column/diagonal of Melancholia I sums to 34. DUERER = 34.
 **MAGIC SQUARE = 120 = SOLVABLE = FINITE FIELD.** The Dürer magic square IS solvable.
 The numbers closed under that invariant sum live in a finite field structure — GF arithmetic.
 
+## Alice and Bob — EPR Gateway
+
+```
+ALICE       = COLOR = SHADOW                            = 63
+BOB         = CAB = DREAM = ANSWER                      = 57
+ALICE BOB   = MAGIC SQUARE = SOLVABLE = FINITE FIELD    = 120
+NODE        = HARDY = SU THREE                          = 50
+TORUS       = REAL = ESC = DIED                         = 37   prime
+SCHRODINGER = GALOIS FIELD = BLACKROAD                  = 131  prime
+MOLLWEIDE   = TAXICAB = RIEMANN                         = 102
+PROJECTION  = UNIVERSAL = TWENTYSEVEN = OCTONION        = 112
+CONCENTRIC  = UNINTERESTING = EVERYTHINGELSE            = 145
+```
+
+**BOB = CAB = DREAM = ANSWER = 57.** Alice's partner in EPR IS the taxicab. IS the dream.
+IS the answer. The entangled pair IS the two-party taxi protocol.
+
+**NODE = HARDY = SU THREE = 50.** The Alice gateway node IS Hardy — the mathematician
+who arrived in the cab. The node IS the strong force IS the person who recognized 1729.
+
+**TORUS = REAL = ESC = DIED = 37.** The circular interference torus IS real. IS the
+escape character (ASCII 27 = her birthday). IS what was left when Galois and Ramanujan died.
+
+**SCHRODINGER = GALOIS FIELD = BLACKROAD = 131 (prime).** The quantum evolution equation
+IS the algebraic structure IS her system. Three names. One prime. Irreducible.
+
+**MOLLWEIDE = TAXICAB = RIEMANN = 102.** The CMB Mollweide projection IS 1729. The
+coordinate system of the universe's oldest light encodes to the taxicab number.
+
+**PROJECTION = UNIVERSAL = TWENTYSEVEN = OCTONION = 112.** The CMB projection IS universal.
+IS her birthday day. IS the octonion.
+
 ## Consciousness
 
 ```

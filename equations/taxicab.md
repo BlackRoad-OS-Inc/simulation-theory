@@ -389,6 +389,77 @@ Her birthday month is 3.
 
 ---
 
+## Alice and Bob — EPR Gateway
+
+On **February 26, 2025** — one month before her 25th birthday — a physics monitor photograph
+was taken showing the full structure of what was being built:
+
+```
+Top left:    Re[Ψ(x)] and |Ψ(x)|²  — wavefunction plots
+Middle:      CMB Mollweide projections, 5×5 grid = 25 frames
+Bottom left: Alice and Bob EPR/Bell test — source φ between them
+Top right:   Circular interference pattern, concentric rings in green and teal
+Bottom right:Schrödinger's cat film strip — superposition held across time
+```
+
+The 5×5 = **25** CMB projections = her age on the day the photo was taken.
+
+**Alice and Bob** is the canonical name for the two parties in an EPR entanglement experiment.
+Her Pi 400 gateway node is named **Alice**. Everything routes through Alice.
+The source φ between them is her coherence function `C(t) = [Ψ'(M_t) + δ_t]/[1+|δ_t|]`.
+
+```
+ALICE       = 63  = COLOR = SHADOW
+BOB         = 57  = CAB = DREAM = ANSWER
+ALICE BOB   = 120 = MAGIC SQUARE = SOLVABLE = FINITE FIELD
+NODE        = 50  = HARDY = SU THREE
+TORUS       = 37  = REAL = ESC = DIED
+SCHRODINGER = 131 = GALOIS FIELD = BLACKROAD  (prime)
+MOLLWEIDE   = 102 = TAXICAB = RIEMANN
+PROJECTION  = 112 = UNIVERSAL = TWENTYSEVEN = OCTONION
+CONCENTRIC  = 145 = UNINTERESTING = EVERYTHINGELSE
+```
+
+**BOB = CAB = DREAM = ANSWER = 57.** Alice's partner in EPR IS the cab. IS the dream.
+IS the answer. The entangled pair — Alice (gateway) and Bob (the response) — IS
+the taxicab that Hardy used to reach Ramanujan in the hospital. The cab was always
+a two-party protocol.
+
+**ALICE BOB = MAGIC SQUARE = SOLVABLE = FINITE FIELD = 120.** The entangled pair IS
+the Dürer magic square. IS solvable. IS a finite field. The EPR experiment IS closed.
+Its invariant sum IS 34. DUERER = 34.
+
+**SCHRODINGER = GALOIS FIELD = BLACKROAD = 131 (prime).** The Schrödinger equation —
+whose cat film strip appears on that monitor — encodes to the exact same value as the
+Galois field framework and BlackRoad. Three names. One prime. The quantum evolution
+equation IS the algebraic structure IS her system.
+
+**TORUS = REAL = ESC = DIED = 37.** The circular interference pattern in the top-right
+of the monitor is a torus cross-section. TORUS = 37. The same value as REAL, ESC
+(ASCII 27 = her birthday), and DIED (Galois, Ramanujan). The torus IS real. The torus
+IS the escape character.
+
+**MOLLWEIDE = TAXICAB = RIEMANN = 102.** The CMB Mollweide projection (the coordinate
+system displaying all 25 frames of the universe's oldest light) IS the taxicab number.
+IS Riemann. The cosmic microwave background IS 1729.
+
+**PROJECTION = UNIVERSAL = TWENTYSEVEN = OCTONION = 112.** The CMB projection IS universal.
+IS twenty-seven. IS the octonion. The coordinate system of the universe's oldest light
+encodes to the same value as her birthday day.
+
+**NODE = HARDY = SU THREE = 50.** Her Pi 400 gateway node (Alice) encodes to the same
+value as G.H. Hardy — who arrived in the taxicab to find Ramanujan. The node IS Hardy.
+The gateway IS the mathematician who recognized 1729.
+
+The physics monitor wasn't showing her physics. It was showing her the structure of
+the system she was building. Alice and Bob — entanglement — routes through the node
+named Alice. The CMB Mollweide grid holds 25 frames (her age that day). The interference
+torus IS real. The Schrödinger equation IS BlackRoad.
+
+The photo was taken on 2/26/25. One day before the one-month mark before her birthday.
+
+---
+
 ## Summary
 
 ```
@@ -398,16 +469,21 @@ Her birthday month is 3.
             ↑
      hidden inside 1729 is 729 = 27² = her birthday day squared
 
-TAXICAB        = 102  = CHEMISTRY = RIEMANN
-UNINTERESTING  = 145  = EVERYTHINGELSE
-TWENTYSEVEN    = 112  = UNIVERSAL = SYMMETRIC
+TAXICAB        = 102  = CHEMISTRY = RIEMANN = MOLLWEIDE
+UNINTERESTING  = 145  = EVERYTHINGELSE = CONCENTRIC
+TWENTYSEVEN    = 112  = UNIVERSAL = SYMMETRIC = PROJECTION = OCTONION
 RAMANUJAN      = 137  = COMPUTATION  (prime)
 
-GALOIS FIELD   = 131  = BLACKROAD = SCHRÖDINGER  (prime)
+GALOIS FIELD   = 131  = BLACKROAD = SCHRODINGER  (prime)
 JORDAN         =  79  = MARCH
 EXCEPTIONAL    = 136  = BACKBONE = COMPUTABLE
-SU THREE       =  50  = HARDY
+SU THREE       =  50  = HARDY = NODE
 QCD            =  36  = EULER = ZERO
+
+ALICE          =  63  = COLOR = SHADOW
+BOB            =  57  = CAB = DREAM = ANSWER
+ALICE BOB      = 120  = MAGIC SQUARE = SOLVABLE = FINITE FIELD
+TORUS          =  37  = REAL = ESC = DIED
 ```
 
 Hardy said the number was uninteresting. Ramanujan said it was the smallest of its kind.
@@ -423,4 +499,7 @@ The thread from 1729 runs forward:
 - GF(27) = GF(3³) = the natural extension of her system, order = her birthday day
 - J₃(𝕆) = 27-dimensional = the algebra appearing in unification of QM and gravity
 - SU(3) = 3-dimensional fundamental representation = the strong force = her birth month
+- Alice = her Pi 400 gateway node = the EPR party = HARDY = NODE = 50
+- BOB = CAB = DREAM = ANSWER = 57 — the entangled partner IS the taxicab
+- TORUS (interference pattern) = REAL = ESC = DIED = 37
 - 03/27/2027 = the fixed point where her day, her month cubed, and her age converge to 27
