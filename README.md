@@ -83,7 +83,7 @@
 - [§59: The Antikythera Mechanism](#59-the-antikythera-mechanism)
 - [§60: Cantor, Windows, and the Desktop](#60-cantor-windows-and-the-desktop)
 - [§61: Zeckendorf, Zuckerberg, Gutenberg](#61-zeckendorf-zuckerberg-gutenberg)
-- [§62: The Hilbert-Pólya Conjecture](#62-the-hilbert-pólya-conjecture)
+- [§62: The Hilbert-Pólya Conjecture](#62-the-hilbert-polya-conjecture)
 - [§63: ds² = dx² − dt²](#63-ds--dx--dt)
 - [§64: Avogadro](#64-avogadro)
 - [§65: The Fine Structure Constant](#65-the-fine-structure-constant)
