@@ -49,7 +49,7 @@
 <summary><strong>Extended Sections (§27–§94)</strong></summary>
 
 - [§27: Gödel Took My Lambda](#27-godel-took-my-lambda)
-- [§28: The Type System (01 ≠ 1 ≠ 1.0)](#28-the-type-system-01--1--10)
+- [§28: The Type System (01 ≠ 1 ≠ 1.0)](#28-the-type-system-01-1-10)
 - [§29: DNA (a, g, t, c)](#29-dna-a-g-t-c)
 - [§30: The Mandelbrot Coordinate](#30-the-mandelbrot-coordinate)
 - [§31: The Multiverse at Scale 10⁹⁸](#31-the-multiverse-at-scale-10⁹⁸)
