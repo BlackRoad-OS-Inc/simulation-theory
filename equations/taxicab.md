@@ -763,6 +763,212 @@ IS the taxicab IS 1729.
 
 ---
 
+## Scientist Names — QWERTY Structure
+
+The QWERTY values of scientists' names encode the concepts their work produced.
+
+### Max Born — already in the file
+
+`BORN = ENTROPY = 62`. Max Born's last name IS Shannon entropy, already established.
+The pattern extends through his full name and title:
+
+```
+BORN         = 62  = ENTROPY
+MAX          = 58  = LOUISE = TERNARY = DIRAC
+MAX BORN     = 120 = MAGIC SQUARE = SINGULARITY = INVARIANT = ALICE BOB
+               = SOLVABLE = FINITE FIELD = ENCODING
+```
+
+`MAX BORN = MAGIC SQUARE = SINGULARITY = INVARIANT = ALICE BOB = 120.`
+Born's full name IS the Dürer magic square IS the black hole singularity IS
+a Noether invariant IS Alice and Bob together. The quantum physicist whose rule
+`P = |ψ|²` connects wavefunction to probability IS all of this simultaneously.
+
+`MAX = DIRAC = LOUISE = TERNARY = 58`. Max (Born's first name) IS Paul Dirac IS
+her middle name IS the ternary logic system. Dirac's equation unifies quantum
+mechanics with special relativity, predicts antimatter, and lives in the same
+value as ternary {−1, 0, 1}.
+
+### Ramanujan — already in the file
+
+`RAMANUJAN = COMPUTATION = 137` — already established. 137 is also the
+fine-structure constant (1/α ≈ 1/137), the dimensionless coupling of electromagnetism.
+
+### Einstein — EIN = ONE = QCD
+
+Einstein's name contains its meaning in German.
+
+```
+EIN (German: one)  = 36  = QCD = EULER = ZERO = HTTP
+ONE                = 37  = REAL = ESC = BIT = DIED = TORUS
+EINSTEIN           = 89  = BOOTSTRAP  (prime)
+ALBERT             = 66  = THEOREM = VECTOR = SEVEN = NETWORK = MEASURE
+```
+
+`EIN = QCD = EULER = ZERO = HTTP = 36`. EIN is German for "one." Einstein's
+name begins with the number one — and under QWERTY, one = QCD (the quantum theory
+of the strong force) = Euler = zero = HTTP.
+
+`ONE = REAL = ESC = BIT = 37`. The English "one" is the next value up — the prime
+that IS real IS the escape character IS the fundamental unit of information IS
+her birthday day.
+
+`EINSTEIN = BOOTSTRAP = 89` (prime). Einstein IS bootstrap. Bootstrap methods
+are self-referential — you pull yourself up by your own structure. His field
+equations are famously nonlinear and self-referential. His name IS the method.
+
+`ALBERT = THEOREM = VECTOR = SEVEN = NETWORK = MEASURE = 66`. Einstein's first
+name IS theorem IS vector IS measurement. General relativity IS a theorem about
+the geometry of spacetime measured by vectors.
+
+### Gödel — KURT = PHI = GATE = DUERER
+
+```
+KURT            = 34  = FOUR = GATE = PHI = DUERER = TRITS
+GODEL           = 59  = HEAVY = CROSS
+EINSTEIN GODEL  = 148 = UNDECIDABLE
+```
+
+`KURT = 34 = FOUR = GATE = PHI = DUERER = TRITS`. Kurt Gödel's first name IS
+the Dürer magic constant (all rows/cols/diags sum to 34) IS FOUR IS GATE IS PHI
+(golden ratio) IS TRITS. The man who proved incompleteness IS the magic square IS
+the golden ratio IS the gate IS ternary.
+
+`EINSTEIN GODEL = UNDECIDABLE = 148`. Einstein (89) + Gödel (59) = 148 = UNDECIDABLE.
+They were famous friends at the Institute for Advanced Study in Princeton from
+1933 until Einstein's death in 1955. The physicist + the logician = undecidability.
+Their combined value IS the concept their friendship orbited: the limits of formal
+systems, the incompleteness of any sufficiently powerful theory.
+
+### Gauss — Gaussian Noise IS the Channel
+
+```
+GAUSS      = 57  = BOB = CAB = NOISE = DREAM = ANSWER
+CARL GAUSS = 113 = HEISENBERG = ALGORITHM = DEPHASING = SWITCHING
+GAUSSIAN   = 101 = MAXWELL = TERMINAL
+```
+
+`GAUSS = NOISE = BOB = CAB = DREAM = ANSWER = 57`. Carl Friedrich Gauss IS
+channel noise IS Bob IS the taxicab IS the dream IS the answer. In Shannon
+information theory, **Gaussian noise** is the canonical model of channel
+interference — every real communication channel is modeled as AWGN (additive
+white Gaussian noise). The mathematician who gave us the normal distribution IS
+the noise in Bob's channel IS the taxicab.
+
+`CARL GAUSS = HEISENBERG = ALGORITHM = DEPHASING = SWITCHING = 113` (prime).
+Gauss's full name IS Heisenberg (whose uncertainty principle IS dephasing at
+the quantum level) IS algorithm IS quantum decoherence IS transistor switching.
+The statistician IS the physicist IS the computation IS the collapse.
+
+`GAUSSIAN = MAXWELL = TERMINAL = 101` (prime). The Gaussian distribution IS
+Maxwell. James Clerk Maxwell derived the Maxwell-Boltzmann velocity distribution —
+a Gaussian. They are literally the same family of distributions. The TERMINAL
+is where GAUSSIAN = MAXWELL converges.
+
+### Hawking — Born Rule = Capacity
+
+```
+HAWKING = 95 = BORN RULE = CAPACITY = LAPLACE
+```
+
+`HAWKING = BORN RULE = CAPACITY = 95`. Stephen Hawking IS the Born rule IS
+channel capacity. Hawking radiation requires quantum field theory in curved
+spacetime — the Born rule `P = |ψ|²` gives the emission probability. And
+Shannon's channel capacity theorem IS the theoretical limit of information
+transmitted before the signal is overwhelmed. Hawking radiation IS the channel
+capacity of a black hole — it IS the Born rule applied at the horizon.
+
+`LAPLACE = HAWKING = BORN RULE = CAPACITY = 95`. Laplace IS also 95.
+Pierre-Simon Laplace developed the theory of black bodies (before black holes were
+named) and the concept of a body with escape velocity exceeding light — he
+predicted black holes in 1796. Laplace IS Hawking, 137 years before Hawking's birth.
+
+### Emmy Noether — EMMY = ESCAPE
+
+```
+EMMY           = 61  = ESCAPE = ASCII = ALGORE
+NOETHER THEOREM = 131 = BLACKROAD = GALOIS FIELD = SCHRODINGER = BELL LABS  (prime)
+```
+
+`EMMY = ESCAPE = ASCII = ALGORE = 61`. Emmy Noether's first name IS ESCAPE IS ASCII
+IS Al Gore. The mathematician who proved that every symmetry of a physical system
+corresponds to a conserved quantity (Noether's theorem, 1915) IS the escape
+character (ESC = 27 = her birthday) IS ASCII IS ALGORE.
+
+`NOETHER THEOREM = BLACKROAD = GALOIS FIELD = SCHRODINGER = BELL LABS = 131`
+(prime). Emmy Noether's theorem IS BlackRoad IS the Galois field IS Schrödinger
+IS Bell Labs. Her theorem connecting symmetry to conservation IS the algebraic
+framework IS her system IS the equation of quantum evolution IS the institution
+that built information theory.
+
+### Hilbert, Heisenberg, Lorentz, Weierstrass
+
+```
+HILBERT     = 79  = JORDAN = MARCH
+HEISENBERG  = 113 = CARL GAUSS = ALGORITHM = DEPHASING = SWITCHING
+LORENTZ     = 85  = UNIVERSE = ROHONC = PARTITION = FREQUENCY
+WEIERSTRASS = 76  = ATTRACTOR = ROTATION = FIDELITY
+TURING      = 64  = LUDWIG = WARMTH = 2⁶
+```
+
+`HILBERT = JORDAN = MARCH = 79` (prime). David Hilbert IS the Jordan algebra
+IS her birth month. Hilbert spaces are the foundation of quantum mechanics;
+Jordan algebras arise as quantum observables in those spaces. Hilbert's space
+IS Jordan's algebra IS March.
+
+`HEISENBERG = CARL GAUSS = ALGORITHM = DEPHASING = SWITCHING = 113` (prime).
+Heisenberg IS Gauss. The uncertainty principle IS quantum dephasing IS algorithm
+IS switching. The quantum measurement limit IS the statistical distribution
+IS the computation IS the transistor.
+
+`LORENTZ = UNIVERSE = ROHONC = PARTITION = FREQUENCY = 85`. Hendrik Lorentz
+IS the universe IS the Rohonc Codex IS partition function IS frequency. Lorentz
+transformations describe how spacetime coordinates transform between reference
+frames — the coordinate system of the universe. LORENTZ IS UNIVERSE.
+
+`WEIERSTRASS = ATTRACTOR = ROTATION = FIDELITY = 76`. Karl Weierstrass proved
+the existence of continuous nowhere-differentiable functions — the first mathematical
+description of a fractal attractor. His name IS the attractor IS rotation IS
+fidelity. The mathematician who found structure in infinite irregularity IS the
+strange attractor.
+
+`TURING = LUDWIG = WARMTH = 2⁶ = 64`. Alan Turing IS Ludwig (Boltzmann) IS
+warmth IS 2⁶. The man who defined computation IS the man who defined entropy.
+Turing machines compute; Boltzmann's S = k log W counts states. They are the
+same value. Computation IS thermodynamic counting.
+
+### Summary of Scientist Identities
+
+```
+BORN         = 62   = ENTROPY
+MAX          = 58   = LOUISE = TERNARY = DIRAC
+MAX BORN     = 120  = MAGIC SQUARE = SINGULARITY = INVARIANT = ALICE BOB
+EIN          = 36   = QCD = EULER = ZERO = HTTP
+EINSTEIN     = 89   = BOOTSTRAP   (prime)
+ALBERT       = 66   = THEOREM = VECTOR = MEASURE
+KURT         = 34   = FOUR = GATE = PHI = DUERER (Gödel first name)
+EINSTEIN GODEL = 148 = UNDECIDABLE
+GAUSS        = 57   = BOB = CAB = NOISE
+CARL GAUSS   = 113  = HEISENBERG = ALGORITHM = DEPHASING
+GAUSSIAN     = 101  = MAXWELL = TERMINAL
+HAWKING      = 95   = BORN RULE = CAPACITY = LAPLACE
+EMMY         = 61   = ESCAPE = ASCII = ALGORE
+NOETHER THEOREM = 131 = BLACKROAD = GALOIS FIELD = SCHRODINGER = BELL LABS
+TURING       = 64   = LUDWIG = WARMTH = 2⁶
+HILBERT      = 79   = JORDAN = MARCH
+HEISENBERG   = 113  = CARL GAUSS = ALGORITHM = DEPHASING
+LORENTZ      = 85   = UNIVERSE = ROHONC = PARTITION = FREQUENCY
+WEIERSTRASS  = 76   = ATTRACTOR = ROTATION = FIDELITY
+```
+
+The pattern: scientist names encode the concepts their work produced.
+`GAUSS` IS `NOISE` because Gaussian noise IS channel noise.
+`HAWKING` IS `BORN RULE` because Hawking radiation IS quantum probability.
+`TURING` IS `LUDWIG` because computation IS thermodynamics.
+`NOETHER THEOREM` IS `BLACKROAD` because symmetry IS her system.
+
+---
+
 ## Summary
 
 ```
@@ -810,6 +1016,26 @@ BERNERS        =  75  = CLAUDE = S = K LOG W
 CROCKFORD      = 115  = EQUILIBRIUM = IRREVERSIBLE = EMOTIONAL = TRINOMIAL
 ALGORE         =  61  = ESCAPE = ASCII
 ALGORITHM      = 113  = DEPHASING = SWITCHING
+
+BORN           =  62  = ENTROPY
+MAX            =  58  = LOUISE = TERNARY = DIRAC
+MAX BORN       = 120  = MAGIC SQUARE = SINGULARITY = INVARIANT = ALICE BOB
+EIN            =  36  = QCD = EULER = ZERO = HTTP
+EINSTEIN       =  89  = BOOTSTRAP   (prime)
+ALBERT         =  66  = THEOREM = VECTOR = MEASURE
+KURT           =  34  = FOUR = GATE = PHI = DUERER
+EINSTEIN GODEL = 148  = UNDECIDABLE
+GAUSS          =  57  = BOB = CAB = NOISE = DREAM = ANSWER
+CARL GAUSS     = 113  = HEISENBERG = ALGORITHM = DEPHASING
+GAUSSIAN       = 101  = MAXWELL = TERMINAL
+HAWKING        =  95  = BORN RULE = CAPACITY = LAPLACE
+EMMY           =  61  = ESCAPE = ASCII = ALGORE
+NOETHER THEOREM = 131 = BLACKROAD = GALOIS FIELD = SCHRODINGER = BELL LABS
+TURING         =  64  = LUDWIG = WARMTH = 2⁶
+HILBERT        =  79  = JORDAN = MARCH
+HEISENBERG     = 113  = CARL GAUSS = ALGORITHM = DEPHASING
+LORENTZ        =  85  = UNIVERSE = ROHONC = PARTITION = FREQUENCY
+WEIERSTRASS    =  76  = ATTRACTOR = ROTATION = FIDELITY
 ```
 
 Hardy said the number was uninteresting. Ramanujan said it was the smallest of its kind.
@@ -847,4 +1073,17 @@ The thread from 1729 runs forward:
 - ALGORE = ESCAPE = ASCII = 61 — his name IS the escape character IS ASCII
 - ALGORITHM = DEPHASING = SWITCHING = 113 — computation IS decoherence IS switching
 - ENCODING = MAGIC SQUARE = FINITE FIELD = ALICE BOB = 120 — encoding IS the whole structure
+- GAUSS = NOISE = BOB = CAB = DREAM = ANSWER = 57 — Gaussian noise IS Bob IS the taxicab
+- CARL GAUSS = HEISENBERG = ALGORITHM = DEPHASING = 113 — statistician IS quantum uncertainty IS computation
+- HAWKING = BORN RULE = CAPACITY = LAPLACE = 95 — Hawking radiation IS quantum probability IS channel limit
+- EINSTEIN = BOOTSTRAP = 89 — his name IS the self-referential method
+- KURT (Gödel) = FOUR = GATE = PHI = DUERER = 34 — his first name IS the Dürer magic constant
+- EINSTEIN + GÖDEL = UNDECIDABLE = 148 — their combined value IS the concept their friendship orbited
+- EMMY (Noether) = ESCAPE = ASCII = ALGORE = 61 — her first name IS the escape character
+- NOETHER THEOREM = BLACKROAD = GALOIS FIELD = SCHRODINGER = 131 — her theorem IS her system
+- TURING = LUDWIG = WARMTH = 2⁶ = 64 — computation IS thermodynamics IS Boltzmann IS 2⁶
+- HILBERT = JORDAN = MARCH = 79 — his spaces contain Jordan algebras = her birth month
+- LORENTZ = UNIVERSE = ROHONC = PARTITION = FREQUENCY = 85 — his transformations IS the universe
+- WEIERSTRASS = ATTRACTOR = ROTATION = FIDELITY = 76 — fractal structure IS the strange attractor
+- MAX = DIRAC = LOUISE = TERNARY = 58 — Max Born IS Paul Dirac IS her middle name IS ternary
 - 03/27/2027 = the fixed point where her day, her month cubed, and her age converge to 27

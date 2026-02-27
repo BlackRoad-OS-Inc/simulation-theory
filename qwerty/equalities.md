@@ -346,6 +346,129 @@ The pattern: TIM inside TIME, JASON inside JSON, AL GORE inside ALGORITHM. The n
 find their way into the things they helped create. The web IS her name. Her name IS
 the web. Both are 123.
 
+## Scientist Names — QWERTY Structure
+
+Scientist names encode the concepts their work produced.
+
+```
+BORN             = 62   = ENTROPY
+MAX              = 58   = LOUISE = TERNARY = DIRAC
+MAX BORN         = 120  = MAGIC SQUARE = SINGULARITY = INVARIANT = ALICE BOB
+
+EIN (German: one)= 36   = QCD = EULER = ZERO = HTTP
+EINSTEIN         = 89   = BOOTSTRAP   (prime)
+ALBERT           = 66   = THEOREM = VECTOR = SEVEN = NETWORK = MEASURE
+KURT (Gödel)     = 34   = FOUR = GATE = PHI = DUERER = TRITS
+GODEL            = 59   = HEAVY = CROSS
+EINSTEIN + GODEL = 148  = UNDECIDABLE
+
+GAUSS            = 57   = BOB = CAB = NOISE = DREAM = ANSWER
+CARL GAUSS       = 113  = HEISENBERG = ALGORITHM = DEPHASING = SWITCHING
+GAUSSIAN         = 101  = MAXWELL = TERMINAL
+
+HAWKING          = 95   = BORN RULE = CAPACITY = LAPLACE
+EMMY (Noether)   = 61   = ESCAPE = ASCII = ALGORE
+NOETHER THEOREM  = 131  = BLACKROAD = GALOIS FIELD = SCHRODINGER = BELL LABS
+
+TURING           = 64   = LUDWIG = WARMTH = 2⁶
+HILBERT          = 79   = JORDAN = MARCH
+HEISENBERG       = 113  = CARL GAUSS = ALGORITHM = DEPHASING
+LORENTZ          = 85   = UNIVERSE = ROHONC = PARTITION = FREQUENCY
+WEIERSTRASS      = 76   = ATTRACTOR = ROTATION = FIDELITY
+```
+
+**BORN = ENTROPY = 62.** Max Born's last name IS Shannon entropy. His rule
+`P = |ψ|²` turns wavefunction amplitudes into probabilities — the Born rule IS the
+bridge between quantum mechanics and Shannon information theory. `BORN = ENTROPY`.
+
+**MAX = DIRAC = LOUISE = TERNARY = 58.** Max (Born's first name) IS Paul Dirac IS
+Alexa's middle name IS ternary logic. Dirac's equation predicts antimatter —
+the ternary {−1, 0, +1} structure is the +/- symmetry Dirac found.
+
+**MAX BORN = MAGIC SQUARE = SINGULARITY = INVARIANT = ALICE BOB = 120.** Born's
+full name IS the Dürer magic square IS a black hole singularity IS a Noether
+invariant IS Alice and Bob together. The quantum physicist whose rule gives
+probabilities IS all of these simultaneously.
+
+**EIN = QCD = EULER = ZERO = HTTP = 36.** EIN is German for "one." Einstein's
+name begins with the number one — and under QWERTY, one = QCD (quantum chromodynamics,
+the strong force) = Euler = zero = HTTP (the web protocol).
+
+**EINSTEIN = BOOTSTRAP = 89** (prime). Einstein IS bootstrap. His field equations
+are nonlinear and self-referential — the geometry shapes matter, matter shapes
+geometry. His name IS the self-referential method.
+
+**ALBERT = THEOREM = VECTOR = SEVEN = NETWORK = MEASURE = 66.** Einstein's first
+name IS theorem IS vector IS measurement. General relativity IS a theorem about
+measuring spacetime with vectors.
+
+**KURT = FOUR = GATE = PHI = DUERER = TRITS = 34.** Kurt Gödel's first name IS
+the Dürer magic constant (all rows/cols/diags of his Melancholia I square sum to 34)
+IS PHI (golden ratio) IS GATE IS FOUR IS TRITS (ternary). The man who proved
+incompleteness IS the magic constant IS the golden ratio IS the gate.
+
+**EINSTEIN GODEL = UNDECIDABLE = 148.** Einstein (89) and Gödel (59) together = 148 =
+UNDECIDABLE. They were close friends at the Institute for Advanced Study in Princeton
+from 1933 until Einstein's death in 1955. The physicist + the logician = undecidability.
+Their combined value IS the concept their friendship produced.
+
+**GAUSS = NOISE = BOB = CAB = DREAM = ANSWER = 57.** Carl Friedrich Gauss IS channel
+noise IS Bob IS the taxicab IS the dream. In Shannon information theory, Gaussian
+noise (AWGN — additive white Gaussian noise) is the canonical model of channel
+interference. The mathematician who proved the normal distribution IS Bob's channel noise
+IS the taxicab.
+
+**CARL GAUSS = HEISENBERG = ALGORITHM = DEPHASING = SWITCHING = 113** (prime).
+Gauss's full name IS Heisenberg IS algorithm IS quantum decoherence IS transistor
+switching. The statistician IS the quantum physicist IS the computation IS the collapse.
+The uncertainty principle IS the normal distribution IS the gate that closes.
+
+**GAUSSIAN = MAXWELL = TERMINAL = 101** (prime). The Gaussian distribution IS Maxwell.
+Maxwell derived the Maxwell-Boltzmann velocity distribution — a Gaussian. They are the
+same family. GAUSSIAN = MAXWELL.
+
+**HAWKING = BORN RULE = CAPACITY = LAPLACE = 95.** Hawking IS the Born rule IS Shannon
+channel capacity IS Laplace. Hawking radiation requires quantum probability (Born rule)
+to compute black hole evaporation rates. And channel capacity IS the theoretical limit
+before the signal drowns. Pierre-Simon Laplace predicted black holes in 1796 (a body
+whose escape velocity exceeds light) — Laplace IS Hawking, 137 years early.
+
+**EMMY = ESCAPE = ASCII = ALGORE = 61.** Emmy Noether's first name IS ESCAPE IS ASCII
+IS Al Gore. The mathematician who connected symmetry to conservation IS the escape
+character (ESC = 27 = birthday) IS ASCII IS the political advocate for the information
+highway. Emmy IS the escape path.
+
+**NOETHER THEOREM = BLACKROAD = GALOIS FIELD = SCHRODINGER = BELL LABS = 131** (prime).
+Noether's theorem connecting symmetry to conservation IS BlackRoad IS the Galois field
+IS the Schrödinger equation IS Bell Labs. Her theorem IS the algebraic framework IS
+quantum evolution IS the institution that built information theory.
+
+**TURING = LUDWIG = WARMTH = 2⁶ = 64.** Alan Turing IS Ludwig Boltzmann IS warmth IS
+2⁶. The man who defined computation (Turing machines) IS the man who defined entropy
+(S = k log W). Computation IS thermodynamic state-counting.
+
+**HILBERT = JORDAN = MARCH = 79** (prime). David Hilbert IS Jordan algebra IS her
+birth month. Hilbert spaces are the mathematical foundation of quantum mechanics;
+Jordan algebras arise precisely as quantum observables within those spaces. Hilbert IS
+Jordan IS March.
+
+**HEISENBERG = CARL GAUSS = ALGORITHM = DEPHASING = 113** (prime). Heisenberg IS Gauss.
+The uncertainty principle IS quantum dephasing IS algorithm IS switching. The quantum
+limit on simultaneous measurement IS the statistical distribution IS the computation.
+
+**LORENTZ = UNIVERSE = ROHONC = PARTITION = FREQUENCY = 85.** Hendrik Lorentz IS the
+universe IS the Rohonc Codex IS partition function IS frequency. Lorentz transformations
+describe how spacetime coordinates transform between reference frames — he IS the
+coordinate system of the universe.
+
+**WEIERSTRASS = ATTRACTOR = ROTATION = FIDELITY = 76.** Karl Weierstrass proved the
+existence of continuous nowhere-differentiable functions — the first mathematical
+fractal attractor. His name IS the attractor IS rotation IS fidelity.
+
+The deeper pattern: not just names hidden in words (TIM in TIME, JASON in JSON), but
+the names themselves IS the concept they produced. `GAUSS` IS `NOISE`. `TURING` IS
+`LUDWIG`. `NOETHER THEOREM` IS `BLACKROAD`. The map IS the territory.
+
 ## SVD & Density Matrix
 
 ```
