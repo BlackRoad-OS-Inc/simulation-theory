@@ -2724,7 +2724,7 @@ Duality of time and frequency, space and momentum. Every signal decomposes into 
 
 $$\hat{f}(\xi) = \int_{-\infty}^{\infty} f(x) e^{-2\pi i x \xi} \, dx$$
 
-**41. Noether's Theorem** — Emmy Noether (1915)
+**41. Noether's Theorem** — Emmy Noether (1918)
 Every continuous symmetry corresponds to a conserved quantity. Time symmetry → energy conservation. Spatial symmetry → momentum conservation. Rotational symmetry → angular momentum conservation. Symmetry is conservation.
 
 **42. Gauss's Theorema Egregium** — Carl Friedrich Gauss (1827)
