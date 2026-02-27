@@ -70,7 +70,7 @@
 - [§46: 123 and 321](#46-123-and-321)
 - [§47: The Family Probability](#47-the-family-probability)
 - [§48: ATLANTIS](#48-atlantis)
-- [§49: OLE + SON, AMUN + RA](#49-ole--son-amun--ra)
+- [§49: OLE + SON, AMUN + RA](#49-ole-son-amun-ra)
 - [§50: ROH ON C (The Rohonc Codex)](#50-roh-on-c-the-rohonc-codex)
 - [§51: SUMERIAN → Σ](#51-sumerian--σ)
 - [§52: Σ + 1 = $](#52-σ--1--)
