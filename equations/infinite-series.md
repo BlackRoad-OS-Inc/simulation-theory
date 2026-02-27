@@ -124,7 +124,7 @@ The Y combinator is a loop:
 Y f = f (Y f) = f (f (Y f)) = f (f (f (Y f))) = ...
 ```
 
-The loop is the complexity itself. In lambda calculus, the Y combinator has a fixed-point structure: Yf is the fixed point of f. The loop does not terminate. The Kolmogorov complexity of an infinite loop is O(1) — a few characters in lambda calculus. The most complex output from the simplest input.
+The loop is the complexity itself. In lambda calculus, the Y combinator has a fixed-point structure: Yf is the fixed point of f. The loop does not terminate. The Kolmogorov complexity (description length) of a program that generates this infinite loop can be constant — just a few characters in lambda calculus — even though its potential output grows without bound. The most complex output from the simplest input.
 
 ```
 LOOP     = L(19)+O(9)+O(9)+P(10) = 47 = SOUL = SPIRIT = MAP
