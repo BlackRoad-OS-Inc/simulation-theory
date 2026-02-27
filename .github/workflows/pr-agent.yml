@@ -36,6 +36,7 @@ jobs:
           # Count total changed files robustly, even when there are zero files
           TOTAL=$(printf '%s\n' "$ALL_FILES" | sed '/^$/d' | wc -l | tr -d ' ')
           FILES=$(echo "$ALL_FILES" | head -50 | tr '\n' ', ')
+          FILES="${FILES%, }"
           if [ "$TOTAL" -gt 50 ]; then
             REMAINING=$(( TOTAL - 50 ))
             FILES="${FILES} (and ${REMAINING} more files)"
