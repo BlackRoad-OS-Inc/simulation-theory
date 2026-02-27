@@ -11,10 +11,10 @@ All established constants from §1–§178, in value order.
 | 23 | V = eigenvalue | §various | V key = 23 |
 | 24 | PURE = B = 4! | §178 | pure state |
 | 27 | ROOT = DOT | §167 | reverse(72) |
-| 30 | QUTRIT = WEYL = PSI | §172, §176 | 2×G_key |
+| 30 | QUTRIT = WEYL = PSI = URL | §172, §176, taxicab | 2×G_key |
 | 33 | TRUST | §176 | 3×11 |
 | 34 | FOUR = GATE = TRITS = PHI = DUERER = magic constant | §166, §170, §176, taxicab | Dürer magic constant |
-| 36 | ZERO = REPEAT = EULER = STATE = QCD | §152, §177, §178, taxicab | δS=0 |
+| 36 | ZERO = REPEAT = EULER = STATE = QCD = HTTP | §152, §177, §178, taxicab | δS=0 |
 | 37 | REAL = ELSE = TESTS = ESC = TORUS = BIT | §152, §177, taxicab | prime |
 | 39 | TXOR = ROOTS = WAVE | §171 | |
 | 40 | CARE | §176 | 8×5 |
@@ -30,15 +30,16 @@ All established constants from §1–§178, in value order.
 | 57 | HELL = POINT = GAUSS = TANH = RADIX = TMUL = FIELD = BOB = CAB = DREAM = ANSWER = NOISE | §various, §173, §177, taxicab | |
 | 58 | TERNARY = GROVER = LIPID = LOUISE | §171, §173, taxicab | |
 | 59 | HEAVY = CROSS | §169 | prime |
+| 61 | ESCAPE = ASCII = ALGORE | §177, taxicab | ESC = ASCII = Al Gore |
 | 62 | CENTER = SQUAREFREE = ENTROPY = BORN | §152, §170, taxicab | |
-| 63 | TRINARY = LIGHT = COLOR = O×G = VALUE = ALICE = CIPHER | §165, §169, §172, §178, taxicab | |
+| 63 | TRINARY = LIGHT = COLOR = O×G = VALUE = ALICE = CIPHER = JSON | §165, §169, §172, §178, taxicab | |
 | 64 | WARMTH = PROTEIN = 2⁶ = LUDWIG | §176, §175, taxicab | |
 | 65 | ALEXA = 5×13 | §177 | |
 | 66 | SEVEN = VECTOR = NETWORK = MEASURE | §167, §169, §173, §174 | |
 | 69 | SHELL = STRUCTURE = FIELDS | §146, §177 | |
 | 72 | METHOD = DENSITY = reverse(27) | §167, §174, §178 | |
 | 74 | MEMORY = GALOIS = SAPIENT = SUNDAY = 2×REAL | §170, taxicab | |
-| 75 | CLAUDE = S = K LOG W | taxicab | Boltzmann's equation on his gravestone |
+| 75 | CLAUDE = S = K LOG W = BERNERS | taxicab | Boltzmann's equation on his gravestone; Tim Berners-Lee's surname |
 | 76 | ROTATION = CIRCUIT = FIDELITY = ATTRACTOR | §160, §172, §175, taxicab | 4×TRUE |
 | 77 | PERIODIC = SIXTEEN | §169 | |
 | 78 | BINARY = TRIVIAL = MERTENS = INVERSE = TRANSFER = BOUND = LIMITS | §various, §173, §175, §177 | |
@@ -56,7 +57,7 @@ All established constants from §1–§178, in value order.
 | 95 | PRIMITIVE = AVOGADRO = POTENTIAL = BORN RULE = CAPACITY | §169, §170, taxicab | 5×TRUE |
 | 97 | CIRCULAR = REMAINDER = SATURATION = THRESHOLD | §167, §170, §175 | prime |
 | 101 | MAXWELL = DERIVATIVE = GAUSSIAN = KINETICS = NUMBERS = SINGULAR = TERMINAL | §160, §173, §175, §178, taxicab | prime |
-| 102 | RIEMANN = CANCEL = MADNESS = AMPLITUDE = TAXICAB = CHEMISTRY = SEVENTEEN = MOLLWEIDE | §167, §172, taxicab | |
+| 102 | RIEMANN = CANCEL = MADNESS = AMPLITUDE = TAXICAB = CHEMISTRY = SEVENTEEN = MOLLWEIDE = WORLD WIDE WEB | §167, §172, taxicab | |
 | 103 | REVERSIBLE = LAGRANGE | §172, §177 | prime |
 | 105 | MAPPING = ACCURACY | §171, §175 | 3×5×7 |
 | 107 | COHERENCE | §170 | prime |
@@ -64,15 +65,15 @@ All established constants from §1–§178, in value order.
 | 109 | PRINCIPLE | §177 | prime |
 | 111 | UNKNOWN = EXTENSION | §165, §176 | 3×REAL |
 | 112 | UNIVERSAL = OCTONION = SYMMETRIC = TWENTYSEVEN = PROJECTION = NOISE FLOOR | §172, §177, taxicab | |
-| 113 | DEPHASING = SWITCHING | §176 | prime |
+| 113 | DEPHASING = SWITCHING = ALGORITHM | §176, taxicab | prime |
 | 114 | IMAGINARY = CONSTANT = CONJUGATE = SCAFFOLD = RELATIONAL | §163, §168, §173, §176 | |
-| 115 | FUNCTION = TRINOMIAL = SENSITIVITY = COUPLING = EMOTIONAL = EQUILIBRIUM = IRREVERSIBLE | §166, §170, §173, §176, taxicab | |
+| 115 | FUNCTION = TRINOMIAL = SENSITIVITY = COUPLING = EMOTIONAL = EQUILIBRIUM = IRREVERSIBLE = CROCKFORD | §166, §170, §173, §176, taxicab | |
 | 117 | ALGEBRAIC = EIGENVALUE = ADVANTAGE = PRESERVATION | §171, §172, §173 | 9×13 |
 | 118 | INTEGRATION = GELLMAN | §175, §178 | 2×CROSS |
 | 119 | HAMILTON = G×17 | §168 | |
-| 120 | MOLECULAR = 5! = 8×G = MAGIC SQUARE = SOLVABLE = FINITE FIELD = ALICE BOB | §176, taxicab | |
+| 120 | MOLECULAR = 5! = 8×G = MAGIC SQUARE = SOLVABLE = FINITE FIELD = ALICE BOB = ENCODING | §176, taxicab | |
 | 121 | UNCERTAINTY = 11² | §170 | |
-| 123 | SHANNON = ALEXA LOUISE = 3×41 | taxicab | |
+| 123 | SHANNON = ALEXA LOUISE = JAVASCRIPT = WEB STANDARD = 3×41 | taxicab | |
 | 125 | EFFICIENCY = 5³ = 2000÷DÜRER | §173, §174 | |
 | 127 | UNDECIPHERED = CHEMICAL | §167, §173 | prime |
 | 128 | BRAINSTORM = BALANCED = COMPETENCE = RELATIVISTIC = AMUNDSON | §170, §173, §176, §177 | 2⁷ |

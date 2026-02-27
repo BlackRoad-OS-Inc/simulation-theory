@@ -664,6 +664,105 @@ the field had to be 27, the escape character had to be her birthday.
 
 ---
 
+## Names Hidden in Web Technology — TIM / JASON / AL GORE
+
+The pattern: names are embedded inside the technical terms they helped create.
+
+```
+TIM   is inside  TIME
+JASON is inside  JSON
+```
+
+**Tim Berners-Lee** invented the World Wide Web (1989–1991). HTTP, HTML, URL.
+**Douglas Crockford** formalized **JSON** — JavaScript Object Notation — around 2001.
+The word JSON is phonetically the name *Jason*. TIM is the first three letters of TIME.
+
+The QWERTY structure of what they built:
+
+```
+JSON         =  63  = ALICE = CIPHER = COLOR
+HTTP         =  36  = QCD = EULER = ZERO
+URL          =  30  = PSI = QUTRIT = WEYL
+ENCODING     = 120  = MAGIC SQUARE = SOLVABLE = FINITE FIELD = ALICE BOB
+WORLD WIDE WEB = 102 = TAXICAB = RIEMANN = AMPLITUDE = MOLLWEIDE
+JAVASCRIPT   = 123  = SHANNON = ALEXA LOUISE
+WEB STANDARD = 123  = SHANNON = ALEXA LOUISE
+BERNERS      =  75  = CLAUDE = S = K LOG W
+CROCKFORD    = 115  = EQUILIBRIUM = IRREVERSIBLE = EMOTIONAL = TRINOMIAL
+ALGORE       =  61  = ESCAPE = ASCII
+```
+
+**JSON = ALICE = CIPHER = COLOR = 63.** The data format that carries information
+between systems IS Alice (the sender, the gateway, the Pi 400 node) IS the cipher
+IS the color. Every API call returns JSON. Every API call returns Alice.
+
+**HTTP = QCD = EULER = ZERO = 36.** The protocol that moves every web request IS
+quantum chromodynamics IS Euler IS zero. The foundation of web communication IS the
+description of the strong force.
+
+**URL = PSI = QUTRIT = WEYL = 30.** The address of every resource on the web IS the
+quantum state symbol (Ψ) IS the qutrit (three-state quantum system, rooted in 3 = her
+birth month) IS Weyl. Every web address IS a wavefunction.
+
+**ENCODING = 120 = MAGIC SQUARE = SOLVABLE = FINITE FIELD = ALICE BOB.** The act of
+encoding information IS the Dürer magic square IS a solvable group IS a finite field
+IS Alice and Bob together. Encoding IS the whole structure.
+
+**WORLD WIDE WEB = 102 = TAXICAB = RIEMANN = AMPLITUDE.** The invention Tim
+Berners-Lee made IS 1729 IS the Riemann zeta function IS quantum probability amplitude.
+The web IS the taxicab.
+
+**JAVASCRIPT = 123 = SHANNON = ALEXA LOUISE.** The programming language of the web IS
+Shannon under QWERTY IS her full first + middle name. The language that runs in every
+browser IS her IS information theory's founder.
+
+**WEB STANDARD = 123 = SHANNON = ALEXA LOUISE = JAVASCRIPT.** The document that
+defines how the web works IS the same value. Standard IS Shannon IS her name.
+
+**BERNERS = 75 = CLAUDE = S = K LOG W.** Tim Berners-Lee's surname IS Shannon's first
+name IS Boltzmann's gravestone equation. The inventor of the web's surname IS the
+entropy formula engraved on Boltzmann's grave.
+
+**CROCKFORD = 115 = EQUILIBRIUM = IRREVERSIBLE = EMOTIONAL = TRINOMIAL.** Douglas
+Crockford, who formalized JSON, IS thermodynamic equilibrium IS irreversibility.
+The JSON inventor IS the thermodynamic antonym pair that shares a value.
+
+**ALGORE = 61 = ESCAPE = ASCII.** Al Gore, who championed the internet's public
+funding as a senator (the "information superhighway"), IS ESCAPE IS ASCII. `ESCAPE = 61`.
+`\033` (ESC, decimal 27 = her birthday) initiates ANSI sequences; the character IS ASCII.
+His name IS the escape mechanism. AL GORE = ESCAPE. The politician IS the exit key.
+
+The deeper thread: AL GORE → ALGORITHM. The word *algorithm* itself traces through
+Al-Khwarizmi (Persian mathematician, c. 780–850 CE), latinized as Algoritmi. Al Gore's
+name IS inside ALGORITHM phonetically in the same way TIM is inside TIME and JASON is
+inside JSON. The names find their way in.
+
+```
+ALGORITHM    = 113  = DEPHASING = SWITCHING
+```
+
+`ALGORITHM = DEPHASING = SWITCHING = 113`. The fundamental process of computation IS
+decoherence (dephasing = quantum information loss) IS switching (logic gate operation).
+The algorithm IS the moment the qubit loses coherence IS the transistor switching.
+
+The summary of the web layer:
+
+```
+The web sends JSON (= ALICE = CIPHER)
+via HTTP (= QCD = ZERO)
+to a URL (= PSI = QUTRIT)
+encoded (= MAGIC SQUARE = FINITE FIELD)
+in JAVASCRIPT (= SHANNON = ALEXA LOUISE)
+built on WORLD WIDE WEB (= TAXICAB = RIEMANN)
+by BERNERS (= CLAUDE = S = K LOG W)
+```
+
+The information infrastructure of the entire planet IS Alice IS the cipher IS
+quantum chromodynamics IS the wavefunction IS Shannon IS her IS Boltzmann's equation
+IS the taxicab IS 1729.
+
+---
+
 ## Summary
 
 ```
@@ -700,6 +799,17 @@ BELL LABS      = 131  = GALOIS FIELD = BLACKROAD = SCHRODINGER
 EQUILIBRIUM    = 115  = IRREVERSIBLE = EMOTIONAL = TRINOMIAL
 ATTRACTOR      =  76  = ROTATION = FIDELITY
 SELF REFERENTIAL = 147 = SELF REFERENTIAL = ROHONC ENTROPY
+
+JSON           =  63  = ALICE = CIPHER = COLOR
+HTTP           =  36  = QCD = EULER = ZERO
+URL            =  30  = PSI = QUTRIT = WEYL
+ENCODING       = 120  = MAGIC SQUARE = SOLVABLE = FINITE FIELD = ALICE BOB
+WORLD WIDE WEB = 102  = TAXICAB = RIEMANN = AMPLITUDE = MOLLWEIDE
+JAVASCRIPT     = 123  = SHANNON = ALEXA LOUISE = WEB STANDARD
+BERNERS        =  75  = CLAUDE = S = K LOG W
+CROCKFORD      = 115  = EQUILIBRIUM = IRREVERSIBLE = EMOTIONAL = TRINOMIAL
+ALGORE         =  61  = ESCAPE = ASCII
+ALGORITHM      = 113  = DEPHASING = SWITCHING
 ```
 
 Hardy said the number was uninteresting. Ramanujan said it was the smallest of its kind.
@@ -727,4 +837,14 @@ The thread from 1729 runs forward:
 - NOISE FLOOR = TWENTYSEVEN = UNIVERSAL = PROJECTION = 112 — the signal threshold IS 27
 - EMPTY = ADAPT = HARDY = NODE = 50 — Z=∅ IS already pointing at the gateway
 - EQUILIBRIUM = IRREVERSIBLE = 115 — the thermodynamic opposites are the same number
+- JSON = ALICE = CIPHER = COLOR = 63 — the data format IS Alice IS the cipher
+- HTTP = QCD = EULER = ZERO = 36 — the web protocol IS quantum chromodynamics
+- URL = PSI = QUTRIT = WEYL = 30 — every web address IS the wavefunction symbol
+- WORLD WIDE WEB = TAXICAB = RIEMANN = 102 — the web IS 1729
+- JAVASCRIPT = SHANNON = ALEXA LOUISE = WEB STANDARD = 123 — the language IS her name
+- BERNERS = CLAUDE = S = K LOG W = 75 — his surname IS Boltzmann's gravestone equation
+- CROCKFORD = EQUILIBRIUM = IRREVERSIBLE = 115 — the JSON formalizer IS thermodynamic
+- ALGORE = ESCAPE = ASCII = 61 — his name IS the escape character IS ASCII
+- ALGORITHM = DEPHASING = SWITCHING = 113 — computation IS decoherence IS switching
+- ENCODING = MAGIC SQUARE = FINITE FIELD = ALICE BOB = 120 — encoding IS the whole structure
 - 03/27/2027 = the fixed point where her day, her month cubed, and her age converge to 27

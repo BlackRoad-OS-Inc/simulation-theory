@@ -285,6 +285,67 @@ MECHANICS      = EVERYTHINGELSE        = 145
 SINGULAR       = MAXWELL               = 101  prime
 ```
 
+## Names Hidden in Web Technology
+
+```
+JSON            = 63  = ALICE = CIPHER = COLOR
+HTTP            = 36  = QCD = EULER = ZERO
+URL             = 30  = PSI = QUTRIT = WEYL
+ENCODING        = 120 = MAGIC SQUARE = SOLVABLE = FINITE FIELD = ALICE BOB
+WORLD WIDE WEB  = 102 = TAXICAB = RIEMANN = AMPLITUDE = MOLLWEIDE
+JAVASCRIPT      = 123 = SHANNON = ALEXA LOUISE = WEB STANDARD
+BERNERS         =  75 = CLAUDE = S = K LOG W
+CROCKFORD       = 115 = EQUILIBRIUM = IRREVERSIBLE = EMOTIONAL = TRINOMIAL
+ALGORE          =  61 = ESCAPE = ASCII
+ALGORITHM       = 113 = DEPHASING = SWITCHING
+```
+
+**JSON = ALICE = CIPHER = COLOR = 63.** The data format that carries information
+between all systems IS Alice (the EPR party, the Pi 400 gateway node) IS the cipher
+IS the color. Every web API response IS Alice.
+
+**HTTP = QCD = EULER = ZERO = 36.** The Hypertext Transfer Protocol, the foundation
+of web communication, IS quantum chromodynamics (the strong force) IS Euler IS zero.
+The protocol that moves every web request IS the physics of quarks.
+
+**URL = PSI = QUTRIT = WEYL = 30.** The Uniform Resource Locator — the address of
+every page on the web — IS the quantum state symbol Ψ IS the qutrit (three-state system,
+dimension = her birth month) IS Weyl. Every web address IS a wavefunction.
+
+**WORLD WIDE WEB = TAXICAB = RIEMANN = AMPLITUDE = 102.** Tim Berners-Lee's invention
+IS 1729 IS the Riemann zeta function IS quantum probability amplitude. The web IS the
+taxicab. The Hardy-Ramanujan number IS what the web runs on.
+
+**JAVASCRIPT = SHANNON = ALEXA LOUISE = WEB STANDARD = 123.** The programming language
+that executes in every browser IS Shannon under QWERTY IS her full first + middle name.
+The web's language IS her IS information theory.
+
+**BERNERS = CLAUDE = S = K LOG W = 75.** Tim Berners-Lee's surname IS Shannon's first
+name IS Boltzmann's entropy equation (`S = k log W`) engraved on his gravestone. The
+person who invented the web's surname IS the formula that defines the disorder of the universe.
+
+**CROCKFORD = EQUILIBRIUM = IRREVERSIBLE = EMOTIONAL = TRINOMIAL = 115.** Douglas
+Crockford, who formalized JSON around 2001, IS thermodynamic equilibrium IS
+irreversibility. The JSON standardizer IS the thermodynamic antonym pair.
+
+**ALGORE = ESCAPE = ASCII = 61.** Al Gore, who championed internet public funding as
+the "information superhighway," IS ESCAPE IS ASCII. `ESCAPE = 61`. The name IS the
+exit mechanism. The politician IS the ASCII layer. And `\033` (ESC = ASCII 27 = her
+birthday) is the character that begins every ANSI sequence — Gore IS the escape path
+into color.
+
+**ALGORITHM = DEPHASING = SWITCHING = 113** (prime). The fundamental concept of
+computation traces through Al-Khwarizmi → ALGORE → ALGORITHM. Computation IS
+quantum decoherence IS transistor switching.
+
+**ENCODING = MAGIC SQUARE = SOLVABLE = FINITE FIELD = ALICE BOB = 120.** The act
+of encoding information IS the Dürer magic square IS a solvable group IS a finite field
+IS Alice and Bob transmitting together. Encoding IS all of it simultaneously.
+
+The pattern: TIM inside TIME, JASON inside JSON, AL GORE inside ALGORITHM. The names
+find their way into the things they helped create. The web IS her name. Her name IS
+the web. Both are 123.
+
 ## SVD & Density Matrix
 
 ```
