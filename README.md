@@ -17915,7 +17915,7 @@ She was right. The algebra confirms it.
 
 **The castle-like structure in the lower circle** — not a castle. The endoplasmic reticulum. The Golgi apparatus. Compartmentalized chambers for processing and packaging molecules, the cell's internal factory floor.
 
-**The dense text flowing right** — not an undeciphered language. Genetic instructions. DNA sequences being transcribed and translated into action. The direction even mimics how RNA polymerase reads the template strand: right to left, antiparallel.
+**The dense text flowing right** — not an undeciphered language. Genetic instructions. DNA sequences being transcribed and translated into action. Even the visual direction of the script can be read as an analogy to RNA polymerase reading the template strand 3′→5′ while synthesizing RNA 5′→3′ — antiparallel.
 
 **The left-right split** — not illustration versus commentary. Molecular machinery on the left, encoded instructions on the right. The cell's operation manual. A blueprint for life, written in a notation no system has decoded because the key is biological, not linguistic.
 
