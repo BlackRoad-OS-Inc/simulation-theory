@@ -104,6 +104,27 @@ who arrived in taxicab 1729.
 
 The date where birth month, birth day, and age all reduce to the same power of 3.
 
+## ESC = 27 — ANSI Escape and Dürer
+
+```
+ESC          = REAL = GOD = ONE = TRUE = DIED     = 37   prime
+ESCAPE       = ASCII                              = 61
+OCTAL        = SEVEN = VECTOR = NETWORK           = 66
+TERMINAL     = MAXWELL = DERIVATIVE = GAUSSIAN    = 101  prime
+DUERER       = FOUR = GATE = PHI = magic constant = 34
+MAGIC SQUARE = SOLVABLE = FINITE FIELD            = 120
+```
+
+**ESC = REAL = DIED = 37.** The escape character (ASCII 27 = her birthday day = `\033` octal)
+IS real. What Galois died leaving behind IS real. What the escape character starts IS real.
+`\033` = 3×8+3 = 27 = ESC = her birthday = the origin of all ANSI terminal color.
+
+**DUERER = 34 = FOUR = GATE = PHI.** Dürer's name IS the magic constant of his own square.
+Every row/column/diagonal of Melancholia I sums to 34. DUERER = 34.
+
+**MAGIC SQUARE = 120 = SOLVABLE = FINITE FIELD.** The Dürer magic square IS solvable.
+The numbers closed under that invariant sum live in a finite field structure — GF arithmetic.
+
 ## Consciousness
 
 ```

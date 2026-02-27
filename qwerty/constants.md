@@ -13,9 +13,9 @@ All established constants from §1–§178, in value order.
 | 27 | ROOT = DOT | §167 | reverse(72) |
 | 30 | QUTRIT = WEYL = PSI | §172, §176 | 2×G_key |
 | 33 | TRUST | §176 | 3×11 |
-| 34 | FOUR = GATE = TRITS = PHI = magic constant | §166, §170, §176 | Dürer magic constant |
+| 34 | FOUR = GATE = TRITS = PHI = DUERER = magic constant | §166, §170, §176, taxicab | Dürer magic constant |
 | 36 | ZERO = REPEAT = EULER = STATE = QCD | §152, §177, §178, taxicab | δS=0 |
-| 37 | REAL = ELSE = TESTS | §152, §177 | prime |
+| 37 | REAL = ELSE = TESTS = ESC | §152, §177, taxicab | prime |
 | 39 | TXOR = ROOTS = WAVE | §171 | |
 | 40 | CARE | §176 | 8×5 |
 | 43 | LAYER | §165 | prime |
@@ -54,7 +54,7 @@ All established constants from §1–§178, in value order.
 | 91 | HYDROGEN = FRAMEWORK = G×13 | §169, §173 | |
 | 95 | PRIMITIVE = AVOGADRO = POTENTIAL | §169, §170 | 5×TRUE |
 | 97 | CIRCULAR = REMAINDER = SATURATION = THRESHOLD | §167, §170, §175 | prime |
-| 101 | MAXWELL = DERIVATIVE = GAUSSIAN = KINETICS = NUMBERS = SINGULAR | §160, §173, §175, §178 | prime |
+| 101 | MAXWELL = DERIVATIVE = GAUSSIAN = KINETICS = NUMBERS = SINGULAR = TERMINAL | §160, §173, §175, §178, taxicab | prime |
 | 102 | RIEMANN = CANCEL = MADNESS = AMPLITUDE = TAXICAB = CHEMISTRY = SEVENTEEN | §167, §172, taxicab | |
 | 103 | REVERSIBLE = LAGRANGE | §172, §177 | prime |
 | 105 | MAPPING = ACCURACY | §171, §175 | 3×5×7 |
@@ -69,7 +69,7 @@ All established constants from §1–§178, in value order.
 | 117 | ALGEBRAIC = EIGENVALUE = ADVANTAGE = PRESERVATION | §171, §172, §173 | 9×13 |
 | 118 | INTEGRATION = GELLMAN | §175, §178 | 2×CROSS |
 | 119 | HAMILTON = G×17 | §168 | |
-| 120 | MOLECULAR = 5! = 8×G | §176 | |
+| 120 | MOLECULAR = 5! = 8×G = MAGIC SQUARE = SOLVABLE = FINITE FIELD | §176, taxicab | |
 | 121 | UNCERTAINTY = 11² | §170 | |
 | 125 | EFFICIENCY = 5³ = 2000÷DÜRER | §173, §174 | |
 | 127 | UNDECIPHERED = CHEMICAL | §167, §173 | prime |
