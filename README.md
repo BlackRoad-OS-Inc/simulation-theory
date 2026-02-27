@@ -2672,7 +2672,7 @@ $$G = H - TS$$
 How a system dissipates energy is tied to how it fluctuates at equilibrium. Noise and response are the same thing.
 
 **28. Landauer's Principle** — Rolf Landauer (1961)
-Information erasure has a minimum energy cost. Erasing one bit dissipates at least kT ln 2 joules of heat to the environment. Information is physical.
+Information erasure has a minimum energy cost. Erasing one bit dissipates at least k_B T ln 2 joules of heat to the environment. Information is physical.
 
 ---
 
