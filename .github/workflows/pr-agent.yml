@@ -65,18 +65,20 @@ jobs:
             const deletions   = context.payload.pull_request.deletions ?? '?';
 
             // Call GitHub Models API for AI-powered analysis
-            const response = await fetch('https://models.inference.ai.azure.com/chat/completions', {
-              method: 'POST',
-              headers: {
-                'Content-Type': 'application/json',
-                'Authorization': `Bearer ${process.env.GITHUB_TOKEN}`
-              },
-              body: JSON.stringify({
-                model: 'gpt-4o-mini',
-                messages: [
-                  {
-                    role: 'system',
-                    content: `You are a rigorous code and content review agent for the "simulation-theory" repository — a research project on simulation theory, mathematics, quantum mechanics, and philosophy. Your job is to carefully examine each pull request and provide a thorough, structured review.
+            let response;
+            try {
+              response = await fetch('https://models.inference.ai.azure.com/chat/completions', {
+                method: 'POST',
+                headers: {
+                  'Content-Type': 'application/json',
+                  'Authorization': `Bearer ${process.env.GITHUB_TOKEN}`
+                },
+                body: JSON.stringify({
+                  model: 'gpt-4o-mini',
+                  messages: [
+                    {
+                      role: 'system',
+                      content: `You are a rigorous code and content review agent for the "simulation-theory" repository — a research project on simulation theory, mathematics, quantum mechanics, and philosophy. Your job is to carefully examine each pull request and provide a thorough, structured review.
 
 For each PR produce:
 1. **Summary** — a concise one-paragraph summary of the proposed changes.
