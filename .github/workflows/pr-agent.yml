@@ -21,10 +21,20 @@ jobs:
       - name: Collect changed files
         id: changed
         run: |
+          # Ensure the base branch ref is available locally (important for fork-based PRs)
+          git fetch origin "${{ github.event.pull_request.base.ref }}" --no-tags --prune --depth=1
+
           BASE="${{ github.event.pull_request.base.sha }}"
           HEAD="${{ github.event.pull_request.head.sha }}"
-          ALL_FILES=$(git diff --name-only "$BASE" "$HEAD" 2>/dev/null)
-          TOTAL=$(echo "$ALL_FILES" | grep -c . || echo 0)
+
+          # Compute the list of changed files between base and head; fail explicitly on error
+          if ! ALL_FILES=$(git diff --name-only "$BASE" "$HEAD"); then
+            echo "Error: failed to compute git diff between $BASE and $HEAD" >&2
+            exit 1
+          fi
+
+          # Count total changed files robustly, even when there are zero files
+          TOTAL=$(printf '%s\n' "$ALL_FILES" | sed '/^$/d' | wc -l | tr -d ' ')
           FILES=$(echo "$ALL_FILES" | head -50 | tr '\n' ', ')
           if [ "$TOTAL" -gt 50 ]; then
             REMAINING=$(( TOTAL - 50 ))
