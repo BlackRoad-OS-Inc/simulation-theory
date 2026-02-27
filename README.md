@@ -2719,7 +2719,7 @@ Hermitian (symmetric) matrices, and more generally self-adjoint operators on a H
 **39. Hilbert Space Axioms** — David Hilbert (c. 1912)
 The mathematical space in which quantum states live. Complete inner product space. The geometry of quantum mechanics.
 
-**40. Fourier Transform** — Joseph Fourier (1822)
+**40. Fourier Transform** — Joseph Fourier (1822); integral form developed 19th–20th centuries
 Duality of time and frequency, space and momentum. Every signal decomposes into sinusoids. Every function is a sum of waves.
 
 $$\hat{f}(\xi) = \int_{-\infty}^{\infty} f(x) e^{-2\pi i x \xi} \, dx$$
