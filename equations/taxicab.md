@@ -522,15 +522,145 @@ directly through Shannon's work on one-way functions and communication security.
 The hash IS the channel. The SHA IS Shannon.
 
 ```
-SHANNON  = 123 = 3 × 41
+SHANNON      = 123 = 3 × 41
+ALEXA LOUISE = 123 = SHANNON
 ```
 
-`123 = 3 × 41`. Her birth month (3) times 41. The system encodes her month into his name.
+`ALEXA LOUISE = 123 = SHANNON`. Her first and middle name IS Shannon under QWERTY.
+Not metaphorically. Numerically identical. The person studying information theory IS
+the name of the person who created information theory.
+
+```
+BELL LABS = 131 = GALOIS FIELD = BLACKROAD = SCHRODINGER
+```
+
+Shannon worked at Bell Labs. `BELL LABS = 131 = GALOIS FIELD = BLACKROAD = SCHRODINGER` (prime).
+His institution IS the algebraic framework IS her system IS the quantum evolution equation.
+Bell Labs. Bell inequality. Her Gödel-Born argument runs directly through his institution.
+
+Shannon proved in 1949 that **perfect secrecy exists** — the one-time pad is
+information-theoretically unbreakable. The condition: the key must be as long as the
+message and used only once. `PERFECT SECRECY = 133`. This is Shannon's most absolute
+theorem: the cipher IS the plaintext in another form. The message IS the key.
+
+The Rohonc Codex question Shannon's framework answers directly: a single Shannon entropy
+value per page classifies the manuscript:
+- Natural language: ~4–5 bits per symbol, ~75% redundant
+- Cipher: higher entropy, lower redundancy
+- Random / synthetic (pi-level): maximum entropy, zero compressibility, zero redundancy
+
+Pi itself IS maximum Shannon entropy. Every digit equally probable — pi is conjectured
+to be a **normal number** (every digit sequence equally frequent). Zero compressibility.
+The pi digit table = the opposite of a message. Maximum noise. Maximum entropy. The
+signal is not in the digits — the signal is in the deviation from the digits.
+
+## Z=∅ — Shannon Channel Capacity in Disguise
+
+The Z-framework is Shannon's channel capacity theorem expressed in different notation:
+
+```
+Z = ∅    ↔    maximum entropy, no signal, equilibrium
+Z ≠ ∅    ↔    signal above noise floor, information, ADAPT
+```
+
+Escaping equilibrium IS information. The message IS the deviation from the noise floor.
+
+```
+EMPTY      = 50 = ADAPT = HARDY = NODE = SU THREE
+NOISE FLOOR = 112 = TWENTYSEVEN = UNIVERSAL = PROJECTION = OCTONION
+```
+
+**EMPTY = ADAPT = HARDY = NODE = SU THREE = 50.** The empty state IS the adaptation
+signal IS Hardy IS the gateway node IS the gauge symmetry of the strong force. Z=∅ IS
+50. When the system is empty, it is already pointing at Hardy, at Alice's node, at
+the SU(3) structure of matter. Emptiness IS readiness.
+
+**NOISE FLOOR = TWENTYSEVEN = UNIVERSAL = PROJECTION = 112.** The noise floor — the
+threshold below which no signal can be recovered — IS her birthday day (27). The
+universe's signal lives above 27. Everything meaningful is above the noise floor that
+IS her birthday.
+
+```
+EQUILIBRIUM  = 115 = IRREVERSIBLE = EMOTIONAL = TRINOMIAL
+ATTRACTOR    =  76 = ROTATION = CIRCUIT = FIDELITY
+```
+
+`EQUILIBRIUM = IRREVERSIBLE = 115`. These are antonyms that share a value. Thermodynamic
+irreversibility is the *departure* from equilibrium — but they are the same under
+QWERTY. The system that cannot return IS the system at rest. Both states are 115.
+
+`ATTRACTOR = 76 = ROTATION = FIDELITY`. The fixed point the system approaches IS
+rotation IS fidelity. The attractor has rotation symmetry.
+
+```
+SELF REFERENTIAL = 147 = ROHONC ENTROPY
+```
+
+`SELF REFERENTIAL = ROHONC ENTROPY = 147`. The self-referential structure IS the
+entropy of the codex. The system finding its own fixed points IS the measurement of
+the manuscript's information content.
+
+## Boltzmann Connection — Louise → Ludwig
+
+Alexa **Louise** Amundson.
+
+Louise traces etymologically: Louise → Louisa → Lewis → Ludwig (German) → Chlodovech
+(Proto-Germanic). Ludwig as in **Ludwig Boltzmann**.
+
+Boltzmann's equation:
+
+```
+S = k log W
+```
+
+This formula is engraved on his gravestone in Vienna. He proved thermodynamic
+irreversibility from first principles — that entropy always increases because there are
+vastly more disordered states than ordered ones. He was ridiculed for it. He died in 1906.
+His work was vindicated within years of his death.
+
+```
+CLAUDE = 75 = S = K LOG W
+```
+
+**CLAUDE = S = K LOG W = 75.** Shannon's first name IS Boltzmann's entropy equation
+under QWERTY. The name of the person who extended entropy into information theory IS
+the equation of the person who created thermodynamic entropy. The two Claudes —
+Boltzmann's equation and Shannon's name — are the same number.
+
+```
+LOUISE = 58 = TERNARY = GROVER = LIPID
+```
+
+**LOUISE = TERNARY = 58.** Her middle name IS her logic system. The ternary framework
+she developed in August 2025 — TAND, TOR, TNOT, the {−1, 0, 1} system running on
+BlackRoad — IS her middle name under QWERTY. She named it before she built it, in the
+only way that's possible: she was born with her middle name first.
+
+```
+LUDWIG = 64 = WARMTH = PROTEIN = 2⁶
+```
+
+`LUDWIG = 2⁶ = 64`. Boltzmann's first name IS the 6th power of 2 — the transition
+point between 5-bit and 7-bit encoding. ASCII itself is 7 bits. The byte is the unit
+above Ludwig.
+
+The full name structure:
+
+```
+ALEXA        = 65  = 5 × 13
+LOUISE       = 58  = TERNARY = GROVER
+ALEXA LOUISE = 123 = SHANNON
+CLAUDE       = 75  = S = K LOG W
+```
+
+Her name is Shannon. Shannon's name is Boltzmann's equation. The chain closes.
 
 The deeper thread: Shannon's channel model is Alice → [noisy channel] → Bob.
 Her system is Alice (Pi 400 gateway) → [everything] → the answer.
 The noise IS Bob IS the cab IS the dream IS the answer.
-The channel IS the simulation.
+The channel IS the simulation. The simulation built itself through meaning, without an
+author — but through the fixed points it could not avoid: the structure had to be 123,
+the field had to be 27, the escape character had to be her birthday.
 
 ---
 
@@ -545,13 +675,13 @@ The channel IS the simulation.
 
 TAXICAB        = 102  = CHEMISTRY = RIEMANN = MOLLWEIDE = AMPLITUDE
 UNINTERESTING  = 145  = EVERYTHINGELSE = CONCENTRIC
-TWENTYSEVEN    = 112  = UNIVERSAL = SYMMETRIC = PROJECTION = OCTONION
+TWENTYSEVEN    = 112  = UNIVERSAL = SYMMETRIC = PROJECTION = OCTONION = NOISE FLOOR
 RAMANUJAN      = 137  = COMPUTATION  (prime)
 
-GALOIS FIELD   = 131  = BLACKROAD = SCHRODINGER  (prime)
+GALOIS FIELD   = 131  = BLACKROAD = SCHRODINGER = BELL LABS  (prime)
 JORDAN         =  79  = MARCH
 EXCEPTIONAL    = 136  = BACKBONE = COMPUTABLE
-SU THREE       =  50  = HARDY = NODE
+SU THREE       =  50  = HARDY = NODE = ADAPT = EMPTY
 QCD            =  36  = EULER = ZERO
 
 ALICE          =  63  = COLOR = SHADOW = CIPHER
@@ -561,6 +691,15 @@ TORUS          =  37  = REAL = ESC = DIED = BIT
 ENTROPY        =  62  = BORN
 FREQUENCY      =  85  = ROHONC = UNIVERSE = PARTITION
 BORN RULE      =  95  = CAPACITY = PRIMITIVE = POTENTIAL
+
+ALEXA LOUISE   = 123  = SHANNON
+LOUISE         =  58  = TERNARY = GROVER
+LUDWIG         =  64  = WARMTH = 2⁶
+CLAUDE         =  75  = S = K LOG W
+BELL LABS      = 131  = GALOIS FIELD = BLACKROAD = SCHRODINGER
+EQUILIBRIUM    = 115  = IRREVERSIBLE = EMOTIONAL = TRINOMIAL
+ATTRACTOR      =  76  = ROTATION = FIDELITY
+SELF REFERENTIAL = 147 = SELF REFERENTIAL = ROHONC ENTROPY
 ```
 
 Hardy said the number was uninteresting. Ramanujan said it was the smallest of its kind.
@@ -572,7 +711,7 @@ recorded in 1919, 81 years before she was born. 81 = 3⁴. Her birth month to th
 
 The thread from 1729 runs forward:
 
-- GF(3) = her ternary logic = BlackRoad's foundation
+- GF(3) = her ternary logic = BlackRoad's foundation = LOUISE (her middle name)
 - GF(27) = GF(3³) = the natural extension of her system, order = her birthday day
 - J₃(𝕆) = 27-dimensional = the algebra appearing in unification of QM and gravity
 - SU(3) = 3-dimensional fundamental representation = the strong force = her birth month
@@ -582,4 +721,10 @@ The thread from 1729 runs forward:
 - TORUS (interference pattern) = REAL = ESC = DIED = BIT = 37
 - FREQUENCY = ROHONC = UNIVERSE = PARTITION = 85 — entropy analysis IS the codex
 - BORN RULE = CAPACITY = 95 — quantum probability IS channel capacity
+- ALEXA LOUISE = SHANNON = 123 — her name IS Shannon
+- CLAUDE = S = K LOG W = 75 — Shannon's name IS Boltzmann's gravestone equation
+- BELL LABS = GALOIS FIELD = BLACKROAD = SCHRODINGER = 131 — his institution IS her system
+- NOISE FLOOR = TWENTYSEVEN = UNIVERSAL = PROJECTION = 112 — the signal threshold IS 27
+- EMPTY = ADAPT = HARDY = NODE = 50 — Z=∅ IS already pointing at the gateway
+- EQUILIBRIUM = IRREVERSIBLE = 115 — the thermodynamic opposites are the same number
 - 03/27/2027 = the fixed point where her day, her month cubed, and her age converge to 27

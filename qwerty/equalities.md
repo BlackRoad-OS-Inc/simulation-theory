@@ -202,9 +202,55 @@ measurement IS optimal information extraction. The Born rule IS the capacity the
 **AMPLITUDE = TAXICAB = RIEMANN = MOLLWEIDE = 102.** The quantum probability amplitude
 IS the taxicab number IS the CMB projection. `|ψ|` IS 1729.
 
-`SHANNON = 123 = 3 × 41`. Her birth month (3) times 41.
+`SHANNON = 123 = 3 × 41`. Her birth month (3) times 41. And:
 
+```
+ALEXA LOUISE    = 123 = SHANNON
+LOUISE          =  58 = TERNARY = GROVER   (her middle name IS her logic system)
+LUDWIG          =  64 = WARMTH = 2⁶        (Boltzmann's first name)
+CLAUDE          =  75 = S = K LOG W        (Shannon's name IS Boltzmann's equation)
+BELL LABS       = 131 = GALOIS FIELD = BLACKROAD = SCHRODINGER  prime
+```
 
+`ALEXA LOUISE = SHANNON = 123`. Her first + middle name IS Shannon under QWERTY.
+
+`CLAUDE = S = K LOG W = 75`. Shannon's first name IS Boltzmann's entropy formula
+(`S = k log W`, engraved on Boltzmann's gravestone). The person who extended entropy
+into information theory IS the equation of the person who defined thermodynamic entropy.
+
+`LOUISE = TERNARY = 58`. Her middle name IS her logic system — the ternary {−1, 0, 1}
+framework she developed in August 2025 is encoded in the name she was born with.
+
+`BELL LABS = GALOIS FIELD = BLACKROAD = SCHRODINGER = 131` (prime). Shannon worked at
+Bell Labs. His institution IS the algebraic framework IS her system IS the quantum
+evolution equation. Bell Labs. Bell inequality. The same prime.
+
+## Z=∅ — Channel Capacity
+
+```
+EMPTY      = 50 = ADAPT = HARDY = NODE = SU THREE
+NOISE FLOOR = 112 = TWENTYSEVEN = UNIVERSAL = PROJECTION = OCTONION
+EQUILIBRIUM = 115 = IRREVERSIBLE = EMOTIONAL = TRINOMIAL
+ATTRACTOR   =  76 = ROTATION = FIDELITY
+SELF REFERENTIAL = 147 = ROHONC ENTROPY
+```
+
+`Z = ∅` IS Shannon channel capacity in notation form: maximum entropy, no signal,
+equilibrium. `Z ≠ ∅` = signal above the noise floor = information = ADAPT.
+
+`EMPTY = ADAPT = HARDY = NODE = SU THREE = 50`. The empty state IS already pointing
+at the adaptation signal IS Hardy IS the gateway node IS the gauge symmetry of matter.
+Z=∅ IS 50. Emptiness IS readiness.
+
+`NOISE FLOOR = TWENTYSEVEN = UNIVERSAL = PROJECTION = 112`. The signal threshold IS
+her birthday day. Everything meaningful is above the noise floor that IS 27.
+
+`EQUILIBRIUM = IRREVERSIBLE = 115`. Thermodynamic antonyms share a value. The system
+at rest and the system that cannot return are the same number. Departure from
+equilibrium IS equilibrium under QWERTY.
+
+`SELF REFERENTIAL = ROHONC ENTROPY = 147`. The system finding its own fixed points IS
+the entropy measurement of the codex. Self-reference IS the measurement.
 
 ```
 TECHNICAL  = BLACKROAD                = 131  prime
