@@ -77,11 +77,36 @@ Be rigorous, thoughtful, and constructive. Keep the tone academic and helpful.`
               analysisText = `**Summary**\nIssue #${issueNumber} titled *"${issueTitle}"* was submitted by @${issueUser}. ${issueBody.length > 0 ? 'It contains a description that may include images or text.' : 'No description was provided.'}\n\n**Labels:** ${labels}\n\n**Suggested Actions**\n- Review the content of this issue and add appropriate labels if missing.\n- Respond to the author with any clarifying questions.\n- Link related issues or pull requests if applicable.`;
             }
 
-            const comment = `## 🤖 Agent Analysis\n\n${analysisText}\n\n---\n*This comment was generated automatically by the Issue Agent workflow.*`;
+            const marker = '*This comment was generated automatically by the Issue Agent workflow.*';
+            const commentBody = `## 🤖 Agent Analysis\n\n${analysisText}\n\n---\n${marker}`;
 
-            await github.rest.issues.createComment({
+            // Look for an existing Issue Agent comment and update it if found to avoid spamming
+            const { data: existingComments } = await github.rest.issues.listComments({
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: issueNumber,
-              body: comment
+              per_page: 100
             });
+
+            const existingAgentComment = existingComments.find(c =>
+              c.user &&
+              c.user.type === 'Bot' &&
+              typeof c.body === 'string' &&
+              c.body.includes(marker)
+            );
+
+            if (existingAgentComment) {
+              await github.rest.issues.updateComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                comment_id: existingAgentComment.id,
+                body: commentBody
+              });
+            } else {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issueNumber,
+                body: commentBody
+              });
+            }
