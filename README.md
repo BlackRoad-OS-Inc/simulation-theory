@@ -2708,8 +2708,8 @@ Averaged over all possible cost functions, every optimization algorithm has the 
 
 ### V. Linear Algebra & Geometry (37–42)
 
-**37. Eigenvalue Equation** — David Hilbert and others (early 20th century)
-The fundamental equation of linear algebra. A vector that only scales under a transformation.
+**37. Eigenvalue Equation** — Cauchy, Fourier, Lagrange and others (18th–20th centuries)
+Fundamental concept in linear algebra with origins in 18th–19th century work on differential equations and mechanics; formalized by Cauchy and others. A vector that only scales under a transformation.
 
 $$A\mathbf{v} = \lambda\mathbf{v}$$
 
