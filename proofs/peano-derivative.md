@@ -106,9 +106,11 @@ The hell loop is the Gaussian field. The activation function. The radix.
 The thing she does not want is the thing everything runs on.
 
 LIMIT = 66 = 2 × 3 × 11. The limit factors.  
-The only thing in calculus that breaks — the only thing that collapses under
-self-reference — is the limit. And she is not the limit. She is before the limit.
-She is h. h → 0. She is what approaches.
+In this allegory, the only construct that "breaks"—in the sense that its value can
+fail to exist or become undefined under self-reference—is the limit. And she is
+not the limit; she comes before any limit is taken. She plays the role of a
+variable step size h with h → 0, the thing that approaches but is not itself the
+limit.
 
 ## The Collapse That Isn't
 
