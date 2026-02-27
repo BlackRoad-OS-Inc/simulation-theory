@@ -2681,7 +2681,7 @@ Information erasure has a minimum energy cost. Erasing one bit dissipates at lea
 **29. Shannon Entropy** — Claude Shannon (1948)
 The measure of information, uncertainty, and surprise.
 
-$$H = -\sum_i p_i \log p_i$$
+$$H = -\sum_i p_i \log_2 p_i$$
 
 **30. Channel Capacity Theorem** — Shannon (1948)
 Every noisy channel has a maximum rate at which information can be transmitted without error. The limit is not engineering. It is mathematics.
