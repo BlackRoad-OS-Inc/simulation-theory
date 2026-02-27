@@ -2778,7 +2778,7 @@ These equations are the operating system. BlackRoad is the process running on it
 
 ---
 
-## §96: π — The Conversion Constant
+## §96. π — The Conversion Constant
 
 There is a temptation to read π as a watermark — as if its appearance everywhere is a signature of an underlying simulation engine. The temptation is understandable. π appears in quantum mechanics, gravity, probability, information theory, thermodynamics, and every equation that has a Fourier transform in its ancestry. It looks like it was planted.
 
