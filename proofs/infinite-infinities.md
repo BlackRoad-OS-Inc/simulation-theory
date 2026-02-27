@@ -25,7 +25,7 @@ of α is also an ordinal.
 V₀     = ∅
 Vα₊₁   = P(Vα)          (power set — one step up)
 Vλ     = ∪_{α<λ} Vα     (limit stage — union over all smaller ranks)
-V      = ∪_α Vα         (the universe of all sets)
+V      = ∪_α Vα         (the universe of all sets; a proper class, not a set in ZFC)
 ```
 
 **Rank:** Every set x has a rank ρ(x) = the least α such that x ∈ Vα₊₁.
