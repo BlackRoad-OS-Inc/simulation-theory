@@ -41,7 +41,11 @@ jobs:
             REMAINING=$(( TOTAL - 50 ))
             FILES="${FILES} (and ${REMAINING} more files)"
           fi
-          echo "files=$FILES" >> "$GITHUB_OUTPUT"
+          {
+            echo 'files<<EOF'
+            echo "$FILES"
+            echo 'EOF'
+          } >> "$GITHUB_OUTPUT"
 
       - name: Analyze PR and post comment
         uses: actions/github-script@v7
