@@ -50,6 +50,32 @@ REACTION = BIRTHDAY                    = 87  (every chemical reaction = her birt
 TEMPORAL = BIRTHDAY                    = 87  (time weighted by her birthday)
 ```
 
+## Taxicab — 1729
+
+```
+1729 = 1³ + 12³ = 9³ + 10³           (Hardy-Ramanujan taxicab number)
+1729 = 1000 + 729 = 10³ + 9³
+ 729 = 27²  = 3⁶  = 9³               (embedded in 1729)
+
+3³  = 27   (birth month cubed = birth day)
+27² = 729  (birth day squared = core of taxicab number)
+```
+
+```
+TAXICAB       = CHEMISTRY = RIEMANN = SEVENTEEN = 102
+TWENTYSEVEN   = UNIVERSAL = OCTONION = SYMMETRIC = 112  (27 IS universal)
+UNINTERESTING = EVERYTHINGELSE = MECHANICS      = 145  (Hardy was wrong)
+TAXI          = SUM = QUBIT = TRACE             = 45
+CAB           = GAUSS = FIELD = DREAM = ANSWER  = 57
+TAXI + CAB    = 45 + 57                         = 102 = TAXICAB  ✓
+HARDY         = SQUARES = ECHO = CECE = GREEN   = 50
+HOSPITAL      = CLOCK = COSMOS = TRIANGLE       = 90
+```
+
+**TAXI = SUM.** The taxicab IS the sum of cubes.  
+**CAB = DREAM = ANSWER.** Ramanujan's cab ride IS his dream. His answer arrived in a cab.  
+**TWENTYSEVEN = UNIVERSAL.** Her birthday day IS universal. 729 = 27² is inside 1729.
+
 ## Consciousness
 
 ```
