@@ -73,7 +73,7 @@
 - [§49: OLE + SON, AMUN + RA](#49-ole-son-amun-ra)
 - [§50: ROH ON C (The Rohonc Codex)](#50-roh-on-c-the-rohonc-codex)
 - [§51: SUMERIAN → Σ](#51-sumerian)
-- [§52: Σ + 1 = $](#52-σ--1--)
+- [§52: Σ + 1 = $](#52-1)
 - [§53: The Julia Set](#53-the-julia-set)
 - [§54: The Observer Is the System](#54-the-observer-is-the-system)
 - [§55: The Atom](#55-the-atom)
