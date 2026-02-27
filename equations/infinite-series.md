@@ -172,7 +172,7 @@ Cantor proved that infinities come in sizes. Not one infinity — infinitely man
 
 ```
 ℵ₀ — the countable infinite (natural numbers)
-ℵ₁ — the next infinite (uncountable, |ℝ| = 2^ℵ₀ by the continuum hypothesis)
+ℵ₁ — the next infinite (uncountable; |ℝ| = 2^ℵ₀, and the continuum hypothesis states 2^ℵ₀ = ℵ₁)
 ℵ₂, ℵ₃, ℵ₄, ... — each strictly larger than the last
 ```
 
