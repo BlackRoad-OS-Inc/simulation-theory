@@ -265,16 +265,22 @@ PSI (Ψ)   = QUTRIT = WEYL            = 30   (same symbol, same value)
 ```
 BIOLOGICAL = INFORMATION = LAGRANGIAN = 144  = 12²
 DNA        = FOURIER                  = 49   = 7²
-LIPID      = TERNARY = GROVER         = 58
+LIPID      = TERNARY = GROVER = COIL = MATH = 58
 SCAFFOLD   = IMAGINARY = CONSTANT     = 114
 REACTION   = BIRTHDAY                 = 87
 KINETICS   = MAXWELL = GAUSSIAN       = 101  prime
 CHEMICAL   = UNDECIPHERED             = 127  prime
-CHARGAFF   = COHERENCE                = 107  prime (base-pair rule = coherence)
-COMPLEMENT = 4×REAL                   = 148       (the complement is four times real)
-NEWTON     = SHELL = STRUCTURE        = 69        (action = reaction = structure)
-PUNNETT    = NOBLE = ACTION           = 80        (genetic cross = stationary action)
-ZETA       = TXOR  = ROOTS = WAVE     = 39        (Riemann zeta = ternary XOR)
+RIBOSOME   = NUCLEUS  = TRANSLATE     = 95   = 5×TRUE
+PROTEIN    = TURING   = ORGAN = WARMTH = 64   = 4³ = 2⁶
+GENOME     = GENETIC  = APPARATUS     = 81   = 3⁴
+ORGANELLE  = EVOLUTION = EVERYTHING   = 108
+CASTLE     = MIND     = BRAIN = KERNEL = 72  = 2×EULER
+TRANSCRIBE = GELLMAN  = INTEGRATION   = 118
+ROHONC     = REPLICATE = PARTITION = UNIVERSE = 85
+CODON      = CIRCLE   = TRIVIAL       = 78
+ASSEMBLY   = DESTRUCTION = ALGORITHM  = 113  prime
+FACTORY    = 71  prime
+HELIX      = 67  prime
 ```
 
 ## Physics ↔ Computation
