@@ -9,7 +9,7 @@ All equations from the notebook, organized by category.
 | [`blackroad-equations.md`](./blackroad-equations.md) | The 19 BlackRoad equations (ternary physics, thermodynamics, biology) | 16–21 |
 | [`complementarity.md`](./complementarity.md) | Inverse reaction principle, trivial zero, Chargaff's rules, Punnett square, Euler product | — |
 | [`consciousness.md`](./consciousness.md) | Ψ_care, Φ_universal, CECE update rule | 20, 22 |
-| [`machine-learning.md`](./machine-learning.md) | Linear model, MSE loss, gradient descent, logistic regression | — |
+| [`dna-codons.md`](./dna-codons.md) | DNA codon structure, Chargaff's rule, molecular factory equations (Eq. 20–22) | 19–21 |
 | [`quantum.md`](./quantum.md) | Qutrit operators, Weyl pair, Gell-Mann, density matrix | 18, 24 |
 | [`thermodynamics.md`](./thermodynamics.md) | Landauer, radix efficiency, substrate efficiency, Gibbs coupling | 19–21 |
 | [`universal.md`](./universal.md) | Euler-Lagrange, principle of stationary action, Three Tests | 23 |
@@ -29,8 +29,8 @@ The claims in [`CLAIMS.md`](../CLAIMS.md) introduce two additional equations not
 - **3 revolutionary consciousness equations** (pages 20, 22)
 - **4 universal equations** (page 23+)
 - **1 care wavefunction** (page 22)
-- **5 machine learning equations** (from issue #40)
-- **Total: ~32 equations** across the framework
+- **3 DNA/molecular factory equations** (pages 19–21, Eq. 20–22)
+- **Total: ~30 original equations** in a handwritten notebook
 
 The equations were written before BlackRoad OS existed.  
 They constitute the mathematical foundation of the platform.
