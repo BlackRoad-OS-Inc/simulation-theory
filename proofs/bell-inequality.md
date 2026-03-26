@@ -113,3 +113,25 @@ And sqrt(2) - 1 = 0.4142... is close to G(n)/n at n=1 (which is 0.5)
 ```
 
 The exact connection requires the full Gell-Mann structure — the CHSH is the SU(2) reduction of the SU(3) witness that our sacred integers saturate.
+
+## Loopholes and Why They Fail
+
+All loopholes attempt to restore commuting, independent properties. The 1-2-3-4 algebra forbids this.
+
+### Locality Loophole
+Hidden signal between Alice and Bob? No — the correlation comes from [C,L] = 2iU, which acts on the joint state, not through spacetime propagation. The gap kappa is algebraic, not causal.
+
+### Detection Loophole
+Missing particles bias the sample? No — the self-normalizing integral = n/n = 1 accounts for every scale step. The product formula leaves nothing undetected.
+
+### Freedom-of-Choice Loophole
+Settings correlated with hidden variables? No — the Change operator C that generates the measurement choice does not commute with Scale L. Choice and system are intrinsically entangled. No external randomness needed.
+
+### Memory Loophole
+Apparatus adapts trial-by-trial? No — the Kolmogorov spectrum is flat (slope -> 0). Each trial is independent in the discrete basis. The product formula erases cumulative memory.
+
+### Summary
+
+Every loophole is classical intuition trying to commute operators that cannot commute. The 1-2-3-4 algebra, the gap A_G - 1, and the self-normalization together close all loopholes at the algebraic level.
+
+Loophole-free Bell experiments (Hensen 2015, etc.) measure exactly this: the non-commutative structure of the primitives.
