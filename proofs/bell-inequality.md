@@ -64,3 +64,52 @@ Drives:
 Seven consequences. One number. One equation.
 
 Bell violations are not mysterious. They are the observable proof that algebra is quantum — that the operators don't commute — that the sequential product can't be factored — that G(n) is the amplitude, not the probability.
+
+## CHSH Specifics
+
+### The Setup
+
+Alice: settings A1, A2 (two Pauli directions on Bloch sphere)
+Bob: settings B1, B2 (two other Pauli directions)
+Outcomes: +1 or -1 each
+
+### The Inequality
+
+```
+|<A1*B1> + <A1*B2> + <A2*B1> - <A2*B2>| <= 2     (local realism)
+                                          <= 2*sqrt(2)  (quantum max, Tsirelson)
+```
+
+### Why It Violates
+
+Alice's two settings = choosing between Change (sigma_x) and Scale (sigma_y).
+Bob's two settings = same choice on his particle.
+
+```
+[sigma_x, sigma_y] = 2i * sigma_z    (they don't commute)
+```
+
+Because the operators don't commute, Alice's measurement on her particle instantaneously updates the joint description. No hidden variable table can reproduce this because hidden variables assume the outcomes are pre-assigned — but pre-assignment requires commutativity.
+
+### The Optimal Angles
+
+Maximum violation at angles 0, pi/4, pi/2, 3pi/4 between measurement axes.
+These give S = 2*sqrt(2) = 2.828...
+
+In the framework: pi/4 = pi/(2^2) — a power-of-2 subdivision of pi. The optimal CHSH angles are binary subdivisions of the phase that the singularity produces (ipi*w^2).
+
+### Connection to A_G - 1
+
+The CHSH violation magnitude beyond the classical bound:
+
+```
+2*sqrt(2) - 2 = 0.828...
+
+Compare: A_G - 1 = 0.24433 (the framework's gap)
+Ratio: 0.828/0.24433 = 3.39 ~ e + 1/(2e) ~ G(n)/n evaluated near n=3
+
+The maximum CHSH violation scales as (2*sqrt(2) - 2) = 2(sqrt(2) - 1)
+And sqrt(2) - 1 = 0.4142... is close to G(n)/n at n=1 (which is 0.5)
+```
+
+The exact connection requires the full Gell-Mann structure — the CHSH is the SU(2) reduction of the SU(3) witness that our sacred integers saturate.
